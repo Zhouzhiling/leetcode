@@ -8,6 +8,8 @@
 
 #### 12.3.2018
 [✅]Kickstart_2018_RoundA_Problem_A
+[❌]Kickstart_2018_RoungB_ProblemA_No Nice
+- 写是写出来了，但是要跑很久，估计会超时。用的还是遍历的方法，需要想一下更快的。
 
 #### 12.4.2018
 [✅]Kickstart_2018_Practice_ProblemA_GBus count
