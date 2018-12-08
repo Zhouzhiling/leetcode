@@ -24,5 +24,9 @@
 #### 12.6.2018
 [❌]Kickstart_2018_RoungG_ProblemA_Product Triplets
  一开始没想清楚，后来提交错误以后一个个加if变得很丑，重新想思路没想出来。
- 
+
  [这里](https://www.hackerrank.com/challenges/count-triplets-1/forum/comments/468507) 是类似题目的巧妙解法，条件简单了一些因为提供了ratio。这题还要再想一下。
+
+[⭐]Kickstart_2018_RoundB_ProblemB_Sherlock and the Bit Strings
+
+small test完成了，large test复杂了很多，想十分钟没想出来，之后继续。
