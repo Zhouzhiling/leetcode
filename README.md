@@ -43,3 +43,28 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 
 [✅] 13. Roman to Integer
 
+
+
+#### 12.8.2018
+
+[[✅] 13. Roman to Integer.md](https://github.com/Zhouzhiling/kickstart/blob/master/13.%20Roman%20to%20Integer.md)
+
+[[⭐] 6. ZigZag Conversion.md](https://github.com/Zhouzhiling/kickstart/blob/master/6.%20ZigZag%20Conversion.md)
+
+[[✅] 7. Reverse Integer.md](https://github.com/Zhouzhiling/kickstart/blob/master/7.%20Reverse%20Integer.md)
+
+#### 12.10.2018
+
+[[⭐] 1. Two Sums.md](https://github.com/Zhouzhiling/kickstart/blob/master/1.%20Two%20Sums.md)
+
+- 看了自己以前的答案，太机智了！
+
+[[✅] 2. Add Two Numbers.md](https://github.com/Zhouzhiling/kickstart/blob/master/2.%20Add%20Two%20Numbers.md)
+
+- 要多熟悉一下链表的用法
+
+[[✅] 3. Longest Substring Without Repeating Characters.md](https://github.com/Zhouzhiling/kickstart/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+
+[⭐][4. Median of Two Sorted Arrays.md](https://github.com/Zhouzhiling/kickstart/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+
+- 果然是hard型的题目，好好想下噢！
