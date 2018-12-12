@@ -9,6 +9,7 @@
 #### 12.3.2018
 [✅]Kickstart_2018_RoundA_Problem_A
 [❌]Kickstart_2018_RoungB_ProblemA_No Nice
+
 - 写是写出来了，但是要跑很久，估计会超时。用的还是遍历的方法，需要想一下更快的。
 
 #### 12.4.2018
@@ -59,12 +60,34 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 
 - 看了自己以前的答案，太机智了！
 
+
+
 [[✅] 2. Add Two Numbers.md](https://github.com/Zhouzhiling/kickstart/blob/master/2.%20Add%20Two%20Numbers.md)
 
 - 要多熟悉一下链表的用法
 
+
+
 [[✅] 3. Longest Substring Without Repeating Characters.md](https://github.com/Zhouzhiling/kickstart/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
-[⭐][4. Median of Two Sorted Arrays.md](https://github.com/Zhouzhiling/kickstart/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+
+
+[⭐]. [4. Median of Two Sorted Arrays.md](https://github.com/Zhouzhiling/kickstart/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 - 果然是hard型的题目，好好想下噢！
+
+#### 12.11.2018
+
+
+
+[✅]19. Remove Nth Node From End of List.md
+
+
+
+[✅]24. Swap Nodes in Pairs.md
+
+
+
+[⭐]25. Reverse Nodes in k-Group.md
+
+- 写出来了但是写了半小时，不够熟练。
