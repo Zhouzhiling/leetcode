@@ -91,3 +91,21 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 [⭐]25. Reverse Nodes in k-Group.md
 
 - 写出来了但是写了半小时，不够熟练。
+
+
+
+#### 12.12.2018
+
+[✅] 30. Substring with Concatenation of All Words
+
+
+
+[✅] 29. Divide Two Integers
+
+
+
+[✅] 31. Next Permutation
+
+
+
+[✅] 26. Remove Duplicates from Sorted Array 
