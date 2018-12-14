@@ -109,3 +109,22 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 
 
 [✅] 26. Remove Duplicates from Sorted Array 
+
+
+
+#### 12.13.2018
+
+[⭐] 32. Longest Valid Parentheses.md
+
+- 自己没写出来，超机智的方法！！
+
+[✅] 33. Search in Rotated Sorted Array
+
+
+
+[✅] 34. Find First and Last Position of Element in Sorted Array
+
+
+
+[✅] 35. Search Insert Position
+
