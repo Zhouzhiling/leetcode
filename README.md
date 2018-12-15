@@ -153,3 +153,19 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 
 
 [✅] 43. Multiply Strings
+
+
+
+# 12.15.2018
+
+[✅] 46. Permutations
+
+[✅] 47. Permutations II
+
+[⭐] 48. Rotate Image
+
+[⭐] 49. Group Anagrams
+
+- 自己写出来啦，但是看到的方法超简单，四行完成！学会用tuple！
+
+[✅] 
