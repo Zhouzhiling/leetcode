@@ -183,3 +183,19 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 [✅] 14. Longest Common Prefix
 
 [✅] 9. Palindrome Number
+
+[⭐] 54. Spiral Matrix
+
+- debug了很久，想清楚边界条件再写。
+
+[⭐] 45. Jump Game II
+
+- 自己写的递归超时了orz。 **跪拜的巧妙解法!!!**
+
+[✅] 55. Jump Game
+
+- 同上解法。
+
+[✅] 56. Merge Intervals
+
+- 不难，学到了自定义规则来sort的写法。
