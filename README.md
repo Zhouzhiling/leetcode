@@ -168,4 +168,18 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 
 - 自己写出来啦，但是看到的方法超简单，四行完成！学会用tuple！
 
-[✅] 
+[✅] 50. Pow(x, n)
+
+[✅] 21. Merge Two Sorted Lists
+
+[✅] 20. Valid Parentheses
+
+[⭐] 15. 3Sum
+
+[✅] 16. 3Sum Closest
+
+[✅] 18. 4Sum
+
+[✅] 14. Longest Common Prefix
+
+[✅] 9. Palindrome Number
