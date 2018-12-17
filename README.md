@@ -199,3 +199,14 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 [✅] 56. Merge Intervals
 
 - 不难，学到了自定义规则来sort的写法。
+
+# 12.17.2018 
+
+[✅] 59. Spiral Matrix II
+
+[✅] 61. Rotate List
+
+[✅] 62. Unique Paths
+
+[✅] 63. Unique Paths II
+
