@@ -210,3 +210,20 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 
 [✅] 63. Unique Paths II
 
+[✅] 64. Minimum Path Sum
+
+[⭐] 68. Text Justification
+
+- 写了半天
+
+[✅] 69. Sqrt(x)
+
+[✅] 70. Climbing Stairs
+
+[✅] 71. Simplify Path
+
+[✅] 73. Set Matrix Zeroes
+
+[✅] 74. Search a 2D Matrix
+
+- 多种情况的二分查找要多练练
