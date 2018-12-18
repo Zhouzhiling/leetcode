@@ -227,3 +227,15 @@ small test完成了，large test复杂了很多，想十分钟没想出来，之
 [✅] 74. Search a 2D Matrix
 
 - 多种情况的二分查找要多练练
+
+# 12.18.2018 
+
+[⭐] 77. Combinations
+
+[⭐] 75. Sort Colors
+
+- 初始想法是对的，但是没想那么深入。
+
+[⭐⭐] 76. Minimum Window Substring
+
+- 寻找substring的template，好好学一下！
