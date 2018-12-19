@@ -247,3 +247,7 @@
 - 用上述template成功完成！
 
 [⭐] 5. Longest Palindromic Substring
+
+# 12.19.2018
+
+[✅] 80. Remove Duplicates from Sorted Array II
