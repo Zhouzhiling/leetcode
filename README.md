@@ -241,3 +241,9 @@
 [⭐⭐] 76. Minimum Window Substring
 
 - 寻找substring的template，好好学一下！
+
+[✅] 53. Maximum Subarray
+
+- 用上述template成功完成！
+
+[⭐] 5. Longest Palindromic Substring
