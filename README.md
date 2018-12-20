@@ -251,3 +251,7 @@
 # 12.19.2018
 
 [✅] 80. Remove Duplicates from Sorted Array II
+
+[✅] 82. Remove Duplicates from Sorted List II
+
+[✅] 83. Remove Duplicates from Sorted List
