@@ -255,3 +255,21 @@
 [✅] 82. Remove Duplicates from Sorted List II
 
 [✅] 83. Remove Duplicates from Sorted List
+
+
+
+# 12.20.2018
+
+[✅] 86. Partition List
+
+
+
+# 12.21.2018
+
+[✅] 88. Merge Sorted Array
+
+[⭐] 89. Gray Code
+
+[✅] 78. Subsets
+
+[✅] 90. Subsets II
