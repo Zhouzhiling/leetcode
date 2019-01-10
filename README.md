@@ -80,15 +80,15 @@
 
 
 
-[✅]19. Remove Nth Node From End of List.md
+[[✅]19. Remove Nth Node From End of List.md](https://github.com/Zhouzhiling/kickstart/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 
 
 
-[✅]24. Swap Nodes in Pairs.md
+[[✅]24. Swap Nodes in Pairs.md](https://github.com/Zhouzhiling/kickstart/blob/master/24.%20Swap%20Nodes%20in%20Pairs.md)
 
 
 
-[⭐]25. Reverse Nodes in k-Group.md
+[[⭐]25. Reverse Nodes in k-Group.md](https://github.com/Zhouzhiling/kickstart/blob/master/25.%20Reverse%20Nodes%20in%20k-Group.md)
 
 - 写出来了但是写了半小时，不够熟练。
 
@@ -96,183 +96,179 @@
 
 # 12.12.2018
 
-[✅] 30. Substring with Concatenation of All Words
+[[✅] 30. Substring with Concatenation of All Words](https://github.com/Zhouzhiling/kickstart/blob/master/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
 
 
 
-[✅] 29. Divide Two Integers
+[[✅] 29. Divide Two Integers](https://github.com/Zhouzhiling/kickstart/blob/master/29.%20Divide%20Two%20Integers.md)
 
 
 
-[✅] 31. Next Permutation
+[[✅] 31. Next Permutation](https://github.com/Zhouzhiling/kickstart/blob/master/31.%20Next%20Permutation.md)
 
 
 
-[✅] 26. Remove Duplicates from Sorted Array 
+[[✅] 26. Remove Duplicates from Sorted Array ](https://github.com/Zhouzhiling/kickstart/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
 
 
 # 12.13.2018
 
-[⭐] 32. Longest Valid Parentheses.md
+[[⭐] 32. Longest Valid Parentheses.md](https://github.com/Zhouzhiling/kickstart/blob/master/32.%20Longest%20Valid%20Parentheses.md)
 
 - 自己没写出来，超机智的方法！！
 
-[✅] 33. Search in Rotated Sorted Array
+[[✅] 33. Search in Rotated Sorted Array](https://github.com/Zhouzhiling/kickstart/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 
 
 
-[✅] 34. Find First and Last Position of Element in Sorted Array
+[[✅] 34. Find First and Last Position of Element in Sorted Array](https://github.com/Zhouzhiling/kickstart/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 
 
 
-[✅] 35. Search Insert Position
+[[✅] 35. Search Insert Position](https://github.com/Zhouzhiling/kickstart/blob/master/35.%20Search%20Insert%20Position.md)
 
 # 12.14.2018
 
-[⭐]39. Combination Sum
+[[⭐]39. Combination Sum](https://github.com/Zhouzhiling/kickstart/blob/master/39.%20Combination%20Sum.md)
 
 - 看了答案w
 
-[✅] 36. Valid Sudoku
+[[✅] 36. Valid Sudoku](https://github.com/Zhouzhiling/kickstart/blob/master/36.%20Valid%20Sudoku.md)
 
 
 
-[✅] 39. Combination Sum
+[[✅] 40. Combination Sum II](https://github.com/Zhouzhiling/kickstart/blob/master/40.%20Combination%20Sum%20II.md)
 
 
 
-[✅] 40. Combination Sum II
-
-
-
-[⭐] 41. First Missing Positive
+[[⭐] 41. First Missing Positive](https://github.com/Zhouzhiling/kickstart/blob/master/41.%20First%20Missing%20Positive.md)
 
 - 机智！！
 
-[✅] 42. Trapping Rain Water
+[[✅] 42. Trapping Rain Water](https://github.com/Zhouzhiling/kickstart/blob/master/42.%20Trapping%20Rain%20Water.md)
 
 
 
-[✅] 43. Multiply Strings
+[[✅] 43. Multiply Strings](https://github.com/Zhouzhiling/kickstart/blob/master/43.%20Multiply%20Strings.md)
 
 
 
 # 12.15.2018
 
-[✅] 46. Permutations
+[[✅] 46. Permutations](https://github.com/Zhouzhiling/kickstart/blob/master/46.%20Permutations.md)
 
-[✅] 47. Permutations II
+[[✅] 47. Permutations II](https://github.com/Zhouzhiling/kickstart/blob/master/47.%20Permutations%20II.md)
 
-[⭐] 48. Rotate Image
+[[⭐] 48. Rotate Image](https://github.com/Zhouzhiling/kickstart/blob/master/48.%20Rotate%20Image.md)
 
-[⭐] 49. Group Anagrams
+[[⭐] 49. Group Anagrams](https://github.com/Zhouzhiling/kickstart/blob/master/49.%20Group%20Anagrams.md)
 
 - 自己写出来啦，但是看到的方法超简单，四行完成！学会用tuple！
 
-[✅] 50. Pow(x, n)
+[[✅] 50. Pow(x, n)](https://github.com/Zhouzhiling/kickstart/blob/master/50.%20Pow(x%2C%20n).md)
 
-[✅] 21. Merge Two Sorted Lists
+[[✅] 21. Merge Two Sorted Lists](https://github.com/Zhouzhiling/kickstart/blob/master/21.%20Merge%20Two%20Sorted%20Lists.md)
 
-[✅] 20. Valid Parentheses
+[[✅] 20. Valid Parentheses](https://github.com/Zhouzhiling/kickstart/blob/master/20.%20Valid%20Parentheses.md)
 
-[⭐] 15. 3Sum
+[⭐] 15. 3Sum](https://github.com/Zhouzhiling/kickstart/blob/master/15.%203Sum.md)
 
-[✅] 16. 3Sum Closest
+[[✅] 16. 3Sum Closest](https://github.com/Zhouzhiling/kickstart/blob/master/16.%203Sum%20Closest.md)
 
-[✅] 18. 4Sum
+[[✅] 18. 4Sum](https://github.com/Zhouzhiling/kickstart/blob/master/18.%204Sum.md)
 
-[✅] 14. Longest Common Prefix
+[[✅] 14. Longest Common Prefix](https://github.com/Zhouzhiling/kickstart/blob/master/14.%20Longest%20Common%20Prefix.md)
 
-[✅] 9. Palindrome Number
+[[✅] 9. Palindrome Number](https://github.com/Zhouzhiling/kickstart/blob/master/9.%20Palindrome%20Number.md)
 
-[⭐] 54. Spiral Matrix
+[[⭐] 54. Spiral Matrix](https://github.com/Zhouzhiling/kickstart/blob/master/54.%20Spiral%20Matrix.md)
 
 - debug了很久，想清楚边界条件再写。
 
-[⭐] 45. Jump Game II
+[[⭐] 45. Jump Game II](https://github.com/Zhouzhiling/kickstart/blob/master/45.%20Jump%20Game%20II.md)
 
 - 自己写的递归超时了orz。 **跪拜的巧妙解法!!!**
 
-[✅] 55. Jump Game
+[[✅] 55. Jump Game](https://github.com/Zhouzhiling/kickstart/blob/master/55.%20Jump%20Game.md)
 
 - 同上解法。
 
-[✅] 56. Merge Intervals
+[[✅] 56. Merge Intervals](https://github.com/Zhouzhiling/kickstart/blob/master/56.%20Merge%20Intervals.md)
 
 - 不难，学到了自定义规则来sort的写法。
 
 # 12.17.2018 
 
-[✅] 59. Spiral Matrix II
+[[✅] 59. Spiral Matrix II](https://github.com/Zhouzhiling/kickstart/blob/master/59.%20Spiral%20Matrix%20II.md)
 
-[✅] 61. Rotate List
+[[✅] 61. Rotate List](https://github.com/Zhouzhiling/kickstart/blob/master/61.%20Rotate%20List.md)
 
-[✅] 62. Unique Paths
+[[✅] 62. Unique Paths](https://github.com/Zhouzhiling/kickstart/blob/master/62.%20Unique%20Paths.md)
 
-[✅] 63. Unique Paths II
+[[✅] 63. Unique Paths II](https://github.com/Zhouzhiling/kickstart/blob/master/63.%20Unique%20Paths%20II.md)
 
-[✅] 64. Minimum Path Sum
+[[✅] 64. Minimum Path Sum](https://github.com/Zhouzhiling/kickstart/blob/master/64.%20Minimum%20Path%20Sum.md)
 
-[⭐] 68. Text Justification
+[[⭐] 68. Text Justification](https://github.com/Zhouzhiling/kickstart/blob/master/68.%20Text%20Justification.md)
 
 - 写了半天
 
-[✅] 69. Sqrt(x)
+[[✅] 69. Sqrt(x)](https://github.com/Zhouzhiling/kickstart/blob/master/69.%20Sqrt(x).md)
 
-[✅] 70. Climbing Stairs
+[[✅] 70. Climbing Stairs](https://github.com/Zhouzhiling/kickstart/blob/master/70.%20Climbing%20Stairs.md)
 
-[✅] 71. Simplify Path
+[[✅] 71. Simplify Path](https://github.com/Zhouzhiling/kickstart/blob/master/71.%20Simplify%20Path.md)
 
-[✅] 73. Set Matrix Zeroes
+[[✅] 73. Set Matrix Zeroes](https://github.com/Zhouzhiling/kickstart/blob/master/73.%20Set%20Matrix%20Zeroes.md)
 
-[✅] 74. Search a 2D Matrix
+[[✅] 74. Search a 2D Matrix](https://github.com/Zhouzhiling/kickstart/blob/master/74.%20Search%20a%202D%20Matrix.md)
 
 - 多种情况的二分查找要多练练
 
 # 12.18.2018 
 
-[⭐] 77. Combinations
+[[⭐] 77. Combinations](https://github.com/Zhouzhiling/kickstart/blob/master/77.%20Combinations.md)
 
-[⭐] 75. Sort Colors
+[[⭐] 75. Sort Colors](https://github.com/Zhouzhiling/kickstart/blob/master/75.%20Sort%20Colors.md)
 
 - 初始想法是对的，但是没想那么深入。
 
-[⭐⭐] 76. Minimum Window Substring
+[[⭐⭐] 76. Minimum Window Substring](https://github.com/Zhouzhiling/kickstart/blob/master/76.%20Minimum%20Window%20Substring.md)
 
 - 寻找substring的template，好好学一下！
 
-[✅] 53. Maximum Subarray
+[[✅] 53. Maximum Subarray](https://github.com/Zhouzhiling/kickstart/blob/master/53.%20Maximum%20Subarray.md)
 
 - 用上述template成功完成！
 
-[⭐] 5. Longest Palindromic Substring
+[[⭐] 5. Longest Palindromic Substring](https://github.com/Zhouzhiling/kickstart/blob/master/5.%20Longest%20Palindromic%20Substring.md)
 
 # 12.19.2018
 
-[✅] 80. Remove Duplicates from Sorted Array II
+[[✅] 80. Remove Duplicates from Sorted Array II](https://github.com/Zhouzhiling/kickstart/blob/master/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)
 
-[✅] 82. Remove Duplicates from Sorted List II
+[[✅] 82. Remove Duplicates from Sorted List II](https://github.com/Zhouzhiling/kickstart/blob/master/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
 
-[✅] 83. Remove Duplicates from Sorted List
+[[✅] 83. Remove Duplicates from Sorted List](https://github.com/Zhouzhiling/kickstart/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
 
 
 
 # 12.20.2018
 
-[✅] 86. Partition List
+[[✅] 86. Partition List](https://github.com/Zhouzhiling/kickstart/blob/master/86.%20Partition%20List.md)
 
 
 
 # 12.21.2018
 
-[✅] 88. Merge Sorted Array
+[[✅] 88. Merge Sorted Array](https://github.com/Zhouzhiling/kickstart/blob/master/88.%20Merge%20Sorted%20Array.md)
 
-[⭐] 89. Gray Code
+[[⭐] 89. Gray Code](https://github.com/Zhouzhiling/kickstart/blob/master/89.%20Gray%20Code.md)
 
-[✅] 78. Subsets
+[[✅] 78. Subsets](https://github.com/Zhouzhiling/kickstart/blob/master/78.%20Subsets.md)
 
-[✅] 90. Subsets II
+[[✅] 90. Subsets II](https://github.com/Zhouzhiling/kickstart/blob/master/90.%20Subsets%20II.md)
 
 
 
