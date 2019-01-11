@@ -295,3 +295,19 @@ quq
 # 12.30.2018
 
 quq
+
+
+
+# 01.11.2019
+
+今天是复习tree的一天!
+
+[⭐] 91. Decode Ways.md
+
+[⭐] 100. Same Tree.md
+
+[⭐] 94. Binary Tree Inorder Traversal.md
+
+[✅] 92. Reverse Linked List II
+
+[✅] 98. Validate Binary Search Tree.md
