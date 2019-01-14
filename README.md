@@ -302,12 +302,62 @@ quq
 
 今天是复习tree的一天!
 
-[⭐] 91. Decode Ways.md
+[[⭐] 91. Decode Ways.md](https://github.com/Zhouzhiling/kickstart/blob/master/91.%20Decode%20Ways.md)
 
-[⭐] 100. Same Tree.md
+[[⭐] 100. Same Tree.md](https://github.com/Zhouzhiling/kickstart/blob/master/100.%20Same%20Tree.md)
 
-[⭐] 94. Binary Tree Inorder Traversal.md
+[[⭐] 94. Binary Tree Inorder Traversal.md](https://github.com/Zhouzhiling/kickstart/blob/master/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 
-[✅] 92. Reverse Linked List II
+[[✅] 92. Reverse Linked List II](https://github.com/Zhouzhiling/kickstart/blob/master/92.%20Reverse%20Linked%20List%20II.md)
 
-[✅] 98. Validate Binary Search Tree.md
+[[✅] 98. Validate Binary Search Tree.md](https://github.com/Zhouzhiling/kickstart/blob/master/98.%20Validate%20Binary%20Search%20Tree.md)
+
+[[⭐] 101. Symmetric Tree](https://github.com/Zhouzhiling/kickstart/blob/master/101.%20Symmetric%20Tree.md)
+
+[[✅] 102. Binary Tree Level Order Traversal](https://github.com/Zhouzhiling/kickstart/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+
+
+
+## 01.14.2019
+
+今天同样是复习tree的一天!
+
+[[✅] 103. Binary Tree Zigzag Level Order Traversal](https://github.com/Zhouzhiling/kickstart/blob/master/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
+
+[[✅] 104. Maximum Depth of Binary Tree](https://github.com/Zhouzhiling/kickstart/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+
+[[✅] 106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Zhouzhiling/kickstart/blob/master/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+
+[[✅] 107. Binary Tree Level Order Traversal II](https://github.com/Zhouzhiling/kickstart/blob/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
+
+[[✅] 108. Convert Sorted Array to Binary Search Tree](https://github.com/Zhouzhiling/kickstart/blob/master/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+
+[[✅] 109. Convert Sorted List to Binary Search Tree](https://github.com/Zhouzhiling/kickstart/blob/master/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
+
+[[⭐] 105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Zhouzhiling/kickstart/blob/master/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+
+[[⭐] 110. Balanced Binary Tree](https://github.com/Zhouzhiling/kickstart/blob/master/110.%20Balanced%20Binary%20Tree.md)
+
+
+
+
+
+
+
+[✅] 
+
+[✅] 
+
+[✅] 
+
+[✅] 
+
+[✅] 
+
+[⭐] 
+
+[⭐] 
+
+[⭐] 
+
+[⭐] 
