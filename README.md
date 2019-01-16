@@ -342,13 +342,13 @@ quq
 
 ## 01.15.2019
 
-[✅] 111. Minimum Depth of Binary Tree
+[[✅] 111. Minimum Depth of Binary Tree](https://github.com/Zhouzhiling/kickstart/blob/master/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 
-[✅] 112. Path Sum
+[[✅] 112. Path Sum](https://github.com/Zhouzhiling/kickstart/blob/master/112.%20Path%20Sum.md)
 
-[⭐] 113. Path Sum II
+[[⭐] 113. Path Sum II](https://github.com/Zhouzhiling/kickstart/blob/master/113.%20Path%20Sum%20II.md)
 
-[✅] 114. Flatten Binary Tree to Linked List
+[[✅] 114. Flatten Binary Tree to Linked List](https://github.com/Zhouzhiling/kickstart/blob/master/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 
 
 
