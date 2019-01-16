@@ -340,6 +340,18 @@ quq
 
 
 
+## 01.15.2019
+
+[✅] 111. Minimum Depth of Binary Tree
+
+[✅] 112. Path Sum
+
+[⭐] 113. Path Sum II
+
+[✅] 114. Flatten Binary Tree to Linked List
+
+
+
 
 
 
@@ -348,13 +360,7 @@ quq
 
 [✅] 
 
-[✅] 
 
-[✅] 
-
-[✅] 
-
-[⭐] 
 
 [⭐] 
 
