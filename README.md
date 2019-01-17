@@ -356,19 +356,19 @@ quq
 
 ## 01.16.2019
 
-[✅] 118. Pascal's Triangle
+[[✅] 118. Pascal's Triangle](https://github.com/Zhouzhiling/kickstart/blob/master/118.%20Pascal's%20Triangle.md)
 
-[✅] 116. Populating Next Right Pointers in Each Node
+[[✅] 116. Populating Next Right Pointers in Each Node](https://github.com/Zhouzhiling/kickstart/blob/master/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 
-[✅] 119. Pascal's Triangle II
+[[✅] 119. Pascal's Triangle II](https://github.com/Zhouzhiling/kickstart/blob/master/119.%20Pascal's%20Triangle%20II.md)
 
-[✅] 120. Triangle
+[[✅] 120. Triangle](https://github.com/Zhouzhiling/kickstart/blob/master/120.%20Triangle.md)
 
-[✅] 121. Best Time to Buy and Sell Stock
+[[✅] 121. Best Time to Buy and Sell Stock](https://github.com/Zhouzhiling/kickstart/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
-[✅] 122. Best Time to Buy and Sell Stock II
+[[✅] 122. Best Time to Buy and Sell Stock II](https://github.com/Zhouzhiling/kickstart/blob/master/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 
-[⭐] 115. Distinct Subsequences
+[[⭐] 115. Distinct Subsequences](https://github.com/Zhouzhiling/kickstart/blob/master/115.%20Distinct%20Subsequences.md)
 
 
 
