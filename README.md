@@ -354,13 +354,45 @@ quq
 
 
 
+## 01.16.2019
+
+[✅] 118. Pascal's Triangle
+
+[✅] 116. Populating Next Right Pointers in Each Node
+
+[✅] 119. Pascal's Triangle II
+
+[✅] 120. Triangle
+
+[✅] 121. Best Time to Buy and Sell Stock
+
+[✅] 122. Best Time to Buy and Sell Stock II
+
+[⭐] 115. Distinct Subsequences
+
+
+
 
 
 [✅] 
 
 [✅] 
 
+[✅] 
 
+[✅] 
+
+
+
+[⭐] 
+
+[⭐] 
+
+[⭐] 
+
+[⭐] 
+
+[⭐] 
 
 [⭐] 
 
