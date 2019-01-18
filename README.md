@@ -374,9 +374,27 @@ quq
 
 ## 01.18.2019
 
-[✅] 125. Valid Palindrome
+[[✅] 125. Valid Palindrome](https://github.com/Zhouzhiling/kickstart/blob/master/125.%20Valid%20Palindrome.md)
 
 
+
+跳过了难的，TODO:
+
+[❌]126. Word Ladder II 
+
+[❌]124. Binary Tree Maximum Path Sum
+
+[❌]123. Best Time to Buy and Sell Stock III
+
+
+
+[❌]
+
+[❌]
+
+[❌]
+
+[✅] 
 
 [✅] 
 
