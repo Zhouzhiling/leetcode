@@ -392,15 +392,15 @@ quq
 
 ## 01.27.2019
 
-[✅] 129. Sum Root to Leaf Numbers.md
+[[✅] 129. Sum Root to Leaf Numbers.md](https://github.com/Zhouzhiling/kickstart/blob/master/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
 
-[⭐] 124. Binary Tree Maximum Path Sum.md
+[[⭐] 124. Binary Tree Maximum Path Sum.md](https://github.com/Zhouzhiling/kickstart/blob/master/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 
-[⭐] 128. Longest Consecutive Sequence.md
+[[⭐] 128. Longest Consecutive Sequence.md](https://github.com/Zhouzhiling/kickstart/blob/master/128.%20Longest%20Consecutive%20Sequence.md)
 
-[⭐] 131. Palindrome Partitioning.md
+[[⭐] 131. Palindrome Partitioning.md](https://github.com/Zhouzhiling/kickstart/blob/master/131.%20Palindrome%20Partitioning.md)
 
-[⭐] 132. Palindrome Partitioning II.md
+[[⭐] 132. Palindrome Partitioning II.md](https://github.com/Zhouzhiling/kickstart/blob/master/132.%20Palindrome%20Partitioning%20II.md)
 
 
 
