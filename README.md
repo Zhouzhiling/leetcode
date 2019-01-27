@@ -388,12 +388,36 @@ quq
 
 
 
-[❌]
+
+
+## 01.27.2019
+
+[✅] 129. Sum Root to Leaf Numbers.md
+
+[⭐] 124. Binary Tree Maximum Path Sum.md
+
+[⭐] 128. Longest Consecutive Sequence.md
+
+[⭐] 131. Palindrome Partitioning.md
+
+[⭐] 132. Palindrome Partitioning II.md
+
+
+
+
+
+
 
 [❌]
 
 [❌]
 
+[❌]
+
+[❌]
+
+
+
 [✅] 
 
 [✅] 
@@ -403,14 +427,6 @@ quq
 [✅] 
 
 
-
-[⭐] 
-
-[⭐] 
-
-[⭐] 
-
-[⭐] 
 
 [⭐] 
 
