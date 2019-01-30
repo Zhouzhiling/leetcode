@@ -404,6 +404,36 @@ quq
 
 
 
+## 01.28.2019
+
+[✅] 134. Gas Station
+
+[✅] 137. Single Number II
+
+[⭐] 133. Clone Graph
+
+[⭐] 136. Single Number
+
+[⭐] 135. Candy
+
+
+
+## 01.29.2019
+
+[✅] 138. Copy List with Random Pointer
+
+[⭐] 140. Word Break II
+
+[⭐] 139. Word Break
+
+[⭐] 141. Linked List Cycle
+
+[⭐] 142. Linked List Cycle II
+
+[⭐] 143. Reorder List
+
+
+
 
 
 
@@ -427,6 +457,8 @@ quq
 [✅] 
 
 
+
+[⭐]
 
 [⭐] 
 
