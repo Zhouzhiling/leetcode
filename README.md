@@ -452,9 +452,100 @@ quq
 
 
 
+2. Add Two Numbers.md
+   - 一开始写的重复代码段很多，有三个while，里面的代码几乎相同。这点看了discussion以后可以改进。
 
 
 
+4. Median of Two Sorted Arrays
+   - 方法没变，double 类型的除法注意一下。基础都忘了。1/2和1/2.0 能一样吗？？？？
+
+
+
+5. **Longest Palindromic Substring**
+   - 写了很久，边界条件判断了半天，重写。
+
+
+
+6. ZigZag Conversion
+
+   - 写出来了，但很冗长，最好重写。
+
+   - 初始化字符串列表的方法：```L = [""] * numRows```
+   - 合并字符串列表的方法：Python join() 方法用于将序列中的元素以指定的字符连接生成一个新的字符串。```"".join(L)```
+
+
+
+7. Reverse Integer
+   - 不难，注意小字审题就行，溢出归零。不导入math的时候，指数的写法可以用pow(2, 31)这样。
+
+
+
+8. String to Integer (atoi)
+   - 不难。注意`str[0] == '-'`和`str[0] is '-'`的区别。前者比较是不是相同的字符，后者比较内存空间是不是一样。
+   - 判断当前char是不是数字：`c.isnumeric()`
+   - char转成int: `int(c)`
+
+
+
+9. Palindrome Number
+   - 不难。记得先判断三种情况。负数直接false；**0~9直接true**；**大于9**并且以0结尾直接false。
+
+
+
+11. Container With Most Water
+    - 代码会写，要会解释[证明](https://leetcode.com/problems/container-with-most-water/)
+
+
+
+12. Integer to Roman
+
+13. Roman to Integer
+    - 简单。
+
+
+
+14. Longest Common Prefix
+    - 不难，但没有做到bug-free。再写一遍。
+
+
+
+15. 3Sum
+    - 如何避免重复没写出来，重写。
+    - 当日重写完成。
+
+
+
+16. 3Sum Closest
+    - 原理同上，几乎一毛一样，重写一个就行了。
+
+
+
+18. 4Sum
+    - 套用之前用过的3Sum，再加一层即可。再加层的时候有比较巧妙的写法：
+
+``````python
+    def fourSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[List[int]]
+        """
+        nums.sort()
+        res = []
+        for idx in range(len(nums)-3):
+            if idx != 0 and nums[idx] == nums[idx-1]:
+                continue
+                
+            for ite in self.threeSum(nums[idx+1:],target-nums[idx]):
+                res.append([nums[idx]]+ite)
+        return res
+``````
+
+
+
+20. Valid Parentheses
+    - 简单！
 
 
 
