@@ -549,6 +549,96 @@ quq
 
 
 
+## 03.02.2019
+
+21. Merge two link list
+    - 简单
+
+
+
+22. Generate Parentheses
+    - 没想出来，重写。
+
+
+
+23. Merge k Sorted Lists
+    - 不难，不过需要看一下binary heap的实现代码和方法。
+    - 戳[这里](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8F%89%E5%A0%86) 和 [这里](http://interactivepython.org/courselib/static/pythonds/Trees/BinaryHeapImplementation.html)
+
+
+
+24. Swap Nodes in Pairs
+    - 不难
+
+
+
+25. Reverse Nodes in k-Group
+    - 还行，比较麻烦。思路是对的。进入reverse函数之前要记得把tail.next置None，不然会持续循环。
+
+
+
+26. Remove Duplicates from Sorted Array
+27. Remove Element
+28. Implement strStr()
+    - 简单，一次过。
+    - 这都什么傻子要求啊orz
+
+
+
+29. Divide Two Integers
+
+    - 之前做的思路就挺好的，速度和内存表现都很好
+
+    - 其中判断符号的时候：
+
+      
+
+      ```python
+      # 写法复杂但是计算很快
+      sign = dividend > 0 and divisor > 0 or dividend < 0 and divisor < 0
+          
+      # 用乘法比较会慢很多很多
+      # sign = dividend * divisor > 0
+      ```
+
+
+
+31. Next Permutation
+    - 注意range(50,0,-1)，写法是(start, end, step_length)
+
+
+
+
+
+31. Next Permutation
+    - 傻子，重写。如何判断下一次的permutation？
+    - 如果**从末尾往前看**，数字逐渐变大，到了2时才减小的，然后我们再**从后往前找**第一个比2大的数字，是3，那么我们交换2和3，再把此时3后面的所有数字转置一下即可
+    - ``nums.sort() ``和``sorted(nums)``的区别
+
+
+
+
+
+32. Longest Valid Parentheses
+    - 重写。自己想的方法超时了。之前用的是discussion里面的神仙思路。
+    - ``stack.insert(0,-1)`` 在stack下标0的地方放一个-1.注意写法。
+
+
+
+33. Search in Rotated Sorted Array
+    - 重写。二分查找。怎么查的。这个都不能bug-free，你面什么狗？
+
+
+
+34. Find First and Last Position of Element in Sorted Array
+    - 和上面一样。 熟练掌握二分就可以。
+
+
+
+
+
+
+
 [❌]
 
 [❌]
