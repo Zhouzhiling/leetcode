@@ -464,6 +464,7 @@ quq
 
 5. **Longest Palindromic Substring**
    - 写了很久，边界条件判断了半天，重写。
+   - 3/2重写完毕。依然需要看了方法才能想起expand函数。
 
 
 
@@ -507,22 +508,25 @@ quq
 
 14. Longest Common Prefix
     - 不难，但没有做到bug-free。再写一遍。
+    - 3/2重写完毕，nice。
 
 
 
 15. 3Sum
     - 如何避免重复没写出来，重写。
-    - 当日重写完成。
+    - 3/1重写完成。
+    - 3/2重写完成
 
 
 
 16. 3Sum Closest
-    - 原理同上，几乎一毛一样，重写一个就行了。
+    - 原理同上，就算不排除重复也能过，所以重写上面的15就行了。
 
 
 
 18. 4Sum
     - 套用之前用过的3Sum，再加一层即可。再加层的时候有比较巧妙的写法：
+    - 3/2 重写完毕。
 
 ``````python
     def fourSum(self, nums, target):
@@ -632,6 +636,58 @@ quq
 
 34. Find First and Last Position of Element in Sorted Array
     - 和上面一样。 熟练掌握二分就可以。
+
+
+
+35. Search Insert Position
+    - 简单
+
+
+
+36. Valid Sudoku
+    - 真是简单粗暴的方法呢。
+
+
+
+38. Count and Say
+    - 不难
+
+
+
+39. Combination Sum
+    - 递归版本写得出来。注意要去重（只取当前index的后半部分即可）。
+    - 迭代的没想出来，discussion也都是递归，先扔着吧。
+
+
+
+40. Combination Sum II
+    - 和39差不多，注意如何去重。
+    - 最好重新写一次。
+
+
+
+41. First Missing Positive
+    - 只记得大概的思路，不过还是写出来了。
+    - 推荐重写。
+
+
+
+42. Trapping Rain Water
+    - 虽然是hard，但是过了。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
