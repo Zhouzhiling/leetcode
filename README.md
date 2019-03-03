@@ -561,11 +561,17 @@ quq
 
 
 22. Generate Parentheses
+
     - 没想出来，重写。
 
+    - 3/3 没想出来，重写。
 
+      
+
+    
 
 23. Merge k Sorted Lists
+
     - 不难，不过需要看一下binary heap的实现代码和方法。
     - 戳[这里](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8F%89%E5%A0%86) 和 [这里](http://interactivepython.org/courselib/static/pythonds/Trees/BinaryHeapImplementation.html)
 
@@ -615,31 +621,38 @@ quq
 
 
 31. Next Permutation
+
     - 傻子，重写。如何判断下一次的permutation？
     - 如果**从末尾往前看**，数字逐渐变大，到了2时才减小的，然后我们再**从后往前找**第一个比2大的数字，是3，那么我们交换2和3，再把此时3后面的所有数字转置一下即可
     - ``nums.sort() ``和``sorted(nums)``的区别
 
-
+    - 3/3重写完毕，一次过。
 
 
 
 32. Longest Valid Parentheses
     - 重写。自己想的方法超时了。之前用的是discussion里面的神仙思路。
     - ``stack.insert(0,-1)`` 在stack下标0的地方放一个-1.注意写法。
+    - 3/3重写，1.5次过。
 
 
 
 33. Search in Rotated Sorted Array
+
     - 重写。二分查找。怎么查的。这个都不能bug-free，你面什么狗？
 
+    - 3/3重写。几乎一遍过，冒号等小细节
 
+      
 
 34. Find First and Last Position of Element in Sorted Array
+
     - 和上面一样。 熟练掌握二分就可以。
 
-
+    - 一遍过。
 
 35. Search Insert Position
+
     - 简单
 
 
@@ -657,6 +670,7 @@ quq
 39. Combination Sum
     - 递归版本写得出来。注意要去重（只取当前index的后半部分即可）。
     - 迭代的没想出来，discussion也都是递归，先扔着吧。
+    - 3/3一开始没递归思路。看了一下以后bugfree一次过。之后多看看~！
 
 
 
@@ -680,6 +694,18 @@ quq
 43. Multiply Strings
     - 也过啦，不难。还纠正了以前的错误做法。
     - 我真棒！（发出王老舞的声音（×
+
+
+
+### **二分法总结：**
+
+- 如果左右两方都会向中间主动靠近，那么while可以写 st <= ed
+- 如果有一方不会主动靠近，另一方会:
+- - 如果取mid的时候靠近主动的那边，那么while可以写 st < ed
+  - 如果取mid的时候靠近不主动的那边，那就只能写st < ed - 1
+- 如果双方都不会主动靠近，那么甚至就需要写 st < ed - 1
+
+
 
 
 
@@ -826,6 +852,24 @@ intervals.sort(key=takeStart)
 71. Simplify Path
     - 简单
 
+72. Edit Distance
+    - 牛逼，机智，重写！
+
+
+
+73. Set Matrix Zeroes
+    - 看了之前的code才有思路的。推荐重写。
+
+
+
+74. Search a 2D Matrix
+    - 第一次错了。第二次重写，也没能bug-free
+    - 重写。挺复杂的，很多坑。
+
+
+
+75. Sort Colors
+    - 不难，但有个坑没逃过，建议重写。
 
 
 
@@ -833,6 +877,8 @@ intervals.sort(key=takeStart)
 
 
 
+76. Minimum Window Substring
+    - 是一个hard系列的，掌握模板好好写。
 
 
 
