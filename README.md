@@ -677,12 +677,14 @@ quq
 40. Combination Sum II
     - 和39差不多，注意如何去重。
     - 最好重新写一次。
+    - 3/3一次过。
 
 
 
 41. First Missing Positive
     - 只记得大概的思路，不过还是写出来了。
     - 推荐重写。
+    - 3/3重写没能一遍过，四处的小bug。打死自己
 
 
 
@@ -875,10 +877,15 @@ intervals.sort(key=takeStart)
 
 
 
-
-
 76. Minimum Window Substring
     - 是一个hard系列的，掌握模板好好写。
+    - 3/3非常认真看了算法以后一遍过了。建议**过两天**重写加深印象。
+
+
+
+
+
+
 
 
 
