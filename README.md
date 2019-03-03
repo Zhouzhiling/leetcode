@@ -673,7 +673,202 @@ quq
 
 
 42. Trapping Rain Water
-    - 虽然是hard，但是过了。
+    - 虽然是hard，但是过了。耶。
+
+
+
+43. Multiply Strings
+    - 也过啦，不难。还纠正了以前的错误做法。
+    - 我真棒！（发出王老舞的声音（×
+
+
+
+## 3.3.2019
+
+45. Jump Game II
+    - 思路是对的，很多细节没弄清楚。
+    - 重写！
+
+
+
+46. Permutations
+    - 简单
+
+
+
+47. Permutations II
+    - 简单。去重方法，写过很多次了。
+
+
+
+48. Rotate Image
+    - 简单
+
+
+
+49. Group Anagrams
+    - 简单。一开始不知为啥用了set？？
+    - 直接``"".join(sorted(word))``就可以进行分类了。
+
+
+
+50. Pow(x, n)
+    - 简单。
+
+
+
+53. Maximum Subarray
+    - O(n) slide一遍就可以，简单。
+    - divide and conquer 的复杂度明明是O(nlogn)？？？写法还复杂，还超时了， 给的都是啥tips啊摔。
+    - 不过divide and conquer复习熟悉一下也好。
+
+
+
+54. Spiral Matrix
+    - 不难，但是麻烦。
+    - 不想写，先跳过了。
+
+
+
+55. Jump Game
+    - 和45类似， 写出来了！
+
+
+
+56. Merge Intervals
+
+    - 用的之前的方法，不太熟练，没有bug-free，建议重写。
+    - discussion里面有相同的方法，很多行代码都可以简化的，注意一下。
+
+    - 关于如何用自定义的方法来对list排序sort:
+
+```python
+def takeStart(elem):
+    return elem.start
+    
+intervals.sort(key=takeStart)
+```
+
+
+
+253. Meeting Rooms II
+     - 和56类似，简单。
+
+
+
+435. Non-overlapping Intervals
+     - 和56类似但不太一样，推荐重写。
+
+
+
+57. Insert Interval
+    - 简单
+
+
+
+60. Permutation Sequence
+    - 写出来了，但建议重写一下。
+
+
+
+61. Rotate List
+    - 简单模式！
+
+
+
+62. Unique Paths
+
+    - 简单模式。
+
+    - 用Cmn和DP都能做。Cmn可能有些简单到犯规。
+
+    - 要注意的点是，Cmn关注的是走动的次数而不是格子的边长，所以要m-1，n-1。而DP关注的是边长，所以只需要m和n。
+
+    - Cmn的公式是
+
+      ```python
+      def Cmn(m,n):
+          return factor(m) / (factor(m-n) * factor(n))
+      ```
+      
+
+63. Unique Paths II
+    - 不难。这个用Cmn就不好写了，所以用了DP。
+    - 这次i==0/j==0的时候不能直接置1，而同样需要判断
+
+
+
+64. Minimum Path Sum
+    - 不难
+
+
+
+66. Plus One
+    - 简单。
+
+
+
+67. Add Binary
+    - 简单
+
+
+
+69. Sqrt(x)
+    - 不难！同样二分查找即可！
+
+
+
+70. Climbing Stairs
+    - 简单。
+
+
+
+71. Simplify Path
+    - 简单
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
