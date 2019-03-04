@@ -495,9 +495,12 @@ quq
 
 
 11. Container With Most Water
+
     - 代码会写，要会解释[证明](https://leetcode.com/problems/container-with-most-water/)
 
+    - 3/4 会证明！
 
+      
 
 12. Integer to Roman
 
@@ -885,41 +888,113 @@ intervals.sort(key=takeStart)
 
 
 
+## 3/4/2019
+
+76. Minimum Window Substring
+    - 写了这题的衍生maxWindow_NoRepeatChar，一遍过，耶！
 
 
 
+77. Combinations
+    - 有一些小bug，重写一下。
 
 
 
+78. Subsets
+    - 逻辑不对，重写。
 
 
 
+79. Word Search
+    - 一个小时，没搞出来，先跳过了。
+    - 想看table的最后一个维度是不能这样写的！！`table [ : ] [ : ] [idx]`。这样写的idx是作用在第一个维度上的！摔！
 
 
 
+80. Remove Duplicates from Sorted Array II
+    - 有个坑和之前的排列00011112222很相似。要注意一下。
+    - 重写。
 
 
 
+81. Search in Rotated Sorted Array II
+    - 很经典的题，有空可以重写。
+    - 几乎一次过，ed初始化的时候要注意是`len(nums)-1`
 
 
 
+82. Remove Duplicates from Sorted List II
+    - 不用重写。同理三个指针依此往后移。
+    - `if second.val == third.val or second.val == pre:`
 
 
 
+83. Remove Duplicates from Sorted List
+    - 82的easy模式，一次过。
 
 
 
+84. Largest Rectangle in Histogram
+    - 太难了太难了太难了。酌情重写吧。
+    - 除了O(n)以外的时间复杂度，都超时了。
 
 
 
+86. Partition List
+    - 简单一次过
 
 
 
+89. Gray Code
+
+    - 找到规律就很简单
+
+    - 注意
+
+      ```python
+      tmp = [1,2,3]
+      tmp.append([4,5]) 		# [1,2,3,[4,5]]
+      tmp += [4,5]			# [1,2,3,4,5]
+      ```
 
 
 
+90. Subsets II
+    - 自己写的那个有点慢，__ contains __复杂度有点高所以最好不要用
+    - 有[很好的递归方法](https://leetcode.com/problems/subsets-ii/discuss/30305/Simple-python-solution-(DFS).)，看懂之后重写。
 
 
+
+91. Decode Ways
+    - 动态规划，一次过。
+
+
+
+92. Reverse Linked List II
+    - 链表，一次过。
+
+
+
+94. Binary Tree Inorder Traversal
+    - 树的遍历。前序+后序+中序+层次，递归和迭代，都要能写！
+
+
+
+95. Unique Binary Search Trees II
+    - 自己写出来的。不过推荐重写一下。
+
+
+
+96. Unique Binary Search Trees
+    - 和95差不多，不过只需要返回个数就行了。如果直接改95的代码会超时。
+    - 可以用一个list保存当前n个节点的树可能的个数，这样就不用重复计算了。
+
+
+
+97. Interleaving String
+    - 有了DP的思路之后就不难做了。
+    - 开始逐渐用java和python一起写。
+    - 冒号分号分不清楚，要习惯！
 
 
 
