@@ -1104,15 +1104,14 @@ Long.MIN_VALUE,Long.MAX_VALUE
 
        
 
+108. Convert Sorted Array to Binary Search Tree
+     - 一次过。
 
 
 
-
-
-
-
-
-
+109. Convert Sorted List to Binary Search Tree
+     - 对于链表没法直接得到最中间的元素。那么用fast和slow方法就非常有效了！discussion太机智了！
+     - 重写重写，搞了半天，反思。
 
 
 
