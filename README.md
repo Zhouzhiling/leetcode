@@ -995,11 +995,43 @@ intervals.sort(key=takeStart)
     - 有了DP的思路之后就不难做了。
     - 开始逐渐用java和python一起写。
     - 冒号分号分不清楚，要习惯！
+    - 关于java里面的length()和length
+
+```
+// length can be used for int[], double[], String[] 
+// to know the length of the arrays.
+
+// length() can be used for String, StringBuilder, etc 
+// String class related Objects to know the length of the String
+```
 
 
 
 
 
+## 3/5/2019
+
+98. Validate Binary Search Tree
+    - 中序遍历可以做，但是比较慢👈一次过
+    - discussion的递归比较好用👈重写（python & java）
+
+```java
+// java 里面的最大最小值
+Long.MIN_VALUE,Long.MAX_VALUE
+```
+
+
+
+99. Recover Binary Search Tree
+    - 太难了，想清楚，重写
+
+```python
+    # python里面的最大最小值可以这么写
+    self.preNode = TreeNode(float('-inf'))
+    
+    # swap是引用指针，所以要修改val才有效，不然就只改了指向
+    swap[0].val, swap[1].val = swap[1].val, swap[0].val
+```
 
 
 
