@@ -1023,7 +1023,8 @@ Long.MIN_VALUE,Long.MAX_VALUE
 
 
 99. Recover Binary Search Tree
-    - 太难了，想清楚，重写
+    - 太难了，discussion有很好的方法。
+    - 想清楚，重写。
 
 ```python
     # python里面的最大最小值可以这么写
@@ -1034,7 +1035,74 @@ Long.MIN_VALUE,Long.MAX_VALUE
 ```
 
 
+100. Same Tree
+     - 一遍过
 
+
+
+101. Symmetric Tree
+     - 递归和stack都能做，一遍过。
+
+
+
+102. Binary Tree Level Order Traversal
+
+     - 简单一遍过
+
+     
+
+103. Binary Tree Zigzag Level Order Traversal
+
+     - 简单模式 一遍过
+
+
+
+104. Maximum Depth of Binary Tree
+     - 递归只用一行哈哈哈哈哈哈一次过。不过在公司这么写会被打吧哈哈哈哈哈哈。
+     - `` return max(self.maxDepth(root.left),self.maxDepth(root.right)) + 1 if root else 0``
+
+
+
+105. Construct Binary Tree from Preorder and Inorder Traversal
+
+     - 递归 一遍过（python
+
+     - java的递归写了一百遍，重写。
+
+
+
+106. Construct Binary Tree from Inorder and Postorder Traversal
+     - 和105一毛一样的思路
+     - java写了一遍，稳。
+
+
+
+107. Binary Tree Level Order Traversal II
+
+     - 思路继续一样。然后从后面往前数，append或者+= 的时候有几种写法都可以，注意一下。
+
+       ```python
+       res[len(res)-idx].append(node.val)
+       res[len(res)-idx] += [node.val]
+       res[-idx] += [node.val]
+       ```
+
+       - string是没法用append/insert的，只能用加号。
+       - list是可以用append/insert的，同时加号也能用，但是注意加号左右都应该是list。
+
+       ```python
+       tmp = '123'
+       tmp.append('456')	# ❌
+       tmp.insert('456')	# ❌
+       tmp += '456'		# ✅
+       
+       tmp2 = range(10)
+       tmp2.append(11)		# ✅
+       tmp2 += [11]		# ✅
+       tmp2 += 11			# ❌
+       ```
+
+       
 
 
 
