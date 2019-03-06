@@ -505,6 +505,7 @@ quq
 12. Integer to Roman
 
 13. Roman to Integer
+
     - 简单。
 
 
@@ -1105,6 +1106,7 @@ Long.MIN_VALUE,Long.MAX_VALUE
        
 
 108. Convert Sorted Array to Binary Search Tree
+
      - 一次过。
 
 
@@ -1112,6 +1114,57 @@ Long.MIN_VALUE,Long.MAX_VALUE
 109. Convert Sorted List to Binary Search Tree
      - 对于链表没法直接得到最中间的元素。那么用fast和slow方法就非常有效了！discussion太机智了！
      - 重写重写，搞了半天，反思。
+
+
+
+110. Balanced Binary Tree
+     - 第一次没想出来。重写。想清楚helper实现的功能是什么？
+
+
+
+111. Minimum Depth of Binary Tree
+     - 重写。min-depth的定义好好看看？？
+
+
+
+112. Path Sum
+     - 差点一次过。题目判断空树的和没法为0.
+     - if的数量最少3个就够了。
+     - java比python不知道快到哪里去了。
+
+
+
+113. Path Sum II
+     - 一遍过 不难
+
+
+
+114. Flatten Binary Tree to Linked List
+
+     - 一遍过，用了两个stack，一个用来preorder遍历，一个用来存node。
+     - 然后遍历第二个，构造类似linked list的结构即可。
+
+     - discussion里面有间接版本的，但是我没看懂，嗯。
+
+
+
+115. Distinct Subsequences
+     - 想法是对的，用DP。如何构造table的时候要想清楚各自的含义！
+     - 重写！
+
+
+
+116. Populating Next Right Pointers in Each Node
+     - 自己写的，层次遍历之后算出每层的个数然后指过去（因为是完全二叉树)。空间复杂度O(n)了。
+     - discussion里面有超简单的方法！重写！
+
+
+
+
+
+
+
+
 
 
 
