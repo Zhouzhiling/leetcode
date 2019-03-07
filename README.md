@@ -898,11 +898,13 @@ intervals.sort(key=takeStart)
 
 77. Combinations
     - 有一些小bug，重写一下。
+    - java写了两节课才
 
 
 
 78. Subsets
     - 逻辑不对，重写。
+    - 3/7用java写完了，过了终于。java还是不太熟emm。
 
 
 
@@ -914,15 +916,17 @@ intervals.sort(key=takeStart)
 
 80. Remove Duplicates from Sorted Array II
     - 有个坑和之前的排列00011112222很相似。要注意一下。
-    - 重写。
+    - 3/7重写。妈的discussion里面的一个方法简直了，是人吗？？？重写重写！！！
+    - java遍历数组的方法可以是``for (int n : nums)``其中nums是int[]
 
 
 
 81. Search in Rotated Sorted Array II
     - 很经典的题，有空可以重写。
-    - 几乎一次过，ed初始化的时候要注意是`len(nums)-1`
+    - python跑出来没过但是我以为我过了，ed初始化的时候要注意是`len(nums)-1`
+    - 3/7重写，第五次终于过了，重写重写重写我靠！ed和st移动的时候怎么移好好考虑好吗傻子！
 
-
+    
 
 82. Remove Duplicates from Sorted List II
     - 不用重写。同理三个指针依此往后移。
@@ -964,9 +968,11 @@ intervals.sort(key=takeStart)
     - 自己写的那个有点慢，__ contains __复杂度有点高所以最好不要用
     - 有[很好的递归方法](https://leetcode.com/problems/subsets-ii/discuss/30305/Simple-python-solution-(DFS).)，看懂之后重写。
 
-
+    - 🔆java如何sort int[] nums: ``Arrays.sort(nums);``
+    - 
 
 91. Decode Ways
+
     - 动态规划，一次过。
 
 
@@ -1165,6 +1171,16 @@ Long.MIN_VALUE,Long.MAX_VALUE
 
 
 
+
+
+
+### 3.7.2019
+
+117. Populating Next Right Pointers in Each Node II
+
+     - 没看懂[discussion](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+
+     - 想一下以后写。
 
 
 
