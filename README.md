@@ -1075,13 +1075,17 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
      - 递归只用一行哈哈哈哈哈哈一次过。不过在公司这么写会被打吧哈哈哈哈哈哈。
      - `` return max(self.maxDepth(root.left),self.maxDepth(root.right)) + 1 if root else 0``
 
+     - 3/8写了个java一行操作，注意java的max需要用Math.max(int a, int b)。然后a和b需要是同类型。
 
+     -  `` return root==null ? 0:1+Math.max(maxDepth(root.left),maxDepth(root.right));``
+
+       
 
 105. Construct Binary Tree from Preorder and Inorder Traversal
 
      - 递归 一遍过（python
-
      - java的递归写了一百遍，重写。
+     - 3/8 java的递归再次写了一百遍。我靠st和ed好好算会死吗？？？
 
 
 
