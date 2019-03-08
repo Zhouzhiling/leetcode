@@ -969,7 +969,7 @@ intervals.sort(key=takeStart)
     - 有[很好的递归方法](https://leetcode.com/problems/subsets-ii/discuss/30305/Simple-python-solution-(DFS).)，看懂之后重写。
 
     - 🔆java如何sort int[] nums: ``Arrays.sort(nums);``
-    - 
+    - java还没写出来
 
 91. Decode Ways
 
@@ -984,13 +984,17 @@ intervals.sort(key=takeStart)
 
 94. Binary Tree Inorder Traversal
     - 树的遍历。前序+后序+中序+层次，递归和迭代，都要能写！
+    - 3/8 java过了
 
 
 
 95. Unique Binary Search Trees II
+
     - 自己写出来的。不过推荐重写一下。
 
+    - 3/8 写了个java 有点艰难 不过还是写出来了
 
+      
 
 96. Unique Binary Search Trees
     - 和95差不多，不过只需要返回个数就行了。如果直接改95的代码会超时。
@@ -1021,10 +1025,12 @@ intervals.sort(key=takeStart)
 98. Validate Binary Search Tree
     - 中序遍历可以做，但是比较慢👈一次过
     - discussion的递归比较好用👈重写（python & java）
+    - 3/8重写一次过。注意这里要用Long.MAX_VALUE
 
 ```java
 // java 里面的最大最小值
 Long.MIN_VALUE,Long.MAX_VALUE
+Integer.MIN_VALUE, Integer.MAX_VALUE
 ```
 
 
@@ -1032,6 +1038,7 @@ Long.MIN_VALUE,Long.MAX_VALUE
 99. Recover Binary Search Tree
     - 太难了，discussion有很好的方法。
     - 想清楚，重写。
+    - 3/8 果然是hard模式emm。看了思路才一遍过。重写重写。
 
 ```python
     # python里面的最大最小值可以这么写
