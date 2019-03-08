@@ -1132,15 +1132,22 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
      - 对于链表没法直接得到最中间的元素。那么用fast和slow方法就非常有效了！discussion太机智了！
      - 重写重写，搞了半天，反思。
 
+     - 3/8重写，几乎一遍过。一些小细节。
 
+       
 
 110. Balanced Binary Tree
+
      - 第一次没想出来。重写。想清楚helper实现的功能是什么？
 
+     - 3/8 一次过。
 
+       
 
 111. Minimum Depth of Binary Tree
+
      - 重写。min-depth的定义好好看看？？
+     - 3/8 java重写完。几乎一次过。
 
 
 
@@ -1149,9 +1156,10 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
      - if的数量最少3个就够了。
      - java比python不知道快到哪里去了。
 
-
+     - 3/8 一次过
 
 113. Path Sum II
+
      - 一遍过 不难
 
 
@@ -1168,6 +1176,7 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
 115. Distinct Subsequences
      - 想法是对的，用DP。如何构造table的时候要想清楚各自的含义！
      - 重写！
+     - 3/8 java一次过！
 
 
 
@@ -1175,23 +1184,25 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
      - 自己写的，层次遍历之后算出每层的个数然后指过去（因为是完全二叉树)。空间复杂度O(n)了。
      - discussion里面有超简单的方法！重写！
 
+     - 3/8 一次过
 
 
 
-
-
-
-
-
-
-
-### 3.7.2019
+## 3.7.2019
 
 117. Populating Next Right Pointers in Each Node II
 
      - 没看懂[discussion](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 
      - 想一下以后写。
+
+
+
+## 3.8.2019
+
+把之前标记要重写的题重写了。继续往下啦！
+
+
 
 
 
