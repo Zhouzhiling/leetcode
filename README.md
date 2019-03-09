@@ -1202,6 +1202,83 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
 
 把之前标记要重写的题重写了。继续往下啦！
 
+118. Pascal's Triangle
+
+     - java一遍过。
+
+     - `` List<List<Integer>> res 获取某个元素的方法是 res.get(0).get(0)``
+
+
+
+120. Triangle
+     - 曾经想出来过，不过也不难。可以重写。
+
+**java里面 整数类型（byte、short、int、long）的基本类型变量的默认值为0**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
