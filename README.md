@@ -1352,7 +1352,27 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
  - 自己写出来的，但是初次逻辑不太对。
  - 需要挺多变量的，弄清楚。
 
-[✅] 
+
+
+[✅] 148. Sort List
+
+ - 不难，小麻烦，熟练了就行。
+
+
+
+[❌]149. Max Points on a Line
+
+- 奇怪的题目，先跳过。
+
+ 
+
+[⭐] 150. Evaluate Reverse Polish Notation
+
+ - 思路是对的，但是没能一次过，重写。
+ - **java的String没法直接比较是不是数字，除非转成char一个一个比，或者用正则表达。**
+ - **java里面String的比较，应该用s1.equals(s2)**
+
+​	
 
 
 
@@ -1374,9 +1394,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
-[❌]
-
-
+ - 
 
 [❌]
 
@@ -1390,7 +1408,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [⭐] 
 
-[⭐] 
+[⭐] 150. Evaluate Reverse Polish Notation
 
 
 
