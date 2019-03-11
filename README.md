@@ -1211,9 +1211,39 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
 
 
 120. Triangle
+
      - 曾经想出来过，不过也不难。可以重写。
 
-**java里面 整数类型（byte、short、int、long）的基本类型变量的默认值为0**
+     - **java里面 整数类型（byte、short、int、long）的基本类型变量的默认值为0**
+
+
+
+121. Best Time to Buy and Sell Stock
+     - 没思路，有了就很简单。重写。
+     - 遍历一次就好了。
+
+
+
+122. Best Time to Buy and Sell Stock II
+     - 五行就行，重写一下。
+
+124. Binary Tree Maximum Path Sum
+     - 有点tricky，重写。
+
+
+
+125. Valid Palindrome
+     - 我靠java对char的操作太tm麻烦了
+     - 当然可以先对s进行变换之后再在char的单位上来比较，会简短一点。
+
+```java
+
+Character.isLetter(ch) //判断是不是字母
+Character.isLetterOrDigit(s.charAt(ed)) //判断是不是数字或者字母
+Character.toLowerCase(s.charAt(st))	//大小写转换
+    
+//然后因为char是一个primitive而不是object，所以他没有任何的属性，所以不能用ch.isLetter()，只能用Character.isLetter(ch)
+```
 
 
 
@@ -1221,57 +1251,146 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
 
 
 
+## 3.10.2019
+
+128. Longest Consecutive Sequence
+     - 看了思路之后python一遍过，重写。
+
+129. Sum Root to Leaf Numbers
+     - java一遍过。
+
+130. Surrounded Regions
+     - 先跳过，感冒了脑子不转了，之后做。
+
+
+
+131. Palindrome Partitioning
+
+     - java操作string不够熟练，两次过，重写。
+
+       **java的s.substring(1)相当于python的s[1:]。**
+
+       **java的s.substring(0,1)相当于python的s[0:1]。**
+
+       
+
+133. Clone Graph
+     - 图论里面经典的算法，要掌握的。
+
+
+
+134. Gas Station
+
+     - java几乎一遍过。但是很慢。
+
+     - discussion里面是什么神仙方法啊 看不太懂但是直觉告诉我是可以的
+
+
+
+135. Candy
+     - 我记得当时也是有非常tricky的方法，想不起来了。
+
+
+
+136. Single Number
+     - java 异或 一遍过
+     - java用map的基本语法还不太熟，多看看。重写。
+
+
+
+137. Single Number II
+     - 一遍过
+
+138. Copy List with Random Pointer
+     - 竟然java一次过了我简直！！
+
+
+
+139. Word Break
+     - 看了discussion里面动态规划的方法，重写重写。
+     - 但是复杂度是O(n^2)，击败了48%感觉有点慢？
+
+
+
+141. Linked List Cycle
+     - 一次过。fast和slow果然非常好用啊！
+
+
+
+142. Linked List Cycle II
+     - 看了原理之后一次过。看过之后会证明了，但是第一次没想出来。
+
+
+
+143. Reorder List
+     - 比较麻烦，不过一次过啦开心！
+
+
+
+以上都是之前做过的题，这样就算过过两遍了！
+
+---
+
+
+
+**以后是新的题目，第一次做!**
+
+[✅] 144. Binary Tree Preorder Traversal
+
+ - 树的遍历，简单一次过
+
+   
+
+[✅] 145. Binary Tree Postorder Traversal
+
+ - 树的后序遍历，一次过。
+
+
+
+[⭐]147. Insertion Sort List
+
+ - 自己写出来的，但是初次逻辑不太对。
+ - 需要挺多变量的，弄清楚。
+
+[✅] 
+
+
+
+[✅] 
+
+
+
+[✅] 
+
+
+
+[✅] 
+
+[✅] 
+
+
+
+[✅] 
+
+
+
+[❌]
+
+
+
+[❌]
+
+
+
+[❌]
 
 
 
 
 
+[⭐] 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[⭐] 
 
 
 
@@ -1292,6 +1411,8 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
 [❌]
 
 [❌]
+
+
 
 
 
