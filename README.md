@@ -1370,7 +1370,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
  - 思路是对的，但是没能一次过，重写。
  - **java的String没法直接比较是不是数字，除非转成char一个一个比，或者用正则表达。**
- - **java里面String的比较，应该用s1.equals(s2)**
+ - java里面String的比较，应该用s1.equals(s2)。== compares object references in **Java**, and that is no exception for **String** objects. For **comparing** the actual contents of objects (including **String** ), one must use the equals method.
+ - 如何把string转num：``Integer.parseInt(c)``
 
 ​	
 
