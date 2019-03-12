@@ -1251,7 +1251,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
-## 3.10.2019
+## 3.11.2019
 
 128. Longest Consecutive Sequence
      - 看了思路之后python一遍过，重写。
@@ -1274,7 +1274,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
        
 
-133. Clone Graph
+132. Clone Graph
+
      - 图论里面经典的算法，要掌握的。
 
 
@@ -1377,25 +1378,89 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
+## 3.11.2019
+
+
+
+[⭐] 151. Reverse Words in a String
+
+ - 自己写的，但是没能bug-free。
+
+
+
+[⭐] 152. Maximum Product Subarray
+
+ - 看了discussion，DP非常好用！
+
+
+
+[✅]153. Find Minimum in Rotated Sorted Array
+
+ - 没啥难度，一次过。
+
+   
+
+[⭐] 154. Find Minimum in Rotated Sorted Array II
+
+ - 移动时候的条件判断要注意，写了很多次才通过的。重写。
+
+
+
+[⭐] 160. Intersection of Two Linked Lists
+
+ - 自己写的一次过但是慢，空间复杂度还是O(n)。discussion的方法无敌好了。
+
+
+
+[⭐] 162. Find Peak Element
+
+ - 自己写的O(n)，discussion里面的O(logn)
+
+
+
+[❌]164. Maximum Gap
+
+ - 太难了 跳过先
+
+
+
+[✅] 165. Compare Version Numbers
+
+ - 题没啥难度。注意java的s.split("//.")里面跟的是正则表达，服了。
+
+
+
+[✅] 167. Two Sum II - Input array is sorted
+
+ - 简单一次过。
+
+   
+
+
+
+
+
+[✅] 
+
+
+
+
+
 [✅] 
 
 
 
 [✅] 
 
-
-
-[✅] 
-
 [✅] 
 
 
 
-[✅] 
+[✅] 167. Two Sum II - Input array is sorted
 
 
 
- - 
+
 
 [❌]
 
@@ -1409,7 +1474,13 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [⭐] 
 
-[⭐] 150. Evaluate Reverse Polish Notation
+[⭐] 
+
+[⭐] 
+
+[⭐] 
+
+[⭐] 162. Find Peak Element
 
 
 
@@ -1429,7 +1500,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [❌]
 
-[❌]
+[❌]164. Maximum Gap
 
 
 
