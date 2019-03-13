@@ -1378,7 +1378,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
-## 3.11.2019
+## 3.12.2019
 
 
 
@@ -1460,25 +1460,35 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
    ...
    ```
 
- - 
+
+
+## 3.13.2019
+
+[✅] 171. Excel Sheet Column Number
+
+[✅] 172. Factorial Trailing Zeroes
+
+
+
+怎么回事中间有一堆SQL的题目...跳过了先。
+
+[❌]188. Best Time to Buy and Sell Stock IV
+
+ - 想不出，没太想，先跳过。
+
+[✅] 189. Rotate Array
+
+ - 自己也能写，但是时空复杂度没法同时达到最优。有了想法就很简单了。
+
+   
+
+[✅] 
 
 [✅] 
 
 
 
-
-
-[✅] 
-
-
-
-[✅] 
-
-[✅] 
-
-
-
-[✅] 167. Two Sum II - Input array is sorted
+[✅] 171. Excel Sheet Column Number
 
 
 
