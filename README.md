@@ -1472,26 +1472,49 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 怎么回事中间有一堆SQL的题目...跳过了先。
 
+
+
 [❌]188. Best Time to Buy and Sell Stock IV
 
  - 想不出，没太想，先跳过。
+
+
 
 [✅] 189. Rotate Array
 
  - 自己也能写，但是时空复杂度没法同时达到最优。有了想法就很简单了。
 
-   
+
+
+
+[⭐]190. Reverse Bits
+
+
+
+[✅] 191. Number of 1 Bits
+
+
+
+**192~197都是bash或者SQL的，跳过。**
+
+
+
+[✅] 198. House Robber
+
+
+
+[⭐] 199. Binary Tree Right Side View
+
+
+
+[⭐] 200. Number of Islands
+
+
+
+
 
 [✅] 
 
-[✅] 
-
-
-
-[✅] 171. Excel Sheet Column Number
-
-
-
 
 
 [❌]
@@ -1499,6 +1522,10 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 [❌]
+
+
+
+
 
 
 
@@ -1508,10 +1535,6 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [⭐] 
 
-[⭐] 
-
-[⭐] 169. Majority Element
-
 
 
 
@@ -1532,7 +1555,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [❌]
 
-[❌]164. Maximum Gap
+[❌]
 
 
 
