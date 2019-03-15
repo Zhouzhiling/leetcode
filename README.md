@@ -1480,6 +1480,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
+## 3.14.2019
+
 [✅] 189. Rotate Array
 
  - 自己也能写，但是时空复杂度没法同时达到最优。有了想法就很简单了。
@@ -1513,7 +1515,43 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
-[✅] 
+## 3.15.2019
+
+[⭐] 201. Bitwise AND of Numbers Range
+
+ - 重写重写，想清楚先。
+
+
+
+[✅] 202. Happy Number
+
+[✅] 203. Remove Linked List Elements
+
+
+
+[⭐] 204. Count Primes
+
+
+
+[⭐] 205. Isomorphic Strings
+
+
+
+[✅] 206. Reverse Linked List
+
+
+
+
+
+
+
+---
+
+
+
+
+
+[✅] 206. Reverse Linked List
 
 
 
@@ -1521,19 +1559,9 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
-[❌]
+[⭐] 204. Count Primes
 
 
-
-
-
-
-
-
-
-[⭐] 
-
-[⭐] 
 
 
 
