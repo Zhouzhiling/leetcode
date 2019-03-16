@@ -1539,6 +1539,35 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [✅] 206. Reverse Linked List
 
+ - 新建一个空int[]的方法包括：
+
+   ```java
+   res = new int[]{};
+   res = new int[0];
+   ```
+
+   
+
+
+
+## 3.16.2019
+
+[⭐] 207. Course Schedule
+
+ - 要好好写。graph的基本知识，重写重写。
+
+   
+
+[❌]208. Implement Trie (Prefix Tree)
+
+ - 没搞懂，啥玩意儿。感冒没心思看，跳过了先。
+
+
+
+[✅] 209. Minimum Size Subarray Sum
+
+ - 是之前做过的 max substring类型的题目
+
 
 
 
@@ -1547,19 +1576,11 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 ---
 
+[✅] 209. Minimum Size Subarray Sum
 
+[❌] 208. Implement Trie (Prefix Tree)
 
-
-
-[✅] 206. Reverse Linked List
-
-
-
-[❌]
-
-
-
-[⭐] 204. Count Primes
+[⭐] 207. Course Schedule
 
 
 
