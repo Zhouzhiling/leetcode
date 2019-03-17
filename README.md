@@ -1578,6 +1578,36 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
+## 3.17.2019
+
+[⭐] 214. Shortest Palindrome
+
+ - 自己写的但是bug挺多，重写
+
+
+
+[⭐] 215. Kth Largest Element in an Array
+
+ - 基本数据结构！算复杂度！好好想！java的priorityqueue。
+
+
+
+[✅] 216. Combination Sum III
+
+
+
+[✅] 217. Contains Duplicate
+
+ - ``java如何sort int[] : Arrays.sort(nums);``
+
+
+
+[❌] 218. The Skyline Problem
+
+ - hard题先跳过了
+
+
+
 
 
 
@@ -1586,11 +1616,11 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 ---
 
-[✅] 210. Course Schedule II
+[✅] 217. Contains Duplicate
 
-[❌] 208. Implement Trie (Prefix Tree)
+[❌] 218. The Skyline Problem
 
-[⭐] 213. House Robber II
+[⭐] 215. Kth Largest Element in an Array
 
 
 
