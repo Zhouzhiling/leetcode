@@ -1608,6 +1608,42 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
+[✅] 219. Contains Duplicate II
+
+
+
+[⭐] 220. Contains Duplicate III
+
+ - 太机智了我靠
+
+
+
+[⭐] 221. Maximal Square
+
+ - DP 原创太难了 
+
+
+
+[✅] 222. Count Complete Tree Nodes
+
+层次遍历的时候要用的堆可以直接``Queue<TreeNode> queue = new LinkedList<>();``
+
+其中包括的操作有
+
+```java
+queue.peek()//返回第一个元素 
+queue.poll()//返回第一个元素并删除
+queue.offer(2)//放入新的元素
+```
+
+具体请戳[文档](https://docs.oracle.com/javase/7/docs/api/java/util/Queue.html)!
+
+
+
+[⭐] 222. Count Complete Tree Nodes
+
+ - 自己写的太慢（O(n)），重写(O((log(n))^2))。
+
 
 
 
@@ -1616,11 +1652,11 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 ---
 
-[✅] 217. Contains Duplicate
+[✅] 222. Count Complete Tree Nodes
 
 [❌] 218. The Skyline Problem
 
-[⭐] 215. Kth Largest Element in an Array
+[⭐] 222. Count Complete Tree Nodes
 
 
 
