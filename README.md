@@ -1646,17 +1646,95 @@ queue.offer(2)//放入新的元素
 
 
 
+[⭐] 223. Rectangle Area
+
+ - 自己写的太慢，其实可以公式直接算。
+
+
+
+[❌] 224. Basic Calculator
+
+ - 不想看了，关于如何把一个中缀表达换成后缀表达然后计算的问题。
+ - 但是还是需要的，之后记得看。教程[戳](https://leetcode.com/problems/basic-calculator/discuss/250315/Infix-to-PostFix-JAVA-EASY-SOLUTION-WITH-EXPLANATION)和[戳](https://leetcode.com/problems/basic-calculator/discuss/62361/Iterative-Java-solution-with-stack)
+
+
+
+## 3.18.2019
+
+[⭐] 225. Implement Stack using Queues
+
+ - 写出来的，再次熟悉一下queue的用法。
+
+ - ```
+   queue = new LinkedList<Integer>();
+   queue.offer(x);
+   res = queue.poll();
+   while(!queue2.isEmpty())
+   while(queue.size()>1)
+   ```
+
+
+
+[✅] 226. Invert Binary Tree
+
+ - 递归迭代要都能写。
+
+
+
+[✅] 228. Summary Ranges
+
+
+
+[⭐] 229. Majority Element II
+
+ - 摩尔投票法[了解一下](https://www.zhihu.com/question/49973163)
+
+
+
+[⭐] 231. Power of Two
+
+ - 普通做法✅，机智做法⭐
+
+
+
+[✅] 232. Implement Queue using Stacks
+
+ - stack的基本操作(peek pop push)了解一下，和225几乎一样。
+
+ - ```java
+   Stack<Integer> stack2 = new Stack<>();
+   while(!stack.isEmpty())
+   stack2.push(stack.pop());
+   int res = (int)stack2.pop();
+   int res = (int)stack2.peek();
+   ```
+
+
+
+[❌] 233. Number of Digit One
+
+ - hard不想做 跳过
+
+
+
+[⭐] 234. Palindrome Linked List
+
+ - 应该可以bugfree的题目，注意reverse的时候一开始的指针要置null啊多少次了！！
+ - 重写重写。
+
+
+
 
 
 
 
 ---
 
-[✅] 222. Count Complete Tree Nodes
+[✅] 232. Implement Queue using Stacks
 
-[❌] 218. The Skyline Problem
+[❌] 233. Number of Digit One
 
-[⭐] 222. Count Complete Tree Nodes
+[⭐] 234. Palindrome Linked List
 
 
 
