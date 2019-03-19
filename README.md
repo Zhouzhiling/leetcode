@@ -1740,58 +1740,37 @@ queue.offer(2)//放入新的元素
 
 
 
+
+
+## 3.19.2019
+
+[⭐] 239. Sliding Window Maximum
+
+ - 超机智的做法！！重写！！
+
+
+
+[✅] 240. Search a 2D Matrix II
+
+
+
+[⭐] 241. Different Ways to Add Parentheses
+
+
+
+[✅] 华为模拟笔试题 SwapWithZero
+
+ - 一个长度为len的数组，里面存的是乱序的[0, len-1]。要求sort，但是只能调用函数SwapWithZero，功能是交换数字n和数字0的位置。
+ - 想了一会儿，一次过。
+
+
+
 ---
 
-[✅] 235. Lowest Common Ancestor of a Binary Search Tree
+[✅] 240. Search a 2D Matrix II
 
 [❌] 233. Number of Digit One
 
-[⭐] 238. Product of Array Except Self
+[⭐] 241. Different Ways to Add Parentheses
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[❌]
-
-[❌]
-
-[❌]
-
-[❌]
-
-
-
-
-
-[✅] 
-
-[✅] 
-
-[✅] 
-
-[✅] 
-
-
-
-[⭐]
-
-[⭐] 
-
-[⭐] 
-
-[⭐] 
-
-[⭐] 
