@@ -1765,12 +1765,45 @@ queue.offer(2)//放入新的元素
 
 
 
+[✅] 242. Valid Anagram
+
+ - 如何把int变成string：``Integer.toString(root.val)``
+
+
+
+[✅] 257. Binary Tree Paths
+
+ - 如何把int变成string：``Integer.toString(root.val)``
+ - 如何把string变成int：``Integer.parseInt("2333")``
+
+
+
+[✅] 258. Add Digits
+
+
+
+[⭐] 263. Ugly Number
+
+ - 不难，注意边缘条件（1和0）即可。
+
+
+
+[⭐] 264. Ugly Number II
+
+ - discussion里面的机智方法，好吧~
+
+
+
+[✅] 268. Missing Number
+
+
+
 ---
 
-[✅] 240. Search a 2D Matrix II
+[✅] 268. Missing Number
 
 [❌] 233. Number of Digit One
 
-[⭐] 241. Different Ways to Add Parentheses
+[⭐] 264. Ugly Number II
 
 
