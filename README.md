@@ -1216,18 +1216,27 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
 
      - **java里面 整数类型（byte、short、int、long）的基本类型变量的默认值为0**
 
+     - 3/20 一遍过，但是第一遍没有用最简单的方法，第二遍才。
 
+       
 
 121. Best Time to Buy and Sell Stock
      - 没思路，有了就很简单。重写。
      - 遍历一次就好了。
+     - 3/20 一次过
 
 
 
 122. Best Time to Buy and Sell Stock II
+
      - 五行就行，重写一下。
 
-124. Binary Tree Maximum Path Sum
+     - 3/20 一遍过
+
+       
+
+123. Binary Tree Maximum Path Sum
+
      - 有点tricky，重写。
 
 
@@ -1235,6 +1244,7 @@ Integer.MIN_VALUE, Integer.MAX_VALUE
 125. Valid Palindrome
      - 我靠java对char的操作太tm麻烦了
      - 当然可以先对s进行变换之后再在char的单位上来比较，会简短一点。
+     - 3/20 几乎一次过 忽略了数字也应该要比较这件事儿
 
 ```java
 
@@ -1254,15 +1264,26 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 ## 3.11.2019
 
 128. Longest Consecutive Sequence
+
      - 看了思路之后python一遍过，重写。
 
+     - 3/20 重写一遍过
+
+       
+
 129. Sum Root to Leaf Numbers
+
      - java一遍过。
 
+       
+
 130. Surrounded Regions
+
      - 先跳过，感冒了脑子不转了，之后做。
 
+     - 3/20依然不想做 什么傻子题目...
 
+       
 
 131. Palindrome Partitioning
 
@@ -1272,11 +1293,22 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
        **java的s.substring(0,1)相当于python的s[0:1]。**
 
+       **如果s的长度是len，那么s.substring(len)是合法的。**
+
+       3/20 重写 一次过。
+
        
 
-132. Clone Graph
+132. Palindrome Partitioning II
 
-     - 图论里面经典的算法，要掌握的。
+     - DP即可，有坑注意。3/20几乎一次过。
+
+
+
+133. Clone Graph
+
+- 图论里面经典的算法，要掌握的。
+- 3/20没能一次过 我的锅
 
 
 
@@ -1286,9 +1318,12 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
      - discussion里面是什么神仙方法啊 看不太懂但是直觉告诉我是可以的
 
+     - 3/20 一次过
 
+     
 
 135. Candy
+
      - 我记得当时也是有非常tricky的方法，想不起来了。
 
 
@@ -1297,13 +1332,21 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
      - java 异或 一遍过
      - java用map的基本语法还不太熟，多看看。重写。
 
+     - 3/20一遍过
 
+     
 
 137. Single Number II
+
      - 一遍过
+     - 3/20 ↑什么一遍过，效率极低的一遍过orz。discussion里面有正统的写法，暂时没懂。要再看看。
+
+     
 
 138. Copy List with Random Pointer
+
      - 竟然java一次过了我简直！！
+     - 3/20 递归和迭代都行了，迭代会麻烦一点。
 
 
 
@@ -1352,6 +1395,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
  - 自己写出来的，但是初次逻辑不太对。
  - 需要挺多变量的，弄清楚。
+ - 3/20一次过 没啥问题...
 
 
 
@@ -1373,6 +1417,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
  - **java的String没法直接比较是不是数字，除非转成char一个一个比，或者用正则表达。**
  - java里面String的比较，应该用s1.equals(s2)。== compares object references in **Java**, and that is no exception for **String** objects. For **comparing** the actual contents of objects (including **String** ), one must use the equals method.
  - 如何把string转num：``Integer.parseInt(c)``
+ - 3/20重写，还挺好写的啊明明。注意使用stack还是queue就行了（显然是stack的。
 
 ​	
 
@@ -1385,6 +1430,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [⭐] 151. Reverse Words in a String
 
  - 自己写的，但是没能bug-free。
+ - 3/20 依然没能bugfree 不过换用了stringbuilder的方法
 
 
 
@@ -1798,12 +1844,16 @@ queue.offer(2)//放入新的元素
 
 
 
+[⭐] 274. H-Index
+
+ - 还没看和整理
+
 ---
 
 [✅] 268. Missing Number
 
 [❌] 233. Number of Digit One
 
-[⭐] 264. Ugly Number II
+[⭐] 274. H-Index
 
 
