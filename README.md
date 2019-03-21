@@ -1259,8 +1259,6 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 
-
-
 ## 3.11.2019
 
 128. Longest Consecutive Sequence
@@ -1363,6 +1361,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 142. Linked List Cycle II
      - 看了原理之后一次过。看过之后会证明了，但是第一次没想出来。
+     - 3/21 一次过
 
 
 
@@ -1437,6 +1436,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [⭐] 152. Maximum Product Subarray
 
  - 看了discussion，DP非常好用！
+ - 3/21 一次过
 
 
 
@@ -1449,18 +1449,22 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [⭐] 154. Find Minimum in Rotated Sorted Array II
 
  - 移动时候的条件判断要注意，写了很多次才通过的。重写。
+ - 3/21 重写。bugfree失败。重写
+ - [2,2,2,2,0,1,2] 和 [2,0,1,2,2,2,2,2]
 
 
 
 [⭐] 160. Intersection of Two Linked Lists
 
  - 自己写的一次过但是慢，空间复杂度还是O(n)。discussion的方法无敌好了。
+ - 3/20 还记得做法 一次过 耶
 
 
 
 [⭐] 162. Find Peak Element
 
  - 自己写的O(n)，discussion里面的O(logn)
+ - 3/21 重写，还是没想出来。傻子。
 
 
 
