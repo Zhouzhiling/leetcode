@@ -1401,6 +1401,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [✅] 148. Sort List
 
  - 不难，小麻烦，熟练了就行。
+ - 3/20 重写一次过。
 
 
 
@@ -1477,6 +1478,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [✅] 165. Compare Version Numbers
 
  - 题没啥难度。注意java的s.split("//.")里面跟的是正则表达，服了。
+ - 3/22 差不多一次过。注意1.1.0和1.1被认为是一样的。
 
 
 
