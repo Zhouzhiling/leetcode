@@ -1492,6 +1492,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
  - 对26取余的时候如何保证得到[0,25]之间的值？
  - StringBuilder这么好用为什么不学？？同文件夹下有个java_3150103638_hw1的pdf，里面是当时java的作业，分析了String+StringBuilder+StringBuffer的区别。
+ - 3/22重写 还是不太明白 不够intuitive
 
 > The Java language provides special support for the string concatenation operator ( + ), and for conversion of other objects to strings. String concatenation is implemented through the `StringBuilder`(or `StringBuffer`) class and its `append` method. String conversions are implemented through the method `toString`, defined by `Object` and inherited by all classes in Java.
 
