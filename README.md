@@ -1502,6 +1502,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
  - 思路简单，为了熟悉map操作可以重写。
 
+ - 3/22 用类似抵消原理重写了 有一个小地方失误 然后一遍过
+
  - ```
    HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
    if(map.get(i)!=null)
@@ -1538,11 +1540,13 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [✅] 189. Rotate Array
 
  - 自己也能写，但是时空复杂度没法同时达到最优。有了想法就很简单了。
-
+ - 3/22 一次过!
 
 
 
 [⭐]190. Reverse Bits
+
+- 3/22 一次过!
 
 
 
@@ -1559,6 +1563,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 
 [⭐] 199. Binary Tree Right Side View
+
+- 3/22 偷瞟了上次的过程才写出来的dbp.再重写吧
 
 
 
