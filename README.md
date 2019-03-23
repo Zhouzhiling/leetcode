@@ -1861,12 +1861,36 @@ queue.offer(2)//放入新的元素
 
  - 还没看和整理
 
+
+
+
+
+
+
+## 3.23.2019
+
+[⭐] kickstart_super_2048
+
+- 自己写的，但是写了太久了...
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 [✅] 268. Missing Number
 
 [❌] 233. Number of Digit One
 
-[⭐] 274. H-Index
+[⭐] kickstart_super_2048
 
 
