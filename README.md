@@ -1875,9 +1875,31 @@ queue.offer(2)//放入新的元素
 
 
 
+## 3.24.2019
+
+[⭐]278. First Bad Version
+
+- 放个星星买教训orz 佛了
+
+- ```java
+  int mid = st+(ed-st)/2;	//这个正常
+  int mid = (st+ed)/2;	//这个如果是两个大数的话会越界
+  ```
 
 
 
+[❌] [Round A. Training](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6)
+
+- small过了，large没过
+
+[❌] [Round A. Parcels](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/000000000006987d)
+
+- small过了，large没过
+
+[❌] [Round A. Contention](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/0000000000069881)
+
+- small没过，large更没过
+- 你菜死算了
 
 
 
@@ -1891,6 +1913,6 @@ queue.offer(2)//放入新的元素
 
 [❌] 233. Number of Digit One
 
-[⭐] kickstart_super_2048
+[⭐]278. First Bad Version
 
 
