@@ -1634,6 +1634,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
  - 要好好写。graph的基本知识，重写重写。
 
+ - 3/20 基本的数据结构一开始有点懵逼要怎么写`ArrayList[] graph = new ArrayList[numCourses];`真是奇妙的存在。偷瞄了数据结构之后就会写了！
+
    
 
 [❌]208. Implement Trie (Prefix Tree)
@@ -1645,6 +1647,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [✅] 209. Minimum Size Subarray Sum
 
  - 是之前做过的 max substring类型的题目
+ - 3/28 小的边界条件要多注意下
 
 
 
