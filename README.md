@@ -198,6 +198,24 @@
 
 - 不难，学到了自定义规则来sort的写法。
 
+- 3/24 重写了java版本。注意java自定义sort的方法：
+
+- ```java
+  class Sort_Start implements Comparator<Interval>
+  {
+      public int compare(Interval a, Interval b)
+      {
+          return a.start-b.start;    
+      }
+  }
+  ...
+  Collections.sort(intervals, new Sort_Start());
+  ```
+
+  
+
+- 
+
 # 12.17.2018 
 
 [[✅] 59. Spiral Matrix II](https://github.com/Zhouzhiling/kickstart/blob/master/59.%20Spiral%20Matrix%20II.md)
@@ -1579,6 +1597,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [⭐] 201. Bitwise AND of Numbers Range
 
  - 重写重写，想清楚先。
+ - 3/28 一次过
 
 
 
@@ -1590,11 +1609,11 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [⭐] 204. Count Primes
 
-
+- 3/28 偷瞟了一眼之前的答案之后过了（fine
 
 [⭐] 205. Isomorphic Strings
 
-
+- 3/28 一次过!
 
 [✅] 206. Reverse Linked List
 
@@ -1900,6 +1919,18 @@ queue.offer(2)//放入新的元素
 
 - small没过，large更没过
 - 你菜死算了
+
+
+
+## 3.27.2019
+
+[⭐] [Round A. Training](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6)
+
+- 检查了复杂度O(N)的方法，想得到的话也不太难emm
+
+
+
+## 3.28.2019
 
 
 
