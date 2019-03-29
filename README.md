@@ -1657,6 +1657,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
 [⭐] 213. House Robber II
 
+- 3/29写还行？java的切片不熟就直接传入st和ed好吧。
+
 
 
 ## 3.17.2019
@@ -1664,6 +1666,8 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [⭐] 214. Shortest Palindrome
 
  - 自己写的但是bug挺多，重写
+ - 3/29 自己重写 还是没能一次过emm
+ - **string是没有reverse方法的，需要根据string构造stringbuilder然后reverse然后转回string**
 
 
 
@@ -1671,7 +1675,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 
  - 基本数据结构！算复杂度！好好想！java的priorityqueue。
 
-
+- 3/29 一次过
 
 [✅] 216. Combination Sum III
 
@@ -1696,12 +1700,14 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
 [⭐] 220. Contains Duplicate III
 
  - 太机智了我靠
+ - 3/29 到处踩坑我靠，重写重写重写。要用long。map映射的应该是什么？？k和t的含义分清。remove的时机。
 
 
 
 [⭐] 221. Maximal Square
 
  - DP 原创太难了 
+ - 3/29 一次过
 
 
 
@@ -1724,12 +1730,14 @@ queue.offer(2)//放入新的元素
 [⭐] 222. Count Complete Tree Nodes
 
  - 自己写的太慢（O(n)），重写(O((log(n))^2))。
+ - 3/22 一次过！
 
 
 
 [⭐] 223. Rectangle Area
 
  - 自己写的太慢，其实可以公式直接算。
+ - 3/22 记得公式了，没写。五行的事儿写啥啊。
 
 
 
@@ -1745,6 +1753,8 @@ queue.offer(2)//放入新的元素
 [⭐] 225. Implement Stack using Queues
 
  - 写出来的，再次熟悉一下queue的用法。
+
+ - 3/29 不难一次过，还只用一个queue，节约了空间
 
  - ```
    queue = new LinkedList<Integer>();
@@ -1769,18 +1779,22 @@ queue.offer(2)//放入新的元素
 [⭐] 229. Majority Element II
 
  - 摩尔投票法[了解一下](https://www.zhihu.com/question/49973163)
+ - 3/29 没一次过 想清楚啊啊啊
 
 
 
 [⭐] 231. Power of Two
 
  - 普通做法✅，机智做法⭐
+ - 3/29 普通和机智做法都一次过啦√
 
 
 
 [✅] 232. Implement Queue using Stacks
 
  - stack的基本操作(peek pop push)了解一下，和225几乎一样。
+
+ - 3/29 一次过
 
  - ```java
    Stack<Integer> stack2 = new Stack<>();
