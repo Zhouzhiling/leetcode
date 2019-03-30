@@ -1815,7 +1815,7 @@ queue.offer(2)//放入新的元素
 [⭐] 234. Palindrome Linked List
 
  - 应该可以bugfree的题目，注意reverse的时候一开始的指针要置null啊多少次了！！
- - 重写重写。
+ - 3/30 指针没问题了，空链表的情况注意
 
 
 
@@ -1832,6 +1832,7 @@ queue.offer(2)//放入新的元素
 [⭐] 238. Product of Array Except Self
 
  - 要多考虑考虑嗷
+ - 3/30 用了division的方法一次过，note里面不用division的方法注意再写一下。
 
 
 
