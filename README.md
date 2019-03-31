@@ -1832,7 +1832,7 @@ queue.offer(2)//放入新的元素
 [⭐] 238. Product of Array Except Self
 
  - 要多考虑考虑嗷
- - 3/30 用了division的方法一次过，note里面不用division的方法注意再写一下。
+ - 3/30 用了division的方法一次过，note里面不用division的方法，看了discussion以想通了也一次过。
 
 
 
@@ -1843,6 +1843,7 @@ queue.offer(2)//放入新的元素
 [⭐] 239. Sliding Window Maximum
 
  - 超机智的做法！！重写！！
+ - 行吧3/31 自己想了半天还是没太想通，看代码才勉强弄懂。**晚上写一下**。
 
 
 
@@ -1851,6 +1852,8 @@ queue.offer(2)//放入新的元素
 
 
 [⭐] 241. Different Ways to Add Parentheses
+
+- 3/31 看了一下之前的tips之后写出来的 还是没记住唔quq
 
 
 
@@ -1881,12 +1884,14 @@ queue.offer(2)//放入新的元素
 [⭐] 263. Ugly Number
 
  - 不难，注意边缘条件（1和0）即可。
+ - 3/31 轻松一次过！
 
 
 
 [⭐] 264. Ugly Number II
 
  - discussion里面的机智方法，好吧~
+ - 3/31 如何防止重复没想出来，重写重写。
 
 
 
@@ -1949,6 +1954,10 @@ queue.offer(2)//放入新的元素
 
 
 ## 3.28.2019
+
+
+
+
 
 
 
