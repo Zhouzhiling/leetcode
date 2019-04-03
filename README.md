@@ -1953,24 +1953,56 @@ queue.offer(2)//放入新的元素
 
 
 
-## 3.28.2019
+## 4.1.2019
+
+[✅] 279. Perfect Squares
 
 
 
+## 4.3.2019
+
+[⭐] 284. Peeking Iterator
+
+[✅] 283. Move Zeroes
+
+[⭐] 287. Find the Duplicate Number
+
+- 自己想了挺久才写出来的。但是没有满足不修改nums的要求。
+
+- discussion里面的方法简直牛逼。重写！
+
+  
+
+[✅] 289. Game of Life
+
+- 挺straight的方法，不难。
+- 如何用已有数据初始化数组``int[][] dir ={{1,-1},{1,0},{1,1},{0,-1},{0,1},{-1,-1},{-1,0},{-1,1}};``
 
 
 
+[⭐] 290. Word Pattern
+
+- 老样子万用的map，两次过。条件判断的时候稍微注意下顺序就行。
 
 
+
+[✅] 292. Nim Game
+
+
+
+[✅] 295. Find Median from Data Stream
+
+- 想不通为啥这是hard，每次二分查找后插入不就好了。
+- list在指定的下标插入数据用list.add(idx,num);
 
 
 
 ---
 
-[✅] 268. Missing Number
+[✅] 295. Find Median from Data Stream
 
 [❌] 233. Number of Digit One
 
-[⭐]278. First Bad Version
+[⭐] 287. Find the Duplicate Number
 
 
