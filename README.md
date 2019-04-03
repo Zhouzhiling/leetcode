@@ -1997,12 +1997,19 @@ queue.offer(2)//放入新的元素
 
 
 
+[⭐] 297. Serialize and Deserialize Binary Tree
+
+- 写的用null填满list的方法超时了emm
+- 
+
+
+
 ---
 
 [✅] 295. Find Median from Data Stream
 
 [❌] 233. Number of Digit One
 
-[⭐] 287. Find the Duplicate Number
+[⭐] 297. Serialize and Deserialize Binary Tree
 
 
