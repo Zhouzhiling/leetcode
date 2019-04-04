@@ -1997,16 +1997,32 @@ queue.offer(2)//放入新的元素
 
 
 
+
+
+## 4.3.2019
+
 [⭐] 297. Serialize and Deserialize Binary Tree
 
-- 写的用null填满list的方法超时了emm
-- 
+- 写的用null填满list的方法超时了emm，重写！！
+
+- 如何把int[] 变成ArrayList: 
+
+- ```java
+  Deque<String> nodes = new LinkedList<>();
+  nodes.addAll(Arrays.asList(data.split(spliter)));
+  ```
+
+
+
+[✅] 299. Bulls and Cows
+
+
 
 
 
 ---
 
-[✅] 295. Find Median from Data Stream
+[✅] 299. Bulls and Cows
 
 [❌] 233. Number of Digit One
 
