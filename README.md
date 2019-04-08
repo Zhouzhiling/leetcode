@@ -2018,14 +2018,41 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.4.2019
+
+[⭐] 300. Longest Increasing Subsequence
+
+- 自己写的是DP，复杂度是n平方。
+- discussion里面是nlogn，这个可以重写。
+
+
+
+[❌] 301. Remove Invalid Parentheses
+
+- 想不出来，还没看答案
+
+
+
+[✅] 303. Range Sum Query - Immutable
+
+
+
+[✅] 304. Range Sum Query 2D - Immutable
+
+
+
+[⭐] 306. Additive Number
+
+- 自己写的，挺有趣的一道题，坑比较多，注意一下。重写。
+
 
 
 ---
 
-[✅] 299. Bulls and Cows
+[✅] 304. Range Sum Query 2D - Immutable
 
-[❌] 233. Number of Digit One
+[❌] 301. Remove Invalid Parentheses
 
-[⭐] 297. Serialize and Deserialize Binary Tree
+[⭐] 306. Additive Number
 
 
