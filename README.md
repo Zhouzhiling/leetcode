@@ -2061,16 +2061,31 @@ queue.offer(2)//放入新的元素
 
 [⭐] 310. Minimum Height Trees
 
-- 图的遍历，自己写的超时了orz，但是思路是对的。
-
-- 关于map如何遍历value和key：
+- 图的遍历，自己写的超时了orz，但是思路是对的。不超时的方法要重写！
 
 - ```java
+  // 关于map如何遍历value和key：
   for(int root : map.keySet())
   for(int dist : map.values())
+  // 关于如何复制int[]
+  int[] tmp = res.clone();
   ```
 
   
+
+[❌] 312. Burst Balloons
+
+
+
+[✅] 313. Super Ugly Number
+
+
+
+[⭐] 315. Count of Smaller Numbers After Self
+
+- 我几乎和这道题磕了一天，死。
+
+
 
 
 
@@ -2080,10 +2095,10 @@ queue.offer(2)//放入新的元素
 
 ---
 
-[✅] 304. Range Sum Query 2D - Immutable
+[✅] 313. Super Ugly Number
 
-[❌] 301. Remove Invalid Parentheses
+[❌] 312. Burst Balloons
 
-[⭐] 310. Minimum Height Trees
+[⭐] 315. Count of Smaller Numbers After Self
 
 
