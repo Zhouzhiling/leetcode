@@ -2027,6 +2027,8 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.8.2019
+
 [❌] 301. Remove Invalid Parentheses
 
 - 想不出来，还没看答案
@@ -2055,11 +2057,20 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.9.2019
 
+[⭐] 310. Minimum Height Trees
 
+- 图的遍历，自己写的超时了orz，但是思路是对的。
 
+- 关于map如何遍历value和key：
 
+- ```java
+  for(int root : map.keySet())
+  for(int dist : map.values())
+  ```
 
+  
 
 
 
@@ -2073,6 +2084,6 @@ queue.offer(2)//放入新的元素
 
 [❌] 301. Remove Invalid Parentheses
 
-[⭐] 309. Best Time to Buy and Sell Stock with Cooldown
+[⭐] 310. Minimum Height Trees
 
 
