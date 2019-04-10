@@ -2089,16 +2089,42 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.10.2019
+
+[❌] 316. Remove Duplicate Letters
+
+- 贪心算法行不通，哭。要再想想。
+
+
+
+[✅] 319. Bulb Switcher
+
+
+
+[⭐] 318. Maximum Product of Word Lengths
+
+- 思路一样，数据存储方式的差别会导致速度50%和90的差别%。
+- （我写的当然是50%了（理直气壮
+- 所以重写。
+
+
+
+[⭐] 321. Create Maximum Number
+
+- 只写出来了数字不重复的版本，重复的测试没过，要再想想。
+
+
+
 
 
 
 
 ---
 
-[✅] 313. Super Ugly Number
+[✅] 318. Maximum Product of Word Lengths
 
-[❌] 312. Burst Balloons
+[❌] 316. Remove Duplicate Letters
 
-[⭐] 315. Count of Smaller Numbers After Self
+[⭐] 321. Create Maximum Number
 
 
