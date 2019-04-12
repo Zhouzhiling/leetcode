@@ -2118,6 +2118,12 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.12.2019
+
+[⭐] 322. Coin Change
+
+- 没想出来，重写。
+
 
 
 
@@ -2128,6 +2134,6 @@ queue.offer(2)//放入新的元素
 
 [❌] 316. Remove Duplicate Letters
 
-[⭐] 321. Create Maximum Number
+[⭐] 322. Coin Change
 
 
