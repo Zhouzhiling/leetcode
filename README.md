@@ -2126,14 +2126,33 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.14.2019
+
+[❌] 324. Wiggle Sort II
+
+- 理解了应该不难，还没看解释。
+
+  
+
+[⭐] 326. Power of Three
+
+- 这么简单还没能一遍过，菜
+- 用不用循环两种方法都写下
+
+
+
+[⭐] 327. Count of Range Sum
+
+- 暂时还是只有O(n^2)的方法，行吧
+
 
 
 ---
 
 [✅] 318. Maximum Product of Word Lengths
 
-[❌] 316. Remove Duplicate Letters
+[❌] 324. Wiggle Sort II
 
-[⭐] 322. Coin Change
+[⭐] 327. Count of Range Sum
 
 
