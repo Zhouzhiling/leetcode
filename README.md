@@ -2147,12 +2147,51 @@ queue.offer(2)//放入新的元素
 
 
 
+
+
+## 4.15.2019
+
+[✅] 328. Odd Even Linked List
+
+- 简单模式
+
+
+
+[⭐] 329. Longest Increasing Path in a Matrix
+
+- DP!!写！！
+
+- ```java
+  // 如何初始化final高维数组
+  private static final int[][] dirs = {{0,1},{0,-1},{1,0},{-1,0}};
+  
+  ```
+
+
+
+[⭐] 330. Patching Array
+
+- 自己写了个但是超时了嗯
+- 后来认真寻思了一下题目！！！写出来了！！！！我牛逼！！
+
+
+
+[✅] 331. Verify Preorder Serialization of a Binary Tree
+
+- 自己写出来的耶！一些边界情况注意一下，别的就没啦！
+
+
+
+
+
+
+
 ---
 
-[✅] 318. Maximum Product of Word Lengths
+[✅] 331. Verify Preorder Serialization of a Binary Tree
 
 [❌] 324. Wiggle Sort II
 
-[⭐] 327. Count of Range Sum
+[⭐] 330. Patching Array
 
 
