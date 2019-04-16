@@ -2184,6 +2184,16 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.16.2019
+
+[⭐] 332. Reconstruct Itinerary
+
+- 拓扑遍历图的方法，完全忘了，重写。
+
+
+
+
+
 
 
 ---
@@ -2192,6 +2202,6 @@ queue.offer(2)//放入新的元素
 
 [❌] 324. Wiggle Sort II
 
-[⭐] 330. Patching Array
+[⭐] 332. Reconstruct Itinerary
 
 
