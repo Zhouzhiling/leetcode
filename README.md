@@ -1668,6 +1668,7 @@ Character.toLowerCase(s.charAt(st))	//大小写转换
  - 自己写的但是bug挺多，重写
  - 3/29 自己重写 还是没能一次过emm
  - **string是没有reverse方法的，需要根据string构造stringbuilder然后reverse然后转回string**
+ - 在UCB群里看到的[KMP算法](<https://blog.csdn.net/v_july_v/article/details/7041827>)用于匹配字符串
 
 
 
@@ -2190,6 +2191,33 @@ queue.offer(2)//放入新的元素
 
 - 拓扑遍历图的方法，完全忘了，重写。
 
+  
+
+[⭐] 334. Increasing Triplet Subsequence
+
+- 非常机智的方法！本来应该想得出来的！重写！等号的边界条件要注意。
+
+
+
+## 4.17.2019
+
+[⭐] 336. Palindrome Pairs
+
+- 太难了这题我真的，看discussion的算法和trie tree的结构看了半天。
+- trie tree了解一下大概就行了quq。
+
+
+
+[KMP算法](<https://blog.csdn.net/v_july_v/article/details/7041827>)
+
+[Trie Tree结构](<https://blog.csdn.net/lisonglisonglisong/article/details/45584721>)
+
+
+
+[✅] 337. House Robber III
+
+- 递归过
+
 
 
 
@@ -2198,10 +2226,10 @@ queue.offer(2)//放入新的元素
 
 ---
 
-[✅] 331. Verify Preorder Serialization of a Binary Tree
+[✅] 337. House Robber III
 
-[❌] 324. Wiggle Sort II
+[❌] 336. Palindrome Pairs
 
-[⭐] 332. Reconstruct Itinerary
+[⭐] 334. Increasing Triplet Subsequence
 
 
