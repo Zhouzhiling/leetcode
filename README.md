@@ -2216,7 +2216,16 @@ queue.offer(2)//放入新的元素
 
 [✅] 337. House Robber III
 
-- 递归过
+- 递归过了，但是比较慢，有很多重复计算。
+- 如何避免重复计算。
+
+
+
+[✅] 338. Counting Bits
+
+- 自己想的，两遍过。边界条件注意下。
+
+
 
 
 
@@ -2226,7 +2235,7 @@ queue.offer(2)//放入新的元素
 
 ---
 
-[✅] 337. House Robber III
+[✅] 338. Counting Bits
 
 [❌] 336. Palindrome Pairs
 
