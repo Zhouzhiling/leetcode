@@ -2227,7 +2227,36 @@ queue.offer(2)//放入新的元素
 
 
 
+## 4.18.2019
 
+[✅] 342. Power of Four
+
+
+
+[✅] 343. Integer Break
+
+
+
+[✅] 344. Reverse String
+
+
+
+[⭐] 345. Reverse Vowels of a String
+
+- 思路是对的一遍过， 不过用stringbuilder不如用char[]。
+
+```java
+//如何初始化set
+String[] SET_VALUES = new String[] { "a", "b" }
+Set<String> MY_SET = new HashSet<String>(Arrays.asList(SET_VALUES));
+
+// string 2 char[]
+String s = "hello";
+char[] list=s.toCharArray();
+
+// char[] 2 string
+return String.valueOf(list);
+```
 
 
 
@@ -2235,7 +2264,7 @@ queue.offer(2)//放入新的元素
 
 ---
 
-[✅] 338. Counting Bits
+[✅] 345. Reverse Vowels of a String
 
 [❌] 336. Palindrome Pairs
 
