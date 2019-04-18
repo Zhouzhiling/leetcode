@@ -2244,6 +2244,7 @@ queue.offer(2)//放入新的元素
 [⭐] 345. Reverse Vowels of a String
 
 - 思路是对的一遍过， 不过用stringbuilder不如用char[]。
+- 关于String的valueOf函数用法戳[这里](<https://blog.csdn.net/yuan444075705/article/details/11375969>)。
 
 ```java
 //如何初始化set
@@ -2262,9 +2263,27 @@ return String.valueOf(list);
 
 
 
+[✅] 347. Top K Frequent Elements
+
+- hashmap是put，hashset是add，arraylist是add
+
+- java也有map default的写法：
+
+- ```java
+  map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+  ```
+
+  
+
+
+
+[✅] 349. Intersection of Two Arrays
+
+
+
 ---
 
-[✅] 345. Reverse Vowels of a String
+[✅] 349. Intersection of Two Arrays
 
 [❌] 336. Palindrome Pairs
 
