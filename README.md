@@ -2266,6 +2266,7 @@ return String.valueOf(list);
 [✅] 347. Top K Frequent Elements
 
 - hashmap是put，hashset是add，arraylist是add
+- 算法待改进
 
 - java也有map default的写法：
 
@@ -2275,15 +2276,19 @@ return String.valueOf(list);
 
   
 
-
-
 [✅] 349. Intersection of Two Arrays
+
+- 算法待改进
+
+  
+
+[✅] 350. Intersection of Two Arrays II
 
 
 
 ---
 
-[✅] 349. Intersection of Two Arrays
+[✅] 350. Intersection of Two Arrays II
 
 [❌] 336. Palindrome Pairs
 
