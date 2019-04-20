@@ -2297,14 +2297,26 @@ return String.valueOf(list);
 
 
 
+[✅] 357. Count Numbers with Unique Digits
+
+- 数学题。
+
+
+
+[⭐] 363. Max Sum of Rectangle No Larger Than K
+
+- 傻子暴力搜索算法
+
+
+
 
 
 ---
 
-[✅] 350. Intersection of Two Arrays II
+[✅] 357. Count Numbers with Unique Digits
 
 [❌] 336. Palindrome Pairs
 
-[⭐] 354. Russian Doll Envelopes
+[⭐] 363. Max Sum of Rectangle No Larger Than K
 
 
