@@ -2025,6 +2025,7 @@ queue.offer(2)//放入新的元素
 
 - 自己写的是DP，复杂度是n平方。
 - discussion里面是nlogn，这个可以重写。
+- 4/20 没想出来 看了之前的过程才写出来哭
 
 
 
@@ -2263,10 +2264,10 @@ return String.valueOf(list);
 
 
 
-[✅] 347. Top K Frequent Elements
+[✅⭐] 347. Top K Frequent Elements
 
 - hashmap是put，hashset是add，arraylist是add
-- 算法待改进
+- **如何自定义comparator来写priorityqueue！！！**
 
 - java也有map default的写法：
 
@@ -2280,9 +2281,21 @@ return String.valueOf(list);
 
 - 算法待改进
 
+- 复杂度O(n)还改进啥啊，题目太菜了。
+
   
 
 [✅] 350. Intersection of Two Arrays II
+
+
+
+## 4.20.2019
+
+[⭐] 354. Russian Doll Envelopes
+
+- 太难了真的，完全想不到...
+
+
 
 
 
@@ -2292,6 +2305,6 @@ return String.valueOf(list);
 
 [❌] 336. Palindrome Pairs
 
-[⭐] 334. Increasing Triplet Subsequence
+[⭐] 354. Russian Doll Envelopes
 
 
