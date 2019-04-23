@@ -2309,14 +2309,66 @@ return String.valueOf(list);
 
 
 
+## 4.21.2019
+
+[⭐] 365. Water and Jug Problem
+
+- 一道数论的数学题，fine。
+
+```java
+	//寻找最大公因数的辗转相除法
+    private int GCD(int x, int y)
+    {
+        while(y!=0)
+        {
+            int tmp = y;
+            y = x % y;
+            x = tmp;
+        }
+        return x;
+    }
+```
+
+
+
+[✅] 367. Valid Perfect Square
+
+- 简单题，有三种做法，可以想想
+
+
+
+[⭐] 368. Largest Divisible Subset
+
+- 难题，还tricky，多想想。
+
+
+
+[⭐] 372. Super Pow
+
+- 指数可以super super大噢，好好想下。
+
+
+
+## 4.23.2019
+
+[✅] 374. Guess Number Higher or Lower
+
+
+
+
+
+
+
+
+
 
 
 ---
 
-[✅] 357. Count Numbers with Unique Digits
+[✅] 374. Guess Number Higher or Lower
 
 [❌] 336. Palindrome Pairs
 
-[⭐] 363. Max Sum of Rectangle No Larger Than K
+[⭐] 368. Largest Divisible Subset
 
 
