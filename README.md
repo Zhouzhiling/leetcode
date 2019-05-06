@@ -2355,9 +2355,29 @@ return String.valueOf(list);
 
 
 
+## 5.6.2019
 
 
 
+[⭐] 376. Wiggle Subsequence
+
+- O(n^2)不难，O(n)的方法想通了也不难
+
+  
+
+[⭐] 375. Guess Number Higher or Lower II
+
+- dp大法好
+
+
+
+[✅] 377. Combination Sum IV
+
+
+
+[⭐] 378. Kth Smallest Element in a Sorted Matrix
+
+- 还是PriorityQueue Comparator写的不熟。
 
 
 
@@ -2365,10 +2385,10 @@ return String.valueOf(list);
 
 ---
 
-[✅] 374. Guess Number Higher or Lower
+[✅] 377. Combination Sum IV
 
 [❌] 336. Palindrome Pairs
 
-[⭐] 368. Largest Divisible Subset
+[⭐] 378. Kth Smallest Element in a Sorted Matrix
 
 
