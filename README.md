@@ -2385,16 +2385,6 @@ return String.valueOf(list);
 
 [✅] 382. Linked List Random Node
 
-
-
-
-
-
-
-
-
----
-
 [✅] 382. Linked List Random Node
 
 [❌] 336. Palindrome Pairs
@@ -2402,3 +2392,11 @@ return String.valueOf(list);
 [⭐] 378. Kth Smallest Element in a Sorted Matrix
 
 
+
+---
+
+第二波刷题在找到五月实习入职前中止，实习实在太太太太太忙了暂时不刷了。
+
+下次刷题时间段在暑假离职之后到找到全职之前，大概八月份开始，不知道啥时候结束。
+
+机灵 2019.5.24
