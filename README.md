@@ -2400,3 +2400,41 @@ return String.valueOf(list);
 下次刷题时间段在暑假离职之后到找到全职之前，大概八月份开始，不知道啥时候结束。
 
 机灵 2019.5.24
+
+---
+
+我回来了！
+
+2019.7.27
+
+---
+
+
+
+### 7.27
+
+[✅] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+
+根据map的提示，思路顺，一次过。
+
+
+
+[✅] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+
+思路顺，一次过。
+
+
+
+[⭐] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
+更新max_len的位置欠考虑，三次过。
+
+
+
+
+
+[❌] 
+
+[✅] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+
+[⭐] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
