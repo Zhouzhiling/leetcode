@@ -2431,10 +2431,64 @@ return String.valueOf(list);
 
 
 
+### 7.27
+
+[⭐] [4. 寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+
+O(n+m)的两次过，边界条件第一次没考虑好。
+
+O(lg(n+m))也两次过，同边界条件。
+
+
+
+[✅] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+
+一次过。
+
+
+
+[⭐] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+
+一开始在纸上写了下，想着用queue可行，但坑太多了。三次没过。
+
+后来还是生成numRows个字符串然后拼接起来更快。两次过。
+
+拼接: `` ''.join(res)``
+
+
+
+[✅] [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
+
+思路对，一次过。
+
+
+
+[✅] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+
+奇怪的题目，因为下标越界的错，两次过。
+
+
+
+[✅] [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
+
+思路对，一行的写法是`` return str(x) == str(x)[::-1]``。
+
+不然就reverse int之后比较数字，特殊情况是<0, [0, 9], x % 10 == 0的时候。
+
+**python int→string是``str(134)``**
+
+
+
+[✅] [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
+
+方法思路对，一次过。
+
+证明方法没想出来。
+
 
 
 [❌] 
 
-[✅] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+[✅] [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
 
-[⭐] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+[⭐] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
