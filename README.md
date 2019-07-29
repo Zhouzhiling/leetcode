@@ -2447,6 +2447,8 @@ O(lg(n+m))也两次过，同边界条件。
 
 
 
+### 7.28
+
 [⭐] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
 
 一开始在纸上写了下，想着用queue可行，但坑太多了。三次没过。
@@ -2487,8 +2489,23 @@ O(lg(n+m))也两次过，同边界条件。
 
 
 
+### 7.29
+
+[✅] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+
+方法思路对，一次过。
+
+
+
+[⭐] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+
+第一次把TwoSum作为函数，写的有点乱，改了几次才过。当有一串重复数字的时候，前面的直接加入map不判断，只判断最后一位即可。倒过来就不行。要构造n次map所以一定很慢了...
+用三个指针就能解决，注意重复问题就可。
+
+
+
 [❌] 
 
-[✅] [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
+[✅] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 
-[⭐] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+[⭐] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
