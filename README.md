@@ -2547,10 +2547,22 @@ queue.popleft()
 
 
 
+[✅] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+
+轻松！
+
+
+
+[⭐] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+
+迭代有点小难，改了几次才过。
+
+我猜我之前是递归做的，明天看下！
+
 
 
 [❌] 
 
-[✅] [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+[✅] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 
-[⭐] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+[⭐] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
