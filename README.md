@@ -2504,8 +2504,53 @@ O(lg(n+m))也两次过，同边界条件。
 
 
 
+### 7.30
+
+[✅] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+
+递归遍历即可，思路对，两次过。
+
+迭代也不难。
+
+
+
+[✅] [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
+
+借ThreeSum，思路对，两次过。
+
+
+
+[✅] [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+
+输入head是第一个node，习惯性自建一个dummy指向head，不要搞混就好。
+
+思路对一次过。
+
+
+
+[⭐] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+
+思路是对的但是小问题有点多。
+
+python的False首字母大写。
+
+[]可以实现堆栈先进后出的append()和pop()功能
+
+要用先进先出的queue的话，需要
+
+```python
+from collections import deque
+queue = deque(["Eric", "John", "Michael"])
+queue.append("Terry")
+queue.popleft()
+```
+
+
+
+
+
 [❌] 
 
-[✅] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+[✅] [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 
-[⭐] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+[⭐] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
