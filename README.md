@@ -2553,16 +2553,52 @@ queue.popleft()
 
 
 
+### 7.31
+
 [⭐] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 
 迭代有点小难，改了几次才过。
 
 我猜我之前是递归做的，明天看下！
 
+我回来了。递归不会写，重写！
+
+
+
+[⭐] [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+
+不看效率的话是easy题，遍历合并即可，复杂度是node总数*list个数。
+
+要提升效率的话，每次做两两合并，复杂度是list长度*log(list个数)。👈终止条件要考虑下，第一次错了。
+
+
+
+[✅] [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+
+没有难度，注意指针后移的时候需要按照交换后的顺序即可。
+
+
+
+[✅] [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+
+思路对，一次过。
+
+
+
+[✅] [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+
+思路对，一次过。
+
+
+
+[✅] [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
+
+不太懂26和27的意义和难点在哪儿...
+
 
 
 [❌] 
 
-[✅] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+[✅] [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 
-[⭐] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+[⭐] [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
