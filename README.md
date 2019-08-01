@@ -2597,8 +2597,42 @@ queue.popleft()
 
 
 
+### 8.1
+
+[✅] [28. 实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+
+我还是不懂难点在哪儿...
+
+
+
+[✅] [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
+
+思路对，一次过
+
+
+
+[⭐] [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+
+这题挺好的，很多坑。怎么选取要交换的下标，怎么替换。
+
+
+
+
+
+[⭐] [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
+
+猜到了会出怎样的用例来测超时（但还是超时了，fine
+
+写了最原始的暴力搜索，和带一些DP的暴力搜索，但都超时了。
+
+看了看记录之前也是看答案的，答案的解法真的amazing@
+
+---
+
+
+
 [❌] 
 
-[✅] [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
+[✅] [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
 
-[⭐] [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+[⭐] [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
