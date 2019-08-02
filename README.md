@@ -2627,12 +2627,38 @@ queue.popleft()
 
 看了看记录之前也是看答案的，答案的解法真的amazing@
 
+
+
+## 8.2
+
+[[⭐] 33. Search in Rotated Sorted Array](<https://leetcode.com/problems/search-in-rotated-sorted-array/>)
+
+在公司刷题多少还是有点虚，全是错，这里错那里错，回去重写。
+
+
+
+[✅] 34. Find First and Last Position of Element in Sorted Array
+
+没难度，两次过。注意下二分查找的边际条件即可。
+
+
+
+[✅] 35. Search Insert Position
+
+easy题，一次过。
+
+
+
+[✅] 38. Count and Say
+
+easy题，一次过。
+
 ---
 
 
 
 [❌] 
 
-[✅] [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/)
+[✅] 38. Count and Say
 
 [⭐] [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
