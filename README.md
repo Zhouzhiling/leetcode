@@ -2707,7 +2707,13 @@ hard，思路对一次过。
 
 
 
+[✅] 47. Permutations II
 
+同46
+
+
+
+[✅] 48. Rotate Image
 
 
 
@@ -2717,6 +2723,6 @@ hard，思路对一次过。
 
 [❌] 
 
-[✅] 45. Jump Game II
+[✅] 48. Rotate Image
 
 [⭐] 46. Permutations
