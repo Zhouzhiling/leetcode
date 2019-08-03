@@ -2625,7 +2625,7 @@ queue.popleft()
 
 写了最原始的暴力搜索，和带一些DP的暴力搜索，但都超时了。
 
-看了看记录之前也是看答案的，答案的解法真的amazing@
+看了看记录之前也是看答案的，答案的解法真的amazing!
 
 
 
@@ -2633,7 +2633,7 @@ queue.popleft()
 
 [[⭐] 33. Search in Rotated Sorted Array](<https://leetcode.com/problems/search-in-rotated-sorted-array/>)
 
-在公司刷题多少还是有点虚，全是错，这里错那里错，回去重写。
+在公司刷题还是有点虚，全是错，这里错那里错，回去重写。
 
 
 
@@ -2653,12 +2653,70 @@ easy题，一次过。
 
 easy题，一次过。
 
+
+
+## 8.3
+
+[⭐] 39. Combination Sum
+
+递归，自己没写出来。同一个元素可以用多次的情况下， 如何避免重复？
+
+
+
+[✅] 40. Combination Sum II
+
+39能写40就能写。
+
+
+
+[✅] 41. First Missing Positive
+
+我记得之前的方法，就很绝，感觉无法超越。
+
+
+
+[✅] 42. Trapping Rain Water
+
+hard，思路对一次过。
+
+
+
+[✅] 43. Multiply Strings
+
+思路对，逐位乘，一次过。
+
+
+
+[⭐❌] 44. Wildcard Matching
+
+想了一个DP的解法，但是超时了。
+
+解法在[这里](https://leetcode.com/problems/wildcard-matching/discuss/17810/Linear-runtime-and-constant-space-solution)，今天不想动脑子，明天看。
+
+
+
+[✅] 45. Jump Game II
+
+可以，hard题一次过，我要飘了。
+
+
+
+[⭐] 46. Permutations
+
+想了一会儿递归的方法，然后过的。和39一毛一样。
+
+
+
+
+
+
+
 ---
 
 
 
 [❌] 
 
-[✅] 38. Count and Say
+[✅] 45. Jump Game II
 
-[⭐] [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
+[⭐] 46. Permutations
