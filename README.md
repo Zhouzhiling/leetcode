@@ -2717,12 +2717,101 @@ hard，思路对一次过。
 
 
 
+#### 8.4
+
+[✅] 49. Group Anagrams
+
+字符串按照字母顺序重新排序的方法是`` "".join(sorted(str))``
+
+
+
+[✅] 50. Pow(x, n)
+
+思路对一次过。节约时间的方法。
+
+
+
+[❌] 51. N-Queens
+
+
+
+[✅] 53. Maximum Subarray
+
+思路对一次过。注意需要选择至少一个元素。
+
+
+
+[✅] 54. Spiral Matrix
+
+思路对一次过！状态机，好用！
+
+
+
+[✅] 56. Merge Intervals
+
+方法不难。自定义python排序的方法写法：
+
+```python
+def getStart(interval):
+	return interval[0]
+
+intervals.sort(key = getStart)
+```
+
+
+
+[⭐] 58. Length of Last Word
+
+有个问题是，string结尾有空格的情况下，split的最后一项会有一个长度为零、打印不出的符号（换行符）
+
+需要用一下strip()处理。
+
+
+
+[✅] 59. Spiral Matrix II
+
+和54一样的题，思路对一次过。
+
+
+
+[⭐] 60. Permutation Sequence
+
+思路对，但是有点绕，不过写出来的。
+
+看了一眼之前的解法，可以不用map实现，每一位逐步计算就可。
+
+
+
+[✅] 61. Rotate List
+
+简单。
+
+
+
+[✅] 62. Unique Paths
+
+用cmn函数就能实现，没有难度...
+
+DP也可，但有公式可以直接算就没必要浪费空间了。
+
+
+
+[✅] 63. Unique Paths II
+
+用DP，没难度。
+
+
+
+[✅] 64. Minimum Path Sum
+
+没难度++
+
 ---
 
 
 
-[❌] 
+[❌] 51. N-Queens
 
-[✅] 48. Rotate Image
+[✅] 64. Minimum Path Sum
 
-[⭐] 46. Permutations
+[⭐] 58. Length of Last Word
