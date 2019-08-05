@@ -2806,12 +2806,78 @@ DP也可，但有公式可以直接算就没必要浪费空间了。
 
 没难度++
 
+
+
+#### 8.5
+
+[✅] 66. Plus One
+
+简单题，没难度。用了两种方法。
+
+
+
+[✅] 69. Sqrt(x)
+
+简单题，考虑好边界条件，一次过。
+
+
+
+[✅] 70. Climbing Stairs
+
+DP，甚至不用建表，因为只依赖前两个状态。
+
+
+
+[✅] 71. Simplify Path
+
+done。
+
+
+
+[✅] 72. Edit Distance
+
+很绝的DP，导致我记到现在。一次过。
+
+
+
+[✅] 73. Set Matrix Zeroes
+
+Space O(m+n)的很好写。
+
+Space O(1)的也能写，但有点取巧了。
+
+不管，过了反正。
+
+
+
+[✅] 74. Search a 2D Matrix
+
+思路对，写的时候return -1 还是return True有点绕。别的问题不大。
+
+两次过。
+
+
+
+[⭐] 75. Sort Colors
+
+两次过，出了个bug。想一想。
+
+
+
+[⭐] 76
+
+啊思路对但是没写出来。十点了下班了明天再说。
+
+
+
+
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] 64. Minimum Path Sum
+[✅] 74. Search a 2D Matrix
 
-[⭐] 58. Length of Last Word
+[⭐] 76
