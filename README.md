@@ -2886,12 +2886,91 @@ Space O(1)的也能写，但有点取巧了。
 
 
 
+#### 8.8
+
+[⭐] 79. Word Search
+
+写出来了但是有点绕，并且超时了。
+
+看了dis里面的递归，很绝，但也超时了。
+
+
+
+[⭐] 80. Remove Duplicates from Sorted Array II
+
+要考虑在原数组被改变的情况下怎么保持判断个数的正确性。两次过。
+
+
+
+[⭐] 80. Remove Duplicates from Sorted Array II
+
+
+
+[⭐] 81. Search in Rotated Sorted Array II
+
+看看这提交记录是什么绝世没有长进的傻子。
+
+不要锁死在二分查找上> <
+
+| Time Submitted    | Status                                                       | Runtime | Memory  | Language |
+| :---------------- | :----------------------------------------------------------- | :------ | :------ | :------- |
+| a few seconds ago | [Accepted](https://leetcode.com/submissions/detail/249848487/) | 40 ms   | 12 MB   | python   |
+| 2 minutes ago     | [Wrong Answer](https://leetcode.com/submissions/detail/249847910/) | N/A     | N/A     | python   |
+| 7 minutes ago     | [Wrong Answer](https://leetcode.com/submissions/detail/249846630/) | N/A     | N/A     | python   |
+| 12 minutes ago    | [Wrong Answer](https://leetcode.com/submissions/detail/249845172/) | N/A     | N/A     | python   |
+| 15 minutes ago    | [Wrong Answer](https://leetcode.com/submissions/detail/249844457/) | N/A     | N/A     | python   |
+| 16 minutes ago    | [Wrong Answer](https://leetcode.com/submissions/detail/249844372/) | N/A     | N/A     | python   |
+| 5 months ago      | [Accepted](https://leetcode.com/submissions/detail/213052520/) | 0 ms    | 37.8 MB | java     |
+| 5 months ago      | [Wrong Answer](https://leetcode.com/submissions/detail/213052084/) | N/A     | N/A     | java     |
+| 5 months ago      | [Wrong Answer](https://leetcode.com/submissions/detail/213051764/) | N/A     | N/A     | java     |
+| 5 months ago      | [Wrong Answer](https://leetcode.com/submissions/detail/213050569/) | N/A     | N/A     | java     |
+| 5 months ago      | [Runtime Error](https://leetcode.com/submissions/detail/213050329/) | N/A     | N/A     | java     |
+| 5 months ago      | [Runtime Error](https://leetcode.com/submissions/detail/212157407/) | N/A     | N/A     | python   |
+
+
+
+[⭐] 82. Remove Duplicates from Sorted List II
+
+思路对两次过，有点麻烦。最后注意指向None即可。
+
+
+
+[✅] 83. Remove Duplicates from Sorted List
+
+easy版本的83
+
+
+
+[✅] 84. Largest Rectangle in Histogram
+
+
+
+8.13
+
+[✅] 86. Partition List
+
+[✅] 88. Merge Sorted Array
+
+两种方法，另外开数组和原地挪动都可，后者空间要求更小。反过来遍历即可。一次过。
+
+[✅] 89. Gray Code
+
+方法还挺微妙的，想的时候想起来了之前自己的做法，一次过。
+
+[⭐] 90. Subsets II
+
+没写出来！看了之前的过程！
+
+
+
+
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] 77. Combinations
+[✅] 89. Gray Code
 
-[⭐] 78. Subsets
+[⭐] 90. Subsets II
