@@ -2963,6 +2963,30 @@ easy版本的83
 
 
 
+8.17
+
+[⭐] [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+
+自己写出来，但是卡bug了几次。需要考虑valid的两位数不能是0开头。以及可以优化DP的过程（空间复杂度减到O(1)
+
+
+
+[✅] [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+
+木有难度
+
+
+
+[✅] [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+
+[✅] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+
+[✅] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+
+[✅] [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+
+树的遍历系列！
+
 
 
 ---
@@ -2971,6 +2995,6 @@ easy版本的83
 
 [❌] 51. N-Queens
 
-[✅] 89. Gray Code
+[✅] [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
 
-[⭐] 90. Subsets II
+[⭐] [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
