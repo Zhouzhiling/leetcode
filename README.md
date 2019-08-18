@@ -2989,12 +2989,42 @@ easy版本的83
 
 
 
+8.18
+
+[⭐] [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+
+递归我可以，但是两次过。考虑一下空树要怎么写。
+
+
+
+[⭐] [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+
+第一遍用了95里面的递归，返回类型改成了int，超时。
+
+第二遍依然用的递归，只是开了一个表记录了之前计算过的值，超时。
+
+第三遍放弃模拟树的生成过程，DP不好吗！？
+
+
+
+[⭐] [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/)
+
+是我自己想出来的hard题呜呜呜感动。
+
+写的比较久，[[]]来表示矩阵还是不够熟练，DP大法好。
+
+
+
+[✅] [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+
+巧妙!
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+[✅] [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 
-[⭐] [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+[⭐] [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/)
