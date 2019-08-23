@@ -3019,12 +3019,16 @@ easy版本的83
 
 巧妙!
 
+
+
+8.23
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] [98. Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+[✅] [104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
 [⭐] [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/)
