@@ -3021,7 +3021,43 @@ easy版本的83
 
 
 
-8.23
+## 8.23
+
+[✅] [100. Same Tree](https://leetcode-cn.com/problems/same-tree/)
+
+[✅] [101. Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)
+
+[✅] [102. Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+
+[✅] [103. Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+[✅] [104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+
+以上都是树的简单题，递归一次过。
+
+
+
+## 8.24
+
+[⭐] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+递归不难两次过，注意一下判断的边界条件。
+
+[✅] [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
+和105一样的做法
+
+[✅] [108. Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+递归一次过
+
+[✅] [109. Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+[✅] [110. Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)
+
+[✅] [111. Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+
+为什么今天的题都毫无难度。
 
 ---
 
@@ -3029,6 +3065,6 @@ easy版本的83
 
 [❌] 51. N-Queens
 
-[✅] [104. Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+[✅] [111. Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 
-[⭐] [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/)
+[⭐] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
