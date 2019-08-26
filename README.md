@@ -3059,12 +3059,34 @@ easy版本的83
 
 为什么今天的题都毫无难度。
 
+
+
+## 8.26
+
+[✅] [112. Path Sum](https://leetcode-cn.com/problems/path-sum/)
+
+[⭐] [113. Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)
+
+有个递归时候变量生命周期的问题。
+
+[✅] [114. Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+
+[⭐] [115. Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)
+
+DP好用，一开始想错了`` table[h][l] = table[h-1][l-1] + table[h][l-1]``
+
+[✅] [116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+
+[⭐] [117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
+
+和116类似，另外维护一个stack即可。116两次过，117两次过
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] [111. Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+[✅] [117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
 
-[⭐] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+[⭐] [116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
