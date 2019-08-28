@@ -3081,12 +3081,26 @@ DP好用，一开始想错了`` table[h][l] = table[h-1][l-1] + table[h][l-1]``
 
 和116类似，另外维护一个stack即可。116两次过，117两次过
 
+
+
+## 8.28
+
+[✅] [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)
+
+[✅] [119. Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
+
+都一次过
+
+[✅] [120. Triangle](https://leetcode-cn.com/problems/triangle/)
+
+[✅] [122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] [117. Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
+[✅] [122. Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 [⭐] [116. Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
