@@ -3123,41 +3123,7 @@ DP做，超时了；dfs做，也超时了。
 
 重温了一下graph相关的遍历...
 
-[✅] 136. Single Number
 
-[❌] 135. Candy
-
-[✅] [139. Word Break](https://leetcode-cn.com/problems/word-break/)
-
-[✅] [141. Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
-
-[✅] [142. Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
-
-[✅] [143. Reorder List](https://leetcode-cn.com/problems/reorder-list/)
-
-[✅] [147. Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/)
-
-[✅] [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
-
-[✅] [151. Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
-
-[✅] [152. Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)
-
-真是毫无挑战呢。
-
-[⭐] [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-
-下一题就打脸哈哈哈哈哈哈哈哈哈哈哈。改了三次才过。
-
-[✅] [160. Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
-
-我又可以了
-
-[✅] [162. Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)
-
-我能写，但是要口述原理的话要想想
-
-> 为什么二分查找大的那一半一定会有峰值呢？（即nums[mid]<nums[mid+1]时，mid+1~N一定存在峰值） 我的理解是，首先已知 nums[mid+1]>nums[mid]，那么mid+2只有两种可能，一个是大于mid+1，一个是小于mid+1，小于mid+1的情况，那么mid+1就是峰值，大于mid+1的情况，继续向右推，如果一直到数组的末尾都是大于的，那么可以肯定最后一个元素是峰值，因为nums[nums.length]=负无穷
 
 ---
 
@@ -3165,6 +3131,6 @@ DP做，超时了；dfs做，也超时了。
 
 [❌] 51. N-Queens
 
-[✅] [162. Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)
+[✅] [129. Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 
-[⭐] [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+[⭐] [133. Clone Graph](https://leetcode-cn.com/problems/clone-graph/)
