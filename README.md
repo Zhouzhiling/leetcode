@@ -3159,12 +3159,48 @@ DP做，超时了；dfs做，也超时了。
 
 > 为什么二分查找大的那一半一定会有峰值呢？（即nums[mid]<nums[mid+1]时，mid+1~N一定存在峰值） 我的理解是，首先已知 nums[mid+1]>nums[mid]，那么mid+2只有两种可能，一个是大于mid+1，一个是小于mid+1，小于mid+1的情况，那么mid+1就是峰值，大于mid+1的情况，继续向右推，如果一直到数组的末尾都是大于的，那么可以肯定最后一个元素是峰值，因为nums[nums.length]=负无穷
 
+[⭐] [168. Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/)
+
+思路都对，就python做char的计算的时候需要``(chr)(ord('A')+num)``
+
+
+
+## 8.30
+
+[✅] [169. Majority Element](https://leetcode-cn.com/problems/majority-element/)
+
+碰撞法，好用
+
+[✅] [191. Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)
+
+
+
+[⭐] [199. Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
+
+一开始思路不对，后来改正了。
+
+[⭐] [200. Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)
+
+看了之前的才写出来><
+
+[✅] [201. Bitwise AND of Numbers Range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/)
+
+想了一会儿但还是写出来了w
+
+[⭐] [204. Count Primes](https://leetcode-cn.com/problems/count-primes/)
+
+啊啊我傻了，空间换时间之后完全用不到isPrime函数，重写重写
+
+[⭐] [205. Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/)
+
+写了两次，对应关系没搞清楚。
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] [162. Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/)
+[✅] [204. Count Primes](https://leetcode-cn.com/problems/count-primes/)
 
-[⭐] [154. Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+[⭐] [205. Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/)
