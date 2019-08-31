@@ -3195,12 +3195,26 @@ DP做，超时了；dfs做，也超时了。
 
 写了两次，对应关系没搞清楚。
 
+
+
+## 8.31
+
+[⭐] [207. Course Schedule](https://leetcode-cn.com/problems/course-schedule/)
+
+graph又忘完了！好不好意思！？？
+
+[✅] [213. House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)
+
+[⭐] [220. Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
+
+太难了，bucket写一次忘一次
+
 ---
 
 
 
 [❌] 51. N-Queens
 
-[✅] [204. Count Primes](https://leetcode-cn.com/problems/count-primes/)
+[✅] [213. House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)
 
-[⭐] [205. Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/)
+[⭐] [220. Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
