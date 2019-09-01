@@ -3209,12 +3209,48 @@ graph又忘完了！好不好意思！？？
 
 太难了，bucket写一次忘一次
 
+
+
+## 9.1
+
+[⭐] [221. Maximal Square](https://leetcode-cn.com/problems/maximal-square/)
+
+还是没自己想出来> < 
+
+[⭐] [222. Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
+
+[✅] [225. Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/)
+
+[✅] [231. Power of Two](https://leetcode-cn.com/problems/power-of-two/)
+
+[⭐] [234. Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)
+
+应该可以bugfree的题目，注意reverse的时候一开始的指针要置null啊多少次了！！
+
+[✅] [238. Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)
+
+普通方法过了，有个机智方法空间复杂度最低的，可重写下。
+
+[⭐] [239. Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)
+
+太难了我看了半个小时，淦。
+
+[✅] [241. Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)
+
+[✅] [263. Ugly Number](https://leetcode-cn.com/problems/ugly-number/)
+
+[⭐] [264. Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)
+
+思路对，看了小提示写出来的
+
+[✅] [278. First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)
+
 ---
 
 
 
-[❌] 51. N-Queens
+[❌] [239. Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)
 
-[✅] [213. House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)
+[✅] [278. First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)
 
-[⭐] [220. Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)
+[⭐] [264. Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)
