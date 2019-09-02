@@ -3267,14 +3267,36 @@ graph又忘完了！好不好意思！？？
 
 写了很久，很麻烦，但思路不难。
 
+[⭐] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
+看了之前的做法没看懂，然后发现之前的自己还给未来的自己写了一段话：
+
+> 行吧我为discussion里面的神仙解法，以及一步一步继续简化变量和方法的算法折服，深深地折服。
+>
+> 我之后一定会看不懂代码的，戳[这里](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75927/Share-my-thinking-process>)重新看讲解吧。
+
+佛了，我属于我自己！
+
+[❌] [310. Minimum Height Trees](https://leetcode-cn.com/problems/minimum-height-trees/)
+
+懒，不想做。
+
+[⭐] [315. Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
+
+这题真的太难了...原理其实不太难，但很麻烦，踩坑无数。改天重新写下练习。
+
+[⭐] [316. Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+
+想了10min没思路，看了discussion，这方法绝了。
+
+[✅] [318. Maximum Product of Word Lengths](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)
 
 ---
 
 
 
-[❌] [239. Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)
+[❌] [310. Minimum Height Trees](https://leetcode-cn.com/problems/minimum-height-trees/)
 
-[✅] [300. Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+[✅] [318. Maximum Product of Word Lengths](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)
 
-[⭐] [306. Additive Number](https://leetcode-cn.com/problems/additive-number/)
+[⭐] [316. Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)
