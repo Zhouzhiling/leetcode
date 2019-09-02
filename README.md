@@ -3245,12 +3245,36 @@ graph又忘完了！好不好意思！？？
 
 [✅] [278. First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)
 
+
+
+## 9.2
+
+[✅] [287. Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+
+[✅] [287. Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+
+基础方法一次过，用链表成环的方法可太机智了。
+
+[✅] [290. Word Pattern](https://leetcode-cn.com/problems/word-pattern/)
+
+[✅] [297. Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+
+写了挺久，但一次过。
+
+[✅] [300. Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+
+[⭐] [306. Additive Number](https://leetcode-cn.com/problems/additive-number/)
+
+写了很久，很麻烦，但思路不难。
+
+
+
 ---
 
 
 
 [❌] [239. Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)
 
-[✅] [278. First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)
+[✅] [300. Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
-[⭐] [264. Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)
+[⭐] [306. Additive Number](https://leetcode-cn.com/problems/additive-number/)
