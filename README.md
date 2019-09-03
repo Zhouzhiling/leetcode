@@ -3251,8 +3251,6 @@ graph又忘完了！好不好意思！？？
 
 [✅] [287. Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 
-[✅] [287. Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)
-
 基础方法一次过，用链表成环的方法可太机智了。
 
 [✅] [290. Word Pattern](https://leetcode-cn.com/problems/word-pattern/)
@@ -3269,7 +3267,7 @@ graph又忘完了！好不好意思！？？
 
 [⭐] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
-看了之前的做法没看懂，然后发现之前的自己还给未来的自己写了一段话：
+看了之前的做法没看懂，然后发现三月份的自己给现在的我写了一段话：
 
 > 行吧我为discussion里面的神仙解法，以及一步一步继续简化变量和方法的算法折服，深深地折服。
 >
@@ -3291,12 +3289,46 @@ graph又忘完了！好不好意思！？？
 
 [✅] [318. Maximum Product of Word Lengths](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)
 
+
+
+## 9.3
+
+[⭐] [322. Coin Change](https://leetcode-cn.com/problems/coin-change/)
+
+递归和迭代两种做法，都没写出来，傻的吗。
+
+[✅] [326. Power of Three](https://leetcode-cn.com/problems/power-of-three/)
+
+[⭐] 327. Count of Range Sum
+
+超时了，之后要看下nlogn的解法。
+
+[✅] [329. Longest Increasing Path in a Matrix](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
+
+[⭐] [330. Patching Array](https://leetcode-cn.com/problems/patching-array/)
+
+自己写的DP内存爆了，discussion里面的方法真是绝了。
+
+[⭐] [332. Reconstruct Itinerary](https://leetcode-cn.com/problems/reconstruct-itinerary/)
+
+拓扑图遍历又忘了，我真是要完了。
+
+[⭐] [334. Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
+
+[⭐] [337. House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)
+
+如何做效率比较高的dfs。
+
+[✅] [338. Counting Bits](https://leetcode-cn.com/problems/counting-bits/)
+
+[✅] [345. Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)
+
 ---
 
 
 
 [❌] [310. Minimum Height Trees](https://leetcode-cn.com/problems/minimum-height-trees/)
 
-[✅] [318. Maximum Product of Word Lengths](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)
+[✅] [345. Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)
 
-[⭐] [316. Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+[⭐] [334. Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
