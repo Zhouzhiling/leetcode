@@ -3323,12 +3323,26 @@ graph又忘完了！好不好意思！？？
 
 [✅] [345. Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)
 
+
+
+## 9.4
+
+[⭐] [354. Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)
+
+方法绝了。就算方法想不出，寻找最长递增子列总要会写吧orz傻子。
+
+[⭐] [363. Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+
+[❌] [368. Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)
+
+太难了，不想动脑子，先跳过。
+
 ---
 
 
 
-[❌] [310. Minimum Height Trees](https://leetcode-cn.com/problems/minimum-height-trees/)
+[❌] [368. Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)
 
 [✅] [345. Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)
 
-[⭐] [334. Increasing Triplet Subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
+[⭐] [363. Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)
