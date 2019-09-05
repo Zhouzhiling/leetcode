@@ -3337,12 +3337,42 @@ graph又忘完了！好不好意思！？？
 
 太难了，不想动脑子，先跳过。
 
+
+
+## 9.5
+
+[⭐] [372. Super Pow](https://leetcode-cn.com/problems/super-pow/)
+
+啊啊终于做出来了，论数学的重要性
+
+[⭐] [376. Wiggle Subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/)
+
+[✅] [377. Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)
+
+[✅] [380. Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
+
+[✅] [382. Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)
+
+[⭐] [385. Mini Parser](https://leetcode-cn.com/problems/mini-parser/)
+
+啊这题用递归真是太机智了！佛了！
+
+[⭐] [386. Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)
+
+看了discussion，绝了。
+
+[✅] [387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
+
+
+
+
 ---
 
 
 
 [❌] [368. Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)
 
-[✅] [345. Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)
+[✅] [387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 
-[⭐] [363. Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+[⭐] [386. Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)
