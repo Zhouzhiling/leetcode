@@ -3363,6 +3363,52 @@ graph又忘完了！好不好意思！？？
 
 [✅] [387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
 
+[✅] [388. Longest Absolute File Path](https://leetcode-cn.com/problems/longest-absolute-file-path/)
+
+两次过哈哈哈没难度。字符串匹配的时候注意下\t转义的问题。
+
+
+
+## 9.6
+
+[⭐] [389. Find the Difference](https://leetcode-cn.com/problems/find-the-difference/)
+
+为什么大佬总能想到位操作，或许这就是差距吗orz。
+
+[⭐] [390. Elimination Game](https://leetcode-cn.com/problems/elimination-game/)
+
+数学题！
+
+[❌] [391. Perfect Rectangle](https://leetcode-cn.com/problems/perfect-rectangle/)
+
+不会做！
+
+[✅] [392. Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)
+
+简单题，一次过
+
+[✅] [394. Decode String](https://leetcode-cn.com/problems/decode-string/)
+
+有点麻烦，不过还是几次过了，一开始没考虑到嵌套，后来用了递归就可了。
+
+[✅] [395. Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+
+哈哈哈哈自己写的递归，过了，打败了90%。
+
+[⭐] [396. Rotate Function](https://leetcode-cn.com/problems/rotate-function/)
+
+自己写的O(n^2)，用个的简单的公式就可以O(n)。
+
+[✅] [397. Integer Replacement](https://leetcode-cn.com/problems/integer-replacement/)
+
+递归三行。
+
+⭐位运算会快一些，有了思路就不难，考虑重写。
+
+[⭐] [398. Random Pick Index](https://leetcode-cn.com/problems/random-pick-index/)
+
+这个随机采样方法绝了，虽然看起来是很经典的算法，记一下。
+
 
 
 
@@ -3371,8 +3417,8 @@ graph又忘完了！好不好意思！？？
 
 
 
-[❌] [368. Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)
+[❌] [391. Perfect Rectangle](https://leetcode-cn.com/problems/perfect-rectangle/)
 
-[✅] [387. First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+[✅] [397. Integer Replacement](https://leetcode-cn.com/problems/integer-replacement/)
 
-[⭐] [386. Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)
+[⭐] [398. Random Pick Index](https://leetcode-cn.com/problems/random-pick-index/)
