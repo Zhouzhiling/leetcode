@@ -3437,12 +3437,24 @@ return ["%d:%02d"%(i,j) for j in range(60) for i in range(12) if bin(i).count('1
 
 有小坑，题不难，两种方法均可，从删bit的思路和加bit的思路考虑都可。
 
+[⭐] [403. Frog Jump](https://leetcode-cn.com/problems/frog-jump/)
+
+两种方法，递归和DP。
+
+[✅] [404. Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)
+
+递归一次过。
+
+[⭐] [405. Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
+
+除法取余可以，但负数的处理需要考虑下。用移位更方便。
+
 ---
 
 
 
 [❌] [391. Perfect Rectangle](https://leetcode-cn.com/problems/perfect-rectangle/)
 
-[✅] [402. Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)
+[✅] [404. Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)
 
-[⭐] [401. Binary Watch](https://leetcode-cn.com/problems/binary-watch/)
+[⭐] [405. Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
