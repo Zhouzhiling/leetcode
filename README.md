@@ -3411,7 +3411,31 @@ graph又忘完了！好不好意思！？？
 
 
 
+## 9.7
 
+[⭐] [400. Nth Digit](https://leetcode-cn.com/problems/nth-digit/)
+
+是简单题但两次才过。第一次欠考虑了位数*个数的问题。不难。
+
+
+
+[⭐] [401. Binary Watch](https://leetcode-cn.com/problems/binary-watch/)
+
+这题也太好笑了。空间换时间可，暴力搜索也可。
+
+```python
+# 统计二进制数i中1的个数的写法：
+bin(i).count('1')==n
+
+# 一行解法
+return ["%d:%02d"%(i,j) for j in range(60) for i in range(12) if bin(i).count('1')+bin(j).count('1')==num]
+```
+
+
+
+[✅] [402. Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)
+
+有小坑，题不难，两种方法均可，从删bit的思路和加bit的思路考虑都可。
 
 ---
 
@@ -3419,6 +3443,6 @@ graph又忘完了！好不好意思！？？
 
 [❌] [391. Perfect Rectangle](https://leetcode-cn.com/problems/perfect-rectangle/)
 
-[✅] [397. Integer Replacement](https://leetcode-cn.com/problems/integer-replacement/)
+[✅] [402. Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)
 
-[⭐] [398. Random Pick Index](https://leetcode-cn.com/problems/random-pick-index/)
+[⭐] [401. Binary Watch](https://leetcode-cn.com/problems/binary-watch/)
