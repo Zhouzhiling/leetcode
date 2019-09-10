@@ -3449,12 +3449,46 @@ return ["%d:%02d"%(i,j) for j in range(60) for i in range(12) if bin(i).count('1
 
 除法取余可以，但负数的处理需要考虑下。用移位更方便。
 
+
+
+## 9.8
+
+[⭐] 406. Queue Reconstruction by Height
+
+有空重写下，关于排序的问题。
+
+
+
+## 9.9
+
+[❌] 407. Trapping Rain Water II
+
+[✅] 409. Longest Palindrome
+
+[⭐] 410. Split Array Largest Sum
+
+递归会写，但超时了。
+
+[✅] [Google]Local Max
+
+[⭐] 161. One Edit Distance
+
+思路没问题，考虑下abc和abc2的情况
+
+[✅] 412. Fizz Buzz
+
+目的何在 什么傻子题目
+
+[✅] 1007. Minimum Domino Rotations For Equal Row
+
+写的有点麻烦，但本身题不难
+
 ---
 
 
 
-[❌] [391. Perfect Rectangle](https://leetcode-cn.com/problems/perfect-rectangle/)
+[❌] 407. Trapping Rain Water II
 
-[✅] [404. Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/)
+[✅] 1007. Minimum Domino Rotations For Equal Row
 
-[⭐] [405. Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
+[⭐] 410. Split Array Largest Sum
