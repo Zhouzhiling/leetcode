@@ -3483,12 +3483,32 @@ return ["%d:%02d"%(i,j) for j in range(60) for i in range(12) if bin(i).count('1
 
 写的有点麻烦，但本身题不难
 
+
+
+## 9.10
+
+[✅] [Google]Water Flowers
+
+不难，按流程来就行
+
+[✅] 413. Arithmetic Slices
+
+python预定义最小值的时候可以`` float('-inf')``,int 不行，必须float
+
+[⭐] 414. Third Maximum Number
+
+[✅] 415. Add Strings
+
+[⭐] 416. Partition Equal Subset Sum
+
+递归可但超时，DP好用。
+
 ---
 
 
 
 [❌] 407. Trapping Rain Water II
 
-[✅] 1007. Minimum Domino Rotations For Equal Row
+[✅] 415. Add Strings
 
-[⭐] 410. Split Array Largest Sum
+[⭐] 416. Partition Equal Subset Sum
