@@ -3503,12 +3503,36 @@ python预定义最小值的时候可以`` float('-inf')``,int 不行，必须flo
 
 递归可但超时，DP好用。
 
+
+
+## 9.11
+
+[✅] [Google]Software Version Generation
+
+[⭐] 420. Strong Password Checker
+
+现场我一定想不出，我看discussion都看半天才看懂
+
+[❌] 421. Maximum XOR of Two Numbers in an Array
+
+是真的看不懂，哭
+
+[⭐] 424. Longest Repeating Character Replacement
+
+自己写出来了，不过注意之前有很好用的模板，有一丢丢忘了。
+
+[✅] 429. N-ary Tree Level Order Traversal
+
+
+
+
+
 ---
 
 
 
-[❌] 407. Trapping Rain Water II
+[❌] 421. Maximum XOR of Two Numbers in an Array
 
-[✅] 415. Add Strings
+[✅] 429. N-ary Tree Level Order Traversal
 
-[⭐] 416. Partition Equal Subset Sum
+[⭐] 424. Longest Repeating Character Replacement

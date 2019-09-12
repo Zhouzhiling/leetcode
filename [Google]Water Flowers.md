@@ -14,6 +14,25 @@ C = 3, A = [2, 2, 1, 1, 2]
 
 本来以为要求最优解，但是实际上只要按照规则模拟一边就可以了，不难。
 
+
+
+## Test
+
+```
+3 [2, 2, 1, 1, 2]
+3 [3,3,3,3,3]
+3 [1,1,1,2,1,3]
+3 [1]
+3 []
+10 [1,2,3,4,5,5,1]
+10 [1,1,1,1,1,1,1,1,1,1,1]
+10 [1,1,1,1,1,1,1,1,1,1]
+```
+
+
+
+
+
 ## Code1
 
 ```python
@@ -59,27 +78,29 @@ class Solution(object):
         """
         # C = 3, A = [2, 2, 1, 1, 2]
         # 移动路径: 0->1->0->2->3->0->4->5 total=13
-        c = 3
-        a = [2, 2, 1, 1, 2]
+        c = 10
+        a = [1,2,3,4,5,5,1]
         if len(a)==0:
             return 0
         count = 0
         curwater = c
         preidx = 0
         for i, num in enumerate(a):
-            print(i+1)
-            count += i+1-preidx
+            idx = i + 1
+            count += idx-preidx
             curwater -= num
+            # last flower
             if i == len(a)-1:
                 continue
+            # enough for next flower
             if i < len(a)-1 and curwater >= a[i+1]:
                 preidx = i+1
+            # if not enough for next flower, go back to 0
             else:
-                print(0)
                 curwater = c
-                count += i+1
+                count += idx
                 preidx = 0
-            print("curcount="+str(count))
+            # print("curcount="+str(count))
         return count
 ```
 
