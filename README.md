@@ -3525,14 +3525,52 @@ python预定义最小值的时候可以`` float('-inf')``,int 不行，必须flo
 
 
 
+## 9.12
+
+[✅] 430. Flatten a Multilevel Doubly Linked List
+
+哈哈哈哈哈自己写出来的97%和100%。早上写的，出了个门回来再看有点看不懂，之后再熟悉下。
+
+[⭐] 433. Minimum Genetic Mutation
+
+做法和我思路是一致的，觉得麻烦一开始就没做下去。重写。
+
+[✅] 434. Number of Segments in a String
+
+[✅] 437. Path Sum III
+
+[⭐] 438. Find All Anagrams in a String
+
+自己写的，但挪之后判断和判断之后挪，会影响边际条件。
+
+[❌] 440. K-th Smallest in Lexicographical Order
+
+我尽力了...
+
+[✅] 441. Arranging Coins
+
+二分能提速很多。不难。
+
+[✅] 442. Find All Duplicates in an Array
+
+[✅] 445. Add Two Numbers II
+
+[⭐] 446. Arithmetic Slices II - Subsequence
+
+看了dis。
+
+[⭐] 447. Number of Boomerangs
+
+看了dis。方法和446挺类似。
+
 
 
 ---
 
 
 
-[❌] 421. Maximum XOR of Two Numbers in an Array
+[❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 429. N-ary Tree Level Order Traversal
+[✅] 445. Add Two Numbers II
 
-[⭐] 424. Longest Repeating Character Replacement
+[⭐] 447. Number of Boomerangs
