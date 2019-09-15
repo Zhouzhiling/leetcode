@@ -3565,12 +3565,117 @@ python预定义最小值的时候可以`` float('-inf')``,int 不行，必须flo
 
 
 
+# 9.13
+
+[✅] 448. Find All Numbers Disappeared in an Array
+
+一分钟的题
+
+[⭐] 449. Serialize and Deserialize BST
+
+麻烦但中规中矩的题
+
+[⭐] 450. Delete Node in a BST
+
+递归好用，一开始思路不对
+
+
+
+## 9.14
+
+[⭐] 451. Sort Characters By Frequency
+
+精华在这儿：
+
+```python
+table.sort(key = lambda x: x[1], reverse = True)
+return ''.join(map(lambda x: x[0] * x[1], table))
+```
+
+以下一串都是类似的题，注意下区别：
+
+[⭐] 452. Minimum Number of Arrows to Burst Balloons
+
+[⭐] 56. Merge Intervals
+
+[✅] 435. Non-overlapping Intervals
+
+[✅] 253. Meeting Rooms II
+
+
+
+[⭐] 454. 4Sum II
+
+这啥题啊 佛了
+
+[✅] 455. Assign Cookies
+
+[⭐] 456. 132 Pattern
+
+这题绝了，完全想不到。
+
+[✅] 459. Repeated Substring Pattern
+
+简单题，做了点避免重复计算的优化
+
+[✅] 461. Hamming Distance
+
+一行，是真的一行。
+
+[⭐] 215. Kth Largest Element in an Array
+
+快排都不会了我完了。
+
+[⭐] 462. Minimum Moves to Equal Array Elements II
+
+用快排。以及中位数的作用在于找到全局/平均最近距离点（了解一下
+
+```python
+ # Python heap 操作
+>>> h=[]                    #定义一个list
+>>> from heapq import *     #引入heapq模块
+
+>>> a=[3,6,1]
+>>> heapify(a)                  #将a变成堆之后，可以对其操作
+
+>>> heappush(h,5)               #向堆中依次增加数值
+>>> heappush(h,2)
+>>> heappush(h,3)
+>>> heappush(h,9)
+>>> h                           #h的值
+[2, 5, 3, 9]
+>>> heappop(h)                  #从h中删除最小的，并返回该值
+2
+>>> h
+[3, 5, 9]
+>>> h.append(1)                 #注意，如果不是压入堆中，而是通过append追加一个数值
+>>> h                           #堆的函数并不能操作这个增加的数值，或者说它堆对来讲是不存在的
+[3, 5, 9, 1]
+>>> heappop(h)                  #从h中能够找到的最小值是3,而不是1
+3
+>>> heappush(h,2)               #这时，不仅将2压入到堆内，而且1也进入了堆。
+>>> h
+[1, 2, 9, 5]
+>>> heappop(h)                  #操作对象已经包含了1
+1
+```
+
+
+
+[✅] 463. Island Perimeter
+
+[⭐] 464. Can I Win
+
+没法一步步递推，用递归即可。
+
+
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 445. Add Two Numbers II
+[✅] 463. Island Perimeter
 
-[⭐] 447. Number of Boomerangs
+[⭐] 464. Can I Win
