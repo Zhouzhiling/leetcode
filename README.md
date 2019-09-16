@@ -3668,7 +3668,21 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 没法一步步递推，用递归即可。
 
+[⭐] 467. Unique Substrings in Wraparound String
 
+[✅] 470. Implement Rand10() Using Rand7()
+
+[✅] 472. Concatenated Words
+
+以上两道是思路明确的。
+
+[⭐] 473. Matchsticks to Square
+
+递归可。
+
+[⭐] 474. Ones and Zeroes
+
+背包问题熟悉一下需要。
 
 ---
 
@@ -3676,6 +3690,6 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 463. Island Perimeter
+[✅] 472. Concatenated Words
 
-[⭐] 464. Can I Win
+[⭐] 474. Ones and Zeroes
