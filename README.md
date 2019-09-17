@@ -3712,12 +3712,28 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 [✅] 485. Max Consecutive Ones
 
+
+
+## 9.17
+
+[⭐] 486. Predict the Winner
+
+[✅] 492. Construct the Rectangle
+
+[⭐] 493. Reverse Pairs
+
+一道思路竟被我想到的hard题，写了半小时，后来发现会有负数orz。再想想。
+
+[⭐] 494. Target Sum
+
+递归相当于遍历2^n，用和背包问题类似的DP更好。
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 485. Max Consecutive Ones
+[✅] 493. Reverse Pairs
 
-[⭐] 478. Generate Random Point in a Circle
+[⭐] 494. Target Sum
