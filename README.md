@@ -3670,6 +3670,10 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 [⭐] 467. Unique Substrings in Wraparound String
 
+
+
+## 9.15
+
 [✅] 470. Implement Rand10() Using Rand7()
 
 [✅] 472. Concatenated Words
@@ -3682,7 +3686,31 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 [⭐] 474. Ones and Zeroes
 
-背包问题熟悉一下需要。
+背包问题熟悉一下需要，递归可以但是会超时，DP要会写。
+
+
+
+## 9.16
+
+[✅] 475. Heaters
+
+思路对。
+
+[✅] 476. Number Complement
+
+[✅] 477. Total Hamming Distance
+
+啊哈有个很机智位运算的思路
+
+[⭐] 478. Generate Random Point in a Circle
+
+注意分布不均匀的问题，以及要怎么证明
+
+[✅] 481. Magical String
+
+[✅] 482. License Key Formatting
+
+[✅] 485. Max Consecutive Ones
 
 ---
 
@@ -3690,6 +3718,6 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 472. Concatenated Words
+[✅] 485. Max Consecutive Ones
 
-[⭐] 474. Ones and Zeroes
+[⭐] 478. Generate Random Point in a Circle
