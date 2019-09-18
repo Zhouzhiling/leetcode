@@ -3728,12 +3728,28 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 递归相当于遍历2^n，用和背包问题类似的DP更好。
 
+[⭐] 496. Next Greater Element I
+
+猪吗
+
+[✅] 497. Random Point in Non-overlapping Rectangles
+
+[✅] 498. Diagonal Traverse
+
+[⭐] 500. Keyboard Row
+
+机智的all用法！
+
+[✅⭐] 501. Find Mode in Binary Search Tree
+
+自己写的空间O(n)一次过；要求的空间O(1)比较复杂，自己重写了一个。
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 493. Reverse Pairs
+[✅] 501. Find Mode in Binary Search Tree
 
-[⭐] 494. Target Sum
+[⭐] 500. Keyboard Row
