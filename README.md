@@ -3744,12 +3744,42 @@ return ''.join(map(lambda x: x[0] * x[1], table))
 
 自己写的空间O(n)一次过；要求的空间O(1)比较复杂，自己重写了一个。
 
+
+
+## 9.18
+
+[⭐] 1066. Campus Bikes II
+
+递归和map剪枝
+
+[✅] 70. Climbing Stairs
+
+方法一递归，O(2^n)
+
+方法二DP，O(n)
+
+方法三
+
+[✅] 509. Fibonacci Number
+
+[✅] 503. Next Greater Element II
+
+[✅] 504. Base 7
+
+[✅⭐] 506. Relative Ranks
+
+quicksort这么多bug好意思吗你....
+
+[✅] 507. Perfect Number
+
+[✅] 508. Most Frequent Subtree Sum
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 501. Find Mode in Binary Search Tree
+[✅] 508. Most Frequent Subtree Sum
 
-[⭐] 500. Keyboard Row
+[⭐] 1066. 校园自行车分配
