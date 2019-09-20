@@ -3774,12 +3774,20 @@ quicksort这么多bug好意思吗你....
 
 [✅] 508. Most Frequent Subtree Sum
 
+## 9.19
+
+[✅] 510. Inorder Successor in BST II
+
+[✅] 285. Inorder Successor in BST
+
+[✅] 513. Find Bottom Left Tree Value
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 508. Most Frequent Subtree Sum
+[✅] 510. Inorder Successor in BST II
 
 [⭐] 1066. 校园自行车分配
