@@ -3782,12 +3782,34 @@ quicksort这么多bug好意思吗你....
 
 [✅] 513. Find Bottom Left Tree Value
 
+
+
+## 9.20
+
+[⭐] 1011. Capacity To Ship Packages Within D Days
+
+[✅] 514. Freedom Trail
+
+从map中删东西用``record.pop(key)``
+
+[⭐] 516. Longest Palindromic Subsequence
+
+[✅] [Quora]concatenationsSum
+
+[✅] [Quora]mutateTheArray
+
+[✅] [Quora]countTinyPairs
+
+[✅] [Quora]mergeStrings
+
+
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 510. Inorder Successor in BST II
+[✅] [Quora]mergeStrings
 
-[⭐] 1066. 校园自行车分配
+[⭐] 516. Longest Palindromic Subsequence

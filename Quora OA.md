@@ -254,3 +254,127 @@ while 1:
 print(count)
 ```
 
+
+
+## [coolFeature](https://leetcode.com/discuss/interview-question/349634/Quora-or-Online-Assessment-with-CodeSignal)
+
+```python
+a = [1, 2, 3]
+b = [3, 4]
+seta = set(a)
+query = [[1, 5], [1, 1, 1], [1, 5]]
+res = []
+for que in query:
+    if len(que) == 3:
+        idx = que[1]
+        num = que[2]
+        b[idx] = num
+    else:
+        count = 0
+        total = que[1]
+        for num in b:
+            if total-num in seta:
+                count += 1
+        res.append(count)
+print(res)
+```
+
+
+
+## Cut Pork
+
+Ex.
+Input: A = [1, 2, 3, 4, 9], k = 5
+Output: 3
+
+Explanat‍‌‌‍‌‌‍‍‍‌‌‍‌‌‍‍‍‌‌ion:
+if size = 1, then we have 19 parts
+if seize = 2, then we have 8 parts
+if size = 3, then we have 5 parts
+if size = 4, then we have 3 parts, which is not enough.
+So return the max size = 3.
+
+Sol.
+Use binary search to find the size of ribbon to reach the time limit.
+
+```python
+def calculate_count(size):
+    count = 0
+    for pork in A:
+        count += pork // size
+    return count
+
+
+A = [3,3,6,6]
+k = 4
+totalLength = sum(A)
+st = 1
+ed = totalLength // k
+while st < ed:
+    mid = (st + ed + 1)//2
+    count = calculate_count(mid)
+    if count >= k:
+        st = mid
+    elif count < k:
+        ed = mid - 1
+print(st)
+```
+
+
+
+## If two strings are close enough.
+
+Given two rules to define two strings are close enough.
+
+1. you can swap neighbor char any times. Ex. "abb" -> "bba"
+2. If two strings have the same character, then you can change the character into another.
+    Ex. If both strings contain "a" and "b", you can change all "a"s in the first string or change all "b"s in the first string. same as the second string
+Ex.
+Input: S1 = "babzccc", S2 = "abbzczz"
+Output: True
+Sol.
+Use a dictionary to record the frequency of characters.
+Remove the same part in dictionaries
+try to find the pair that have different character but with the same frequency
+
+```python
+s1 = "babzcck"
+s2 = "abbzczz"
+record1 = {}
+record2 = {}
+chrset = set(ch for ch in s1)
+length = len(s1)
+if length != len(s2):
+    print(False)
+for ch in s1:
+    record1[ch] = record1.get(ch, 0) + 1
+for ch in s2:
+    record2[ch] = record2.get(ch, 0) + 1
+
+for ch in chrset:
+    if ch not in record1 and ch not in record2:
+        continue
+    if ch in record1 and ch in record2:
+        count1 = record1[ch]
+        count2 = record2[ch]
+        if count1 == count2:
+            record1.pop(ch)
+            record2.pop(ch)
+        else:
+            flag = False
+            for ch2 in record2:
+                if record2.get(ch2, 0) == count1 and record1.get(ch2,0) == count2:
+                    flag = True
+                    record1.pop(ch)
+                    record1.pop(ch2)
+                    record2.pop(ch)
+                    record2.pop(ch2)
+                    break
+            if not flag:
+                print("False")
+                break
+    else:
+        print("False")
+print("True")
+```
+
