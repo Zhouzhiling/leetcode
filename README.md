@@ -3804,12 +3804,38 @@ quicksort这么多bug好意思吗你....
 
 
 
+## 9.21
+
+[⭐] 518. Coin Change 2
+
+如何避免重复组合的？？？
+
+[✅] 520. Detect Capital
+
+[✅] 524. Longest Word in Dictionary through Deleting
+
+`` nums[st:ed].sort()``这种方式没法给sublist排序。
+
+``d.sort(key = lambda x: (-len(x),x))``可以首先按照字符串的长度降序排，长度相同的时候按照字典升序排！
+
+[⭐] 525. Contiguous Array
+
+机智
+
+[⭐] 526. Beautiful Arrangement
+
+递归
+
+
+
+
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] [Quora]mergeStrings
+[✅] 524. Longest Word in Dictionary through Deleting
 
-[⭐] 516. Longest Palindromic Subsequence
+[⭐] 526. Beautiful Arrangement
