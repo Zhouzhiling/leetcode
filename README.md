@@ -3828,7 +3828,43 @@ quicksort这么多bug好意思吗你....
 
 
 
+## 9.22
 
+[⭐] 527. Word Abbreviation
+
+`` random.randint(1,3)``中取随机数的时候，1，2，3都能取到，前后是闭的。
+
+[✅] 528. Random Pick with Weight
+
+[⭐] 532. K-diff Pairs in an Array
+
+打星熟悉一下counter的用法。
+
+[✅] 536. Construct Binary Tree from String
+
+> unicode可以用isnumeric()，普通的只能用isdigit()
+>
+> 括号brackets，异或Exclusive or，
+>
+> 五除以三的余数 The remainder of five divided by three
+
+[✅] 537. Complex Number Multiplication
+
+[✅] 538. Convert BST to Greater Tree
+
+[✅] 539. Minimum Time Difference
+
+[⭐] 155. Min Stack
+
+[⭐] 399. Evaluate Division
+
+麻烦但不难的，图的遍历还是要熟悉的。
+
+[✅] 163. Missing Ranges
+
+[⭐] 540. Single Element in a Sorted Array
+
+思路对，但写的不熟练，错了好多次。
 
 ---
 
@@ -3836,6 +3872,6 @@ quicksort这么多bug好意思吗你....
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 524. Longest Word in Dictionary through Deleting
+[✅] 163. Missing Ranges
 
-[⭐] 526. Beautiful Arrangement
+[⭐] 540. Single Element in a Sorted Array
