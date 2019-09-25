@@ -3866,12 +3866,64 @@ quicksort这么多bug好意思吗你....
 
 思路对，但写的不熟练，错了好多次。
 
+
+
+## 9.23
+
+[⭐] 95. Unique Binary Search Trees II
+
+在干嘛？
+
+[✅] 541. Reverse String II
+
+```python
+chrs[st:ed] = reversed(chrs[st:ed])
+```
+
+
+
+[✅] 542. 01 Matrix
+
+[✅] 543. Diameter of Binary Tree
+
+[⭐] 410. Split Array Largest Sum
+
+二分法，很多坑，很好用，想一下。
+
+[✅] 545. Boundary of Binary Tree
+
+
+
+## 9.24
+
+[✅] 904. Fruit Into Baskets
+
+[✅] 929. Unique Email Addresses
+
+[⭐] 975. Odd Even Jump
+
+[⭐] 857. Minimum Cost to Hire K Workers
+
+[⭐] 947. Most Stones Removed with Same Row or Column
+
+太难了，真的不会。。。
+
+[✅] 222. Count Complete Tree Nodes
+
+[⭐] 833. Find And Replace in String
+
+就一个点不对！最后的一截要记得加上！
+
+[⭐] 939. Minimum Area Rectangle
+
+啊哈O(n2)就超时了
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 163. Missing Ranges
+[✅] 833. Find And Replace in String
 
-[⭐] 540. Single Element in a Sorted Array
+[⭐] 939. Minimum Area Rectangle
