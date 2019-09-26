@@ -3918,12 +3918,42 @@ chrs[st:ed] = reversed(chrs[st:ed])
 
 啊哈O(n2)就超时了
 
+
+
+## 9.25
+
+[⭐] 777. Swap Adjacent in LR String
+
+思路大概是有的，但是没想到这么简洁的方法。
+
+[✅] 299. Bulls and Cows
+
+[⭐] [253. Meeting Rooms II 会议室之二](https://www.cnblogs.com/grandyang/p/5244720.html)
+
+机智。
+
+[⭐] 135. Candy
+
+很久前做过，这次有思路但是还是有点没想到。
+
+
+
+[✅] 809. Expressive Words
+
+[✅] 849. Maximize Distance to Closest Person
+
+头尾边界注意一下，别的没有问题。
+
+[✅] 562.Longest Line of Consecutive One in Matrix
+
+[⭐] 1057.Campus Bikes
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 833. Find And Replace in String
+[✅] 562.Longest Line of Consecutive One in Matrix
 
-[⭐] 939. Minimum Area Rectangle
+[⭐] 1057.Campus Bikes
