@@ -3948,12 +3948,22 @@ chrs[st:ed] = reversed(chrs[st:ed])
 
 [⭐] 1057.Campus Bikes
 
+
+
+## 9.26
+
+[✅❌] Google Interview Document
+
+不同步传输的版本写出来了，同步的是不对的。
+
+[✅] 900. RLE Iterator
+
 ---
 
 
 
 [❌] 440. K-th Smallest in Lexicographical Order
 
-[✅] 562.Longest Line of Consecutive One in Matrix
+[✅] 900. RLE Iterator
 
 [⭐] 1057.Campus Bikes
