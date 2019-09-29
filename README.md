@@ -3958,12 +3958,61 @@ chrs[st:ed] = reversed(chrs[st:ed])
 
 [✅] 900. RLE Iterator
 
+
+
+## 9.27
+
+facebook的题
+
+[⭐] 273. Integer to English Words
+
+[❌] 301. Remove Invalid Parentheses
+
+
+
+## 9.28
+
+[✅] 297. Serialize and Deserialize Binary Tree
+
+用括号的方法重新写了一遍，可！
+
+[⭐] 621. Task Scheduler
+
+认真想能想到。
+
+[⭐] 560. Subarray Sum Equals K
+
+佛了，思路太绝了。
+
+[✅] 426. Convert Binary Search Tree to Sorted Doubly Linked List
+
+[⭐] 282. Expression Add Operators
+
+[✅] 238. Product of Array Except Self
+
+
+
+## 9.29
+
+[✅] 314. Binary Tree Vertical Order Traversal
+
+[⭐] 158 Read N Characters Given Read4 II.py
+
+
+
+
+
+
+
 ---
 
 
 
-[❌] 440. K-th Smallest in Lexicographical Order
+[❌] 301. Remove Invalid Parentheses
 
-[✅] 900. RLE Iterator
+[✅] 314. Binary Tree Vertical Order Traversal
 
-[⭐] 1057.Campus Bikes
+[⭐] 158 Read N Characters Given Read4 II.py
+
+
+  
