@@ -3996,11 +3996,76 @@ facebook的题
 
 [✅] 314. Binary Tree Vertical Order Traversal
 
-[⭐] 158 Read N Characters Given Read4 II.py
+[❌] 158 Read N Characters Given Read4 II.py
 
+[⭐] 211. Add and Search Word - Data structure design
 
+trie node了解一下咯！
 
+[⭐] 269. Alien Dictionary 另类字典
 
+一开始是 没想到topological sort的思路转换，想到之后可写，但仍然没能bugfree。
+
+[✅] 680. Valid Palindrome II
+
+简单！
+
+[✅] 278. First Bad Version
+
+[✅] 173. Binary Search Tree Iterator
+
+[⭐] 124. Binary Tree Maximum Path Sum
+
+不难但tricky！想下left and right is negative的情况怎么处理比较简洁（且不bug！）
+
+[⭐] 785. Is Graph Bipartite?
+
+自己有思路，但是不太对也不够好，要优化。
+
+[✅] 31. Next Permutation
+
+写过，有思路，不难。
+
+[⭐⭐] 523. Continuous Subarray Sum
+
+我靠其实这么简单的题，东拼西补错误提交了6次，别干了...
+
+[✅] 953. Verifying an Alien Dictionary
+
+[✅] 121. Best Time to Buy and Sell Stock
+
+简单题
+
+[⭐] 76. Minimum Window Substring
+
+框架和思路都对，template也记得，有一点是更新res的句子放在哪里比较合适？？？
+
+[⭐] 15. 3Sum
+
+看了之前的解法。三个指针，注意避免重复就可以。
+
+[✅] 304. Range Sum Query 2D - Immutable
+
+[✅] 438. Find All Anagrams in a String
+
+[✅] 543. Diameter of Binary Tree
+
+[✅] 56. Merge Intervals
+
+[⭐] 215. Kth Largest Element in an Array
+
+heap用法注意下。
+
+```python
+        h = []
+        for num in nums:
+            if len(h) < k:
+                heappush(h,num)
+                # print(h[0])
+            elif h[0] < num:
+                heappushpop(h,num)
+        return h[0]
+```
 
 
 
@@ -4010,9 +4075,8 @@ facebook的题
 
 [❌] 301. Remove Invalid Parentheses
 
-[✅] 314. Binary Tree Vertical Order Traversal
+[✅] 56. Merge Intervals
 
-[⭐] 158 Read N Characters Given Read4 II.py
+[⭐] 215. Kth Largest Element in an Array
 
 
-  
