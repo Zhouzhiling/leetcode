@@ -4069,14 +4069,54 @@ heap用法注意下。
 
 
 
+## 9.30
+
+[⭐] 689. Maximum Sum of 3 Non-Overlapping Subarrays
+
+也太难了吧orz，一步步慢慢写，很多很多坑。
+
+[⭐] 317.Shortest Distance from All Buildings
+
+dfs递归容易写，但需要多次修改值，TLE。看了discussion之后改用bfs迭代，麻烦些但是很快。都要会。
+
+[✅] 636. Exclusive Time of Functions
+
+start的timestamp表示当前秒的开始，end的timestamp表示当前秒的结束，神奇。
+
+[⭐] 236. Lowest Common Ancestor of a Binary Tree
+
+绝了
+
+[✅] 143. Reorder List
+
+[✅] 23. Merge k Sorted Lists
+
+维护一个最小堆就很飞速了。以及如果要让heap按照listnode的value排序，还是需要一个tuple，输入(node.val, node)的形式。
+
+[✅] 257. Binary Tree Paths
+
+[✅] 133. Clone Graph
+
+倒也不难，一次过。
+
+[✅⭐] 98. Validate Binary Search Tree
+
+iteration一次过，recursion想了一下。都需。
+
+[✅] 29. Divide Two Integers
+
+[✅] 973. K Closest Points to Origin
+
+
+
 ---
 
 
 
 [❌] 301. Remove Invalid Parentheses
 
-[✅] 56. Merge Intervals
+[✅] 973. K Closest Points to Origin
 
-[⭐] 215. Kth Largest Element in an Array
+[✅⭐] 98. Validate Binary Search Tree
 
 
