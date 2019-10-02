@@ -4109,14 +4109,56 @@ iteration一次过，recursion想了一下。都需。
 
 
 
+## 10.1
+
+[✅] 91. Decode Ways
+
+[✅] 251. Flatten 2D Vector
+
+[✅] 33. Search in Rotated Sorted Array
+
+[❌] 65. Valid Number
+
+这啥傻子题目啊我靠
+
+[✅] 200. Number of Islands
+
+[✅] 349. Intersection of Two Arrays
+
+一行，行。
+
+[⭐] 162. Find Peak Element
+
+只要找到存在的一个下标即可，所以更改st和ed的条件比较宽松。
+
+[✅] 199. Binary Tree Right Side View
+
+毫无难度，层次遍历一次即可。
+
+[✅⭐] 674. Longest Continuous Increasing Subsequence
+
+intuitive很容易过，但可以想下怎么提速（5%👉95%）
+
+[⭐] 146. LRU Cache
+
+满分标准答案，double linked list
+
+[⭐] 721. Accounts Merge
+
+这个dfs用的很绝，思路有方向，但是具体想半天没想到。
+
+[✅] 340. Longest Substring with At Most K Distinct Characters
+
+
+
 ---
 
 
 
-[❌] 301. Remove Invalid Parentheses
+[❌] 65. Valid Number
 
-[✅] 973. K Closest Points to Origin
+[✅] 340. Longest Substring with At Most K Distinct Characters
 
-[✅⭐] 98. Validate Binary Search Tree
+[⭐] 721. Accounts Merge
 
 
