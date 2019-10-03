@@ -4187,14 +4187,30 @@ easy但没bugfree，看清题目请。
 
 
 
+## 10.3
+
+[✅] 824. Goat Latin
+
+[⭐] 277. Find the Celebrity
+
+[✅] 567. Permutation in String
+
+ed更新时机注意一下，别的没啥。
+
+[⭐] 708. Insert into a Cyclic Sorted List
+
+三种插入情况，少了一种于是死循环了。
+
+
+
 ---
 
 
 
 [❌] 336. Palindrome Pairs
 
-[✅] 1042. Flower Planting With No Adjacent
+[✅] 567. Permutation in String
 
-[⭐] 350. Intersection of Two Arrays II
+[⭐] 708. Insert into a Cyclic Sorted List
 
 
