@@ -4151,14 +4151,50 @@ intuitive很容易过，但可以想下怎么提速（5%👉95%）
 
 
 
+## 10.2
+
+[❌] 336. Palindrome Pairs
+
+太难了看了半个小时没看懂，先跳过...
+
+[✅] 43. Multiply Strings
+
+[⭐] 283. Move Zeroes
+
+easy但没bugfree，看清题目请。
+
+[⭐] 114. Flatten Binary Tree to Linked List
+
+写了递归和迭代，但这种是我想不到的方法。
+
+[✅] 25. Reverse Nodes in k-Group
+
+链表可能是我唯一比较有把握写出来的hard题了。
+
+[⭐] 350. Intersection of Two Arrays II
+
+题不难，可熟悉下counter的操作和用法。
+
+[✅] 34. Find First and Last Position of Element in Sorted Array
+
+[✅] 347. Top K Frequent Elements
+
+[✅] 896. Monotonic Array
+
+[✅] 1042. Flower Planting With No Adjacent
+
+有点繁琐，但也不难，DFS一次过。
+
+
+
 ---
 
 
 
-[❌] 65. Valid Number
+[❌] 336. Palindrome Pairs
 
-[✅] 340. Longest Substring with At Most K Distinct Characters
+[✅] 1042. Flower Planting With No Adjacent
 
-[⭐] 721. Accounts Merge
+[⭐] 350. Intersection of Two Arrays II
 
 
