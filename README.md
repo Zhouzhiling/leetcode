@@ -4201,7 +4201,15 @@ ed更新时机注意一下，别的没啥。
 
 三种插入情况，少了一种于是死循环了。
 
+[✅] 622. Design Circular Queue
 
+基础数据结构
+
+[✅] 139. Word Break
+
+一次过，做太多次了
+
+[✅] 17. Letter Combinations of a Phone Number
 
 ---
 
@@ -4209,7 +4217,7 @@ ed更新时机注意一下，别的没啥。
 
 [❌] 336. Palindrome Pairs
 
-[✅] 567. Permutation in String
+[✅] 17. Letter Combinations of a Phone Number
 
 [⭐] 708. Insert into a Cyclic Sorted List
 
