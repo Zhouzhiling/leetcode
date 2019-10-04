@@ -4211,11 +4211,19 @@ ed更新时机注意一下，别的没啥。
 
 [✅] 17. Letter Combinations of a Phone Number
 
+
+
+
+
+[❌] 300. Longest Increasing Subsequence
+
+
+
 ---
 
 
 
-[❌] 336. Palindrome Pairs
+[❌] 300. Longest Increasing Subsequence
 
 [✅] 17. Letter Combinations of a Phone Number
 
