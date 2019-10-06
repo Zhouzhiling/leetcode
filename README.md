@@ -4213,11 +4213,43 @@ ed更新时机注意一下，别的没啥。
 
 
 
+## 10.5
 
+[❌⭐] 300. Longest Increasing Subsequence
 
-[❌] 300. Longest Increasing Subsequence
+方法绝了
 
+[✅] 865. Smallest Subtree with all the Deepest Nodes
 
+[✅] 477. Total Hamming Distance
+
+[✅] 138. Copy List with Random Pointer
+
+[⭐] 825. Friends Of Appropriate Ages
+
+有点绕，但不难。关于如何减少重复计算。
+
+[⭐] 239. Sliding Window Maximum
+
+这题看一次懵一次。每次都想不到这个解法，放弃辽。
+
+[✅] 32. Longest Valid Parentheses
+
+[⭐] 398. Random Pick Index
+
+经典的随机采样方法，绝了。
+
+``randint(0,count)``的取样空间是``[0, count]``，左右都闭。
+
+[✅] 5216. Count Vowels Permutation
+
+[✅] 5215. Path with Maximum Gold
+
+[✅] 5214. Longest Arithmetic Subsequence of Given Difference
+
+[✅] 5213. Play with Chips
+
+以上四道是leetcode周竞赛，题都不难，40min完成。
 
 ---
 
@@ -4225,8 +4257,8 @@ ed更新时机注意一下，别的没啥。
 
 [❌] 300. Longest Increasing Subsequence
 
-[✅] 17. Letter Combinations of a Phone Number
+[✅] 5213. Play with Chips
 
-[⭐] 708. Insert into a Cyclic Sorted List
+[⭐] 398. Random Pick Index
 
 
