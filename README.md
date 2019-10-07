@@ -4251,14 +4251,80 @@ ed更新时机注意一下，别的没啥。
 
 以上四道是leetcode周竞赛，题都不难，40min完成。
 
+[✅] Twitter. Partitioning Array
+
+[✅] Twitter. Buying Show Tickets
+
+[✅] Twitter. Final Discounted Price
+
+[✅] Twitter. Twitter Social Network
+
+以上四道是twitter OA，题都不难，50min完成。
+
+
+
+## 10.6
+
+[⭐] 419. Battleships in a Board
+
+dfs也能做但比较慢，太机智了这方法。
+
+[✅] 8. String to Integer (atoi)
+
+[✅] 13. Roman to Integer
+
+[✅] 548. Split Array with Equal Sum
+
+[✅] 791. Custom Sort String
+
+[✅] 329. Longest Increasing Path in a Matrix
+
+[✅] 387. First Unique Character in a String
+
+[❌] 564. Find the Closest Palindrome
+
+不想做
+
+[⭐] 632. Smallest Range Covering Elements from K Lists
+
+[✅] 986. Interval List Intersections
+
+啊哈两指针一次过（intersection看起来比union容易很多）
+
+[⭐⭐] 332. Reconstruct Itinerary
+
+三次了还是不会，哭
+
+[✅] 5. Longest Palindromic Substring
+
+[⭐] 494. Target Sum
+
+DP！！
+
+[⭐] 658. Find K Closest Elements
+
+思路对，有几处小失误没bug free。
+
+[✅] 266. Palindrome Permutation 回文全排列
+
+没有难度
+
+[✅] 3. Longest Substring Without Repeating Characters
+
+做了十几次类似题了再错了说不过去了
+
+
+
+
+
 ---
 
 
 
-[❌] 300. Longest Increasing Subsequence
+[❌] 564. Find the Closest Palindrome
 
-[✅] 5213. Play with Chips
+[✅] 3. Longest Substring Without Repeating Characters
 
-[⭐] 398. Random Pick Index
+[⭐] 658. Find K Closest Elements
 
 
