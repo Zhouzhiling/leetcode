@@ -4315,16 +4315,44 @@ DP！！
 
 
 
+## 10.7
+
+[✅] 408. valid word abbreviation
+
+数字可能是一位以上的。别的没问题。
+
+[✅] 270. Closest Binary Search Tree Value
+
+[✅] 71. Simplify Path
+
+[⭐] 75. Sort Colors
+
+啊有坑！停止的条件！
+
+[✅] 153. Find Minimum in Rotated Sorted Array
+
+[⭐] 227. Basic Calculator II
+
+写了一半网断了。重写。
+
+[⭐] 1209. Remove All Adjacent Duplicates in String II
+
+[✅] 1208. Get Equal Substrings Within Budget
+
+[❌] 1210. Minimum Moves to Reach Target with Rotations
+
+这题有毒？？
+
 
 
 ---
 
 
 
-[❌] 564. Find the Closest Palindrome
+[❌] 1210. Minimum Moves to Reach Target with Rotations
 
-[✅] 3. Longest Substring Without Repeating Characters
+[✅] 1208. Get Equal Substrings Within Budget
 
-[⭐] 658. Find K Closest Elements
+[⭐] 227. Basic Calculator II
 
 
