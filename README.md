@@ -4345,14 +4345,36 @@ DP！！
 
 
 
+## 10.8
+
+[⭐] 227. Basic Calculator II
+
+重写了版。方法挺巧妙的。注意除法取整的时候往0的地方取，所以正负数取整方法不同。
+
+[✅] 207. Course Schedule
+
+经典图问题
+
+[✅] 92. Reverse Linked List II
+
+[✅] 445. Add Two Numbers II
+
+[✅⭐] 116. Populating Next Right Pointers in Each Node
+
+会写level order stack的方法，但空间是O(n)。新写了discussion里面空间O(1)的方法，绝。
+
+
+
+
+
 ---
 
 
 
 [❌] 1210. Minimum Moves to Reach Target with Rotations
 
-[✅] 1208. Get Equal Substrings Within Budget
+[✅] 116. Populating Next Right Pointers in Each Node
 
-[⭐] 227. Basic Calculator II
+[⭐] 116. Populating Next Right Pointers in Each Node
 
 
