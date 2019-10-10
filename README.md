@@ -4365,6 +4365,24 @@ DP！！
 
 
 
+## 10.9
+
+[⭐] 57. Insert Interval
+
+简单的hard题，三遍过的，反思一下？
+
+[✅] 452. Minimum Number of Arrows to Burst Balloons
+
+[⭐] 394. Decode String
+
+还是有点复杂的一道题，注意下。
+
+[⭐] 694. Number of Distinct Islands 不同岛屿的个数
+
+不太聪明的方法（好像discussion里面也是这么写的，妥！）
+
+
+
 
 
 ---
@@ -4373,8 +4391,8 @@ DP！！
 
 [❌] 1210. Minimum Moves to Reach Target with Rotations
 
-[✅] 116. Populating Next Right Pointers in Each Node
+[✅] 452. Minimum Number of Arrows to Burst Balloons
 
-[⭐] 116. Populating Next Right Pointers in Each Node
+[⭐] 694. Number of Distinct Islands 不同岛屿的个数
 
 
