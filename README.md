@@ -4383,16 +4383,54 @@ DP！！
 
 
 
+## 10.10
+
+[✅] 78. Subsets
+
+[✅] 148. Sort List
+
+mergesort的链表版本
+
+[✅] 380. Insert Delete GetRandom O(1)
+
+set和list一起用，很机智。
+
+[❌] 432. All O`one Data Structure
+
+打扰了，两百行我不信面试会出
+
+[✅] 230. Kth Smallest Element in a BST
+
+[⭐] 296. Best Meeting Point 最佳开会地点
+
+[✅] 403. Frog Jump
+
+能用table[list]的方法，通常用二维数组也能解决
+
+
+
+[⭐] 416. Partition Equal Subset Sum
+
+DP好用！nice！
+
+[⭐] 126. Word Ladder II
+
+[✅] 128. Longest Consecutive Sequence
+
+
+
+
+
 
 
 ---
 
 
 
-[❌] 1210. Minimum Moves to Reach Target with Rotations
+[❌] 432. All O`one Data Structure
 
-[✅] 452. Minimum Number of Arrows to Burst Balloons
+[✅] 128. Longest Consecutive Sequence
 
-[⭐] 694. Number of Distinct Islands 不同岛屿的个数
+[⭐] 126. Word Ladder II
 
 
