@@ -4419,7 +4419,43 @@ DP好用！nice！
 
 
 
+## 10.11
 
+[✅⭐] 378. Kth Smallest Element in a Sorted Matrix
+
+暴力遍历可以，但很慢。BFS很好用，注意下visited = True的时机就可。
+
+[✅] 430. Flatten a Multilevel Doubly Linked List
+
+用个stack很方便。注意需要child置None，然后prev也要维护。
+
+以上是facebook的题目，结果先接到了microsoft的电面，ok先换个题库继续。
+
+[⭐] Amazon. Min Cost to Connect Ropes
+
+有了思路就很简单
+
+[✅] Amazon. 937. Reorder Data in Log Files
+
+[✅] Amazon. Treasure Island
+
+[✅] Amazon | OA 2019 | Treasure Island II
+
+[⭐] Amazon. Movies on Flight
+
+星星一下，要返回下标所以sort的时候要连着index一起。
+
+[✅] Amazon. 138. Copy List with Random Pointer
+
+递归也太神仙了。
+
+[⭐] 572. Subtree of Another Tree
+
+很简单的题，和Quora面试几乎一个意思。注意下保持树的连续性。
+
+[⭐] 240. Search a 2D Matrix II
+
+就，写了nlog(n)的方法，和log(n)log(n)比较了一下，速度也差不多。nlog(n)遍历到中间如果发现nums的开头已经比target大了，直接break了return false就可以。
 
 
 
@@ -4429,8 +4465,8 @@ DP好用！nice！
 
 [❌] 432. All O`one Data Structure
 
-[✅] 128. Longest Consecutive Sequence
+[✅] 138. Copy List with Random Pointer
 
-[⭐] 126. Word Ladder II
+[⭐] 240. Search a 2D Matrix II
 
 
