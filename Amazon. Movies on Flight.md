@@ -47,7 +47,6 @@ def MoviesFlight(md, d):
             if cur > cursum:
                 cursum = cur
                 res = [md[st][1], md[ed][1]]
-            else:
                 st += 1
         elif cur > d:
             ed -= 1

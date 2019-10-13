@@ -4429,7 +4429,7 @@ DP好用！nice！
 
 用个stack很方便。注意需要child置None，然后prev也要维护。
 
-以上是facebook的题目，结果先接到了microsoft的电面，ok先换个题库继续。
+以上是facebook的题目，结果先接到了Amazon的OA，ok先换个题库继续。
 
 [⭐] Amazon. Min Cost to Connect Ropes
 
@@ -4459,14 +4459,87 @@ DP好用！nice！
 
 
 
+## 10.12
+
+[⭐⭐] 1192. Critical Connections in a Network
+
+硬背一下，没太看懂Tarjan那个方法。
+
+[✅] Amazon  OA 2019  Favorite Genres
+
+这个没啥难度，就注意一下不是所有歌都有genre的，多一个if判断。以及最后找maxvalue的时候也需要判断一下是不是空。
+
+[✅] Amazon  OA 2019  Two Sum - Unique Pairs
+
+[✅] Amazon  OA 2019  59. Spiral Matrix II
+
+[⭐] Amazon | OA 2019 | Substrings with exactly K distinct chars
+
+是要计数而不是找最长，不能用two pointers的方法。
+
+[✅] Amazon  OA 2019  Path With Maximum Score
+
+DP并不难，同时可以在input处直接修改，这样空间复杂度就是O(1)了
+
+[✅] Amazon  OA 2019  5. Longest Palindromic Substring
+
+做过很多次。
+
+[⭐] Amazon | OA 2019 | 819. Most Common Word
+
+counter好用，以及正则替换：
+
+```python
+paragraph = re.sub(r'[^a-zA-z]',' ', paragraph)
+```
+
+[⭐] Amazon | OA 2019 | Distance Between Nodes in BST
+
+很多技巧，tree的插入，node距离的计算
+
+
+
+[✅] Amazon  OA 2019  973. K Closest Points to Origin
+
+minheap做，不难。以及如果要节约空间的话，正确写法是heappushpop，先push，再pop。
+
+
+
+[❌] Amazon | OA 2019 | Min Cost to Connect All Nodes
+
+又是连通图问题，太难了我脑子转不动了。
+
+
+
+[⭐] Amazon | OA 2019 | 957. Prison Cells After N Days
+
+找循环的规律。
+
+
+
+[✅] Amazon  OA 2019  763. Partition Labels
+
+很妙的一道题。
+
+
+
+[❌] Amazon | OA 2019 | Subtree with Maximum Average
+
+
+
+```python
+# import sys
+# sys.setrecursionlimit(10 ** 6)
+```
+
 ---
 
 
 
-[❌] 432. All O`one Data Structure
+[❌] Amazon | OA 2019 | Subtree with Maximum Average
 
-[✅] 138. Copy List with Random Pointer
+[✅] Amazon  OA 2019  763. Partition Labels
 
-[⭐] 240. Search a 2D Matrix II
+[⭐] Amazon | OA 2019 | 957. Prison Cells After N Days
 
 
