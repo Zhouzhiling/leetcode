@@ -4525,12 +4525,30 @@ minheap做，不难。以及如果要节约空间的话，正确写法是heappus
 
 [❌] Amazon | OA 2019 | Subtree with Maximum Average
 
-
-
 ```python
 # import sys
 # sys.setrecursionlimit(10 ** 6)
 ```
+
+
+
+## 10.13
+
+做了Amazon 的 OA3和Mathworks的OA。
+
+[✅] Mathworks | 1028. Recover a Tree From Preorder Traversal
+
+[⭐] Mathworks | 1130. Minimum Cost Tree From Leaf Values.md
+
+很强的做法
+
+[⭐] Mathworks | Traveling is Fun
+
+没学会，也懒，跳过。
+
+[✅] Mathworks | Reverse LinkedList
+
+
 
 ---
 
@@ -4538,8 +4556,8 @@ minheap做，不难。以及如果要节约空间的话，正确写法是heappus
 
 [❌] Amazon | OA 2019 | Subtree with Maximum Average
 
-[✅] Amazon  OA 2019  763. Partition Labels
+[✅] 1028. Recover a Tree From Preorder Traversal
 
-[⭐] Amazon | OA 2019 | 957. Prison Cells After N Days
+[⭐] Traveling is Fun
 
 
