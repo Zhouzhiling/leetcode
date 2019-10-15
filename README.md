@@ -4592,6 +4592,18 @@ python两行
 
 除了走一遍中序遍历的流程之外，还可以用递归或者迭代的方法。空间复杂度更低一些。
 
+
+
+## 10.15
+
+[⭐] 706. Design HashMap 
+
+用hashmap的原理实现。
+
+
+
+
+
 ---
 
 
@@ -4600,5 +4612,5 @@ python两行
 
 [✅] 443. String Compression 
 
-[⭐]  285. Inorder Successor in BST
+[⭐] 706. Design HashMap 
 
