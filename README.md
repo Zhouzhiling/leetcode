@@ -4550,14 +4550,55 @@ minheap做，不难。以及如果要节约空间的话，正确写法是heappus
 
 
 
+## 10.14
+
+以下是Microsoft的题。
+
+[✅] 151. Reverse Words in a String 
+
+python两行
+
+[✅] 103. Binary Tree Zigzag Level Order Traversal 
+
+[✅]  165. Compare Version Numbers 
+
+[⭐] 146. LRU Cache 
+
+双向链表，没有一次过。
+
+[⭐] 402. Remove K Digits 
+
+以前写的版本这次超时了，然后做了下优化。
+
+[✅] 445. Add Two Numbers II 
+
+[⭐] 253. Meeting Rooms II
+
+两种方法最好都会（一种是st和ed存两个数组然后双指针法（另一种是维护一个不同房间end time的数组
+
+[✅] 54. Spiral Matrix 
+
+[⭐] 122. Best Time to Buy and Sell Stock II 
+
+[⭐]  450. Delete Node in a BST 
+
+为什么bst的递归还不能一次过...
+
+[✅] 200. Number of Islands 
+
+[✅] 443. String Compression 
+
+[⭐]  285. Inorder Successor in BST
+
+除了走一遍中序遍历的流程之外，还可以用递归或者迭代的方法。空间复杂度更低一些。
+
 ---
 
 
 
 [❌] Amazon | OA 2019 | Subtree with Maximum Average
 
-[✅] 1028. Recover a Tree From Preorder Traversal
+[✅] 443. String Compression 
 
-[⭐] Traveling is Fun
-
+[⭐]  285. Inorder Successor in BST
 
