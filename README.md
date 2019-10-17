@@ -4602,6 +4602,12 @@ python两行
 
 
 
+## 10.16
+
+[✅] 894. All Possible Full Binary Trees 
+
+[✅] 面了Academia Edu的on campus，一道题加两个follow up，没啥难度。
+
 
 
 ---
@@ -4610,7 +4616,7 @@ python两行
 
 [❌] Amazon | OA 2019 | Subtree with Maximum Average
 
-[✅] 443. String Compression 
+[✅] 894. All Possible Full Binary Trees 
 
 [⭐] 706. Design HashMap 
 
