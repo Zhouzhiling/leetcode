@@ -4610,13 +4610,45 @@ python两行
 
 
 
+## 10.17
+
+[✅] 面了Riot Game的四道题，两道SQL两道Python，也不难。
+
+以下是Facebook的题目
+
+[✅] 987. Vertical Order Traversal of a Binary Tree 
+
+
+
+[⭐] 703. Kth Largest Element in a Stream 
+
+两次才bug free。考虑初始列表的长度不够k的情况，不是每次都需要pop的。
+
+
+
+[⭐] 480. Sliding Window Median 
+
+可以用没用过的bisect，或者二分查找。
+
+然后二分查找后插入是有坑的，想一下。
+
+
+
+[⭐] 688. Knight Probability in Chessboard 
+
+机智
+
+
+
+
+
 ---
 
 
 
 [❌] Amazon | OA 2019 | Subtree with Maximum Average
 
-[✅] 894. All Possible Full Binary Trees 
+[✅] 703. Kth Largest Element in a Stream 
 
-[⭐] 706. Design HashMap 
+[⭐]  \688. Knight Probability in Chessboard 
 
