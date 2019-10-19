@@ -4640,15 +4640,29 @@ python两行
 
 
 
+## 10.18
+
+[⭐] 918. Maximum Sum Circular Subarray 
+
+one pass的方法绝了。两端连通找max = 整段 - 最小
+
+[✅] 935. Knight Dialer 
+
+[✅] 392. Is Subsequence 
+
+[✅] 554. Brick Wall 
+
+
+
 
 
 ---
 
 
 
-[❌] Amazon | OA 2019 | Subtree with Maximum Average
+[❌]  \918. Maximum Sum Circular Subarray 
 
-[✅] 703. Kth Largest Element in a Stream 
+[✅] 554. Brick Wall 
 
 [⭐]  \688. Knight Probability in Chessboard 
 
