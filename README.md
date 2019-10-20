@@ -4654,15 +4654,69 @@ one pass的方法绝了。两端连通找max = 整段 - 最小
 
 
 
+## 10.19
+
+[✅] Facebook Balance Parentheses
+
+做过 一次过
+
+[✅] Facebook 953. Verifying an Alien Dictionary 
+
+做过 一次过
+
+[✅] Facebook 173. Binary Search Tree Iterator 
+
+和之前换了做法，不构造array存node了。
+
+[⭐] 282. Expression Add Operators 
+
+照样没写出来的hard，但经常问，背一背。
+
+[✅] Facebook  \29. Divide Two Integers 
+
+一开始没绕过来 两次过（移位更快
+
+[✅] Facebook 528. Random Pick with Weight 
+
+find the first element larger than or equal to the generated random number
+
+[✅] Facebook 987. Vertical Order Traversal of a Binary Tree
+
+level order traverse的时候手滑了一次，题也比较复杂，注意下都。
+
+[✅] 1094. Car Pooling 
+
+思路清晰一次过。和meeting room类似的题目
+
+[⭐] 347. Top K Frequent Elements 
+
+tip在于用``[-map[num], num]``实现max heap
+
+[✅] 865. Smallest Subtree with all the Deepest Nodes 
+
+[✅⭐] 609. Find Duplicate File in System 
+
+题不难，题后面的[follow up](https://leetcode.com/problems/find-duplicate-file-in-system/)比较难，要考虑下。
+
+[✅] 31. Next Permutation 
+
+思路清楚bugfree一次过。从一开始到现在做了可能有四五次了...
+
+
+
+
+
+
+
 
 
 ---
 
 
 
-[❌]  \918. Maximum Sum Circular Subarray 
+[❌] 918. Maximum Sum Circular Subarray 
 
-[✅] 554. Brick Wall 
+[✅] 31. Next Permutation 
 
-[⭐]  \688. Knight Probability in Chessboard 
+[⭐] 282. Expression Add Operators 
 
