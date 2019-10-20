@@ -4702,7 +4702,27 @@ tip在于用``[-map[num], num]``实现max heap
 
 思路清楚bugfree一次过。从一开始到现在做了可能有四五次了...
 
+[⭐] Facebook | Phone Screen | CSV Dinosaurs
 
+关于python怎么读文件，太久没写了记一记。
+
+```python
+with open(path, 'r') as f:
+    line = f.readline()
+    line = f.readline()
+    while line:
+        tmp = line.split(",")
+```
+
+
+
+[⭐] Facebook | 283. Move Zeroes 
+
+Keep origin sequence很重要。所以。
+
+[❓] [Facebook | Phone Screen | CSV Friends](https://leetcode.com/discuss/interview-question/392017/Facebook-or-Phone-Screen-or-CSV-Friends)
+
+这题很奇怪emmm，先跳一跳。
 
 
 
@@ -4718,5 +4738,5 @@ tip在于用``[-map[num], num]``实现max heap
 
 [✅] 31. Next Permutation 
 
-[⭐] 282. Expression Add Operators 
+[⭐] Facebook | Phone Screen | CSV Friends
 
