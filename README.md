@@ -4726,6 +4726,48 @@ Keep origin sequence很重要。所以。
 
 
 
+## 10.20
+
+[✅] [Power of Three](https://leetcode.com/explore/featured/card/top-interview-questions-easy/102/math/745/)
+
+[❌] 862. Shortest Subarray with Sum at Least K 
+
+超时了， 还没解决。
+
+[✅] 556. Next Greater Element III 
+
+步骤小麻烦，但解题思路和之前next permutation几乎一样
+
+[✅] 921. Minimum Add to Make Parentheses Valid
+
+[✅] 210. Course Schedule II 
+
+[✅] 319. Bulb Switcher 
+
+[⭐] 137. Single Number II 
+
+当时没想出来，现在也没想出来空间复杂度O(1)的方法。
+
+[✅] 46. Permutations 
+
+[⭐] 673. Number of Longest Increasing Subsequence
+
+方法绝了。
+
+[⭐] 208. Implement Trie (Prefix Tree) 
+
+结构的初定义方法熟悉一下，Trie的结构懂。
+
+[✅] 26. Remove Duplicates from Sorted Array 
+
+[✅] 443. String Compression 
+
+写出来了但改了三次才通过，比较麻烦注意下。
+
+[⭐] 752. Open the Lock 
+
+BFS好用。
+
 
 
 
@@ -4734,9 +4776,9 @@ Keep origin sequence很重要。所以。
 
 
 
-[❌] 918. Maximum Sum Circular Subarray 
+[❌] 862. Shortest Subarray with Sum at Least K 
 
-[✅] 31. Next Permutation 
+[✅] 443. String Compression 
 
-[⭐] Facebook | Phone Screen | CSV Friends
+[⭐] 752. Open the Lock 
 
