@@ -4768,6 +4768,16 @@ Keep origin sequence很重要。所以。
 
 BFS好用。
 
+[⭐] 14. Longest Common Prefix 
+
+改了三次，反思。
+
+[✅] 102. Binary Tree Level Order Traversal 
+
+[❌]  \341. Flatten Nested List Iterator 
+
+脑子不转了，放一放
+
 
 
 
@@ -4776,9 +4786,9 @@ BFS好用。
 
 
 
-[❌] 862. Shortest Subarray with Sum at Least K 
+[❌]  \341. Flatten Nested List Iterator 
 
-[✅] 443. String Compression 
+[✅] 102. Binary Tree Level Order Traversal 
 
-[⭐] 752. Open the Lock 
+[⭐]  \14. Longest Common Prefix 
 
