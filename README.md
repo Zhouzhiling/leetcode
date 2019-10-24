@@ -4780,6 +4780,56 @@ BFS好用。
 
 
 
+## 10.23
+
+下周on campus，以下是Uber的题。
+
+[✅] 977. Squares of a Sorted Array
+
+[⭐] 780. Reaching Points
+
+自己写的dp和bfs都超时了，discussion的方法很绝。
+
+[⭐] 465. Optimal Account Balancing 最优账户平衡
+
+hard题orz，太难了吧...
+
+[✅⭐] 128. Longest Consecutive Sequence 
+
+能用set转换的话其实不难，但是不知有没有别的限制。如果不用set的话还需要考虑挺多情况的。
+
+排序之后，重复的数字怎么操作。res需要每次都更新。
+
+[✅]  53. Maximum Subarray 
+
+O(N)可以解决的题不懂为什么一定要用又复杂又O(NlgN)的分治。
+
+不过都能写。
+
+[⭐] Uber Strange Pairs
+
+批了马甲的128，但是要记录个路径。写出来了但是磕磕绊绊的，面试估计就挂了orz（
+
+[✅] 112. Path Sum 
+
+递归迭代都可。
+
+[⭐]  Uber 486. Predict the Winner 
+
+方法太绝了吧。是递归，想下具体怎么写。
+
+[⭐] Uber Follow-up of 122. Best Time to Buy and Sell Stock II
+
+[✅]  4. Median of Two Sorted Arrays 
+
+为什么这题会是hard？难度到了吗？
+
+[✅] 1029. Two City Scheduling 
+
+可以，方法很机智。做过一次下次就会了（大概）。
+
+
+
 
 
 ---
@@ -4788,7 +4838,6 @@ BFS好用。
 
 [❌]  \341. Flatten Nested List Iterator 
 
-[✅] 102. Binary Tree Level Order Traversal 
+[✅] 1029. Two City Scheduling 
 
-[⭐]  \14. Longest Common Prefix 
-
+[⭐] 122. Best Time to Buy and Sell Stock II 
