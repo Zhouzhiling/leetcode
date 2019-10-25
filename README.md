@@ -4830,7 +4830,23 @@ O(N)可以解决的题不懂为什么一定要用又复杂又O(NlgN)的分治。
 
 
 
+## 10.24
 
+[✅] 127. Word Ladder 
+
+[✅] Uber Segerate Odd and Even
+
+[✅] 199. Binary Tree Right Side View 
+
+[✅] 235. Lowest Common Ancestor of a Binary Search Tree 
+
+[⭐] 560. Subarray Sum Equals K 
+
+[⭐] Number of subarrays having sum exactly equal to k
+
+这么常见的题还错是想怎样...
+
+然后quick sort和quick select也都熟悉一下
 
 ---
 
@@ -4838,6 +4854,6 @@ O(N)可以解决的题不懂为什么一定要用又复杂又O(NlgN)的分治。
 
 [❌]  \341. Flatten Nested List Iterator 
 
-[✅] 1029. Two City Scheduling 
+[✅] 235. Lowest Common Ancestor of a Binary Search Tree 
 
-[⭐] 122. Best Time to Buy and Sell Stock II 
+[⭐] Subarray Sum Equals K
