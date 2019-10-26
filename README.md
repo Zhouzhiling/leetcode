@@ -4848,12 +4848,28 @@ O(N)可以解决的题不懂为什么一定要用又复杂又O(NlgN)的分治。
 
 然后quick sort和quick select也都熟悉一下
 
+
+
+## 10.25
+
+[✅] \101. Symmetric Tree 
+
+[✅] 783. Minimum Distance Between BST Nodes
+
+[⭐⭐]  \212. Word Search II 
+
+很经典的trie用法。
+
+
+
+
+
 ---
 
 
 
 [❌]  \341. Flatten Nested List Iterator 
 
-[✅] 235. Lowest Common Ancestor of a Binary Search Tree 
+[✅] 783. Minimum Distance Between BST Nodes
 
-[⭐] Subarray Sum Equals K
+[⭐⭐]  \212. Word Search II 
