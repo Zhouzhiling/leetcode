@@ -4852,13 +4852,51 @@ O(N)可以解决的题不懂为什么一定要用又复杂又O(NlgN)的分治。
 
 ## 10.25
 
-[✅] \101. Symmetric Tree 
+[✅] 101. Symmetric Tree 
 
 [✅] 783. Minimum Distance Between BST Nodes
 
-[⭐⭐]  \212. Word Search II 
+[⭐⭐] 212. Word Search II 
 
-很经典的trie用法。
+很经典的trie用法。这边可以定义一个Trie Class，也可以直接用嵌套的map。速度的话后者快，但是前者更正规一些。
+
+过两天再写一次。
+
+
+
+## 10.26
+
+[⭐] 76. Minimum Window Substring 
+
+很久没练这类型的题了orz。
+
+[⭐] 1192. Critical Connections in a Network 
+
+太难了...还好OA没遇到...
+
+[✅] 973. K Closest Points to Origin 
+
+[⭐] 399. Evaluate Division 
+
+非常公式化的过程，建graph，找通路
+
+[✅] 451. Sort Characters By Frequency
+
+[✅] 427. Construct Quad Tree
+
+第一次做到的时候感觉太复杂就跳过了，今天看面经有问到这题就做了一下，倒也不难...
+
+[✅] 59. Spiral Matrix II 
+
+[✅] Uber Valid Matrix
+
+DFS这几天写吐了o(TヘTo)
+
+[✅] 300. Longest Increasing Subsequence 
+
+[✅] 46. Permutations 
+
+[⭐] 47. Permutations II 
 
 
 
@@ -4868,8 +4906,8 @@ O(N)可以解决的题不懂为什么一定要用又复杂又O(NlgN)的分治。
 
 
 
-[❌]  \341. Flatten Nested List Iterator 
+[❌] 341. Flatten Nested List Iterator 
 
-[✅] 783. Minimum Distance Between BST Nodes
+[✅]  \46. Permutations 
 
-[⭐⭐]  \212. Word Search II 
+[⭐] 47. Permutations II 
