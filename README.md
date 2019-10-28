@@ -4900,6 +4900,26 @@ DFS这几天写吐了o(TヘTo)
 
 
 
+## 10.27
+
+[✅] 1130. Minimum Cost Tree From Leaf Values 
+
+[⭐] Maximal value among shortest distances in a matrix
+
+是之前matlab的OA题，听说他们面试可能会复盘所以...!!
+
+这不就是最基础的BF+BFS吗我之前为什么看不懂....
+
+
+
+[✅] [253. Meeting Rooms II 会议室之二](https://www.cnblogs.com/grandyang/p/5244720.html)
+
+
+
+
+
+
+
 
 
 ---
@@ -4908,6 +4928,6 @@ DFS这几天写吐了o(TヘTo)
 
 [❌] 341. Flatten Nested List Iterator 
 
-[✅]  \46. Permutations 
+[✅] [253. Meeting Rooms II 会议室之二](https://www.cnblogs.com/grandyang/p/5244720.html)
 
-[⭐] 47. Permutations II 
+[⭐] Maximal value among shortest distances in a matrix
