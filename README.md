@@ -4916,6 +4916,32 @@ DFS这几天写吐了o(TヘTo)
 
 
 
+## 10.28
+
+[⭐] 31. Partition Array
+
+难度没有，注意下最后return的时候，如果当前所有数字都小于k，那需要另外+1
+
+这个corner case很多题我都不记得
+
+[✅] 88. Lowest Common Ancestor of a Binary Tree
+
+不是bst，遍历一下就可
+
+[✅] 532. Reverse Pairs
+
+[✅] 671. Second Minimum Node In a Binary Tree 
+
+[✅] 503. Next Greater Element II 
+
+[✅] 215. Kth Largest Element in an Array 
+
+minheap或者quick select都行. quick select还是有点不太熟，反思。
+
+[⭐] 322. Coin Change 
+
+DP就行。我一开始想着如果amount很大的话开不了那么大的数组，要不试试bfs。后来发现是多虑了，行。
+
 
 
 
@@ -4928,6 +4954,6 @@ DFS这几天写吐了o(TヘTo)
 
 [❌] 341. Flatten Nested List Iterator 
 
-[✅] [253. Meeting Rooms II 会议室之二](https://www.cnblogs.com/grandyang/p/5244720.html)
+[✅] 215. Kth Largest Element in an Array 
 
-[⭐] Maximal value among shortest distances in a matrix
+[⭐] 322. Coin Change 
