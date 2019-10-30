@@ -4774,7 +4774,7 @@ BFS好用。
 
 [✅] 102. Binary Tree Level Order Traversal 
 
-[❌]  \341. Flatten Nested List Iterator 
+[❌] 341. Flatten Nested List Iterator 
 
 脑子不转了，放一放
 
@@ -4792,7 +4792,7 @@ BFS好用。
 
 [⭐] 465. Optimal Account Balancing 最优账户平衡
 
-hard题orz，太难了吧...
+hard题orz，太难了吧... 10/28看了一眼之前的方法然后写出来的。
 
 [✅⭐] 128. Longest Consecutive Sequence 
 
@@ -4814,9 +4814,15 @@ O(N)可以解决的题不懂为什么一定要用又复杂又O(NlgN)的分治。
 
 递归迭代都可。
 
+
+
 [⭐]  Uber 486. Predict the Winner 
 
 方法太绝了吧。是递归，想下具体怎么写。
+
+递归想清楚了就不难，然后避免重复计算很重要，不然会超时。
+
+
 
 [⭐] Uber Follow-up of 122. Best Time to Buy and Sell Stock II
 
@@ -4942,6 +4948,28 @@ minheap或者quick select都行. quick select还是有点不太熟，反思。
 
 DP就行。我一开始想着如果amount很大的话开不了那么大的数组，要不试试bfs。后来发现是多虑了，行。
 
+[✅] 295. Find Median from Data Stream 
+
+[⭐] Amazon Find Median from Data Stream
+
+
+
+
+
+## 10.29
+
+[✅] 34. Find First and Last Position of Element in Sorted Array 
+
+Amazon VO的问题。
+
+[⭐] 472. Concatenated Words 
+
+很绝的方法，是亚麻高频。
+
+[⭐] 140. Word Break II 
+
+也是hard题
+
 
 
 
@@ -4954,6 +4982,6 @@ DP就行。我一开始想着如果amount很大的话开不了那么大的数组
 
 [❌] 341. Flatten Nested List Iterator 
 
-[✅] 215. Kth Largest Element in an Array 
+[✅] 34. Find First and Last Position of Element in Sorted Array 
 
-[⭐] 322. Coin Change 
+[⭐] 140. Word Break II 
