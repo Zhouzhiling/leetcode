@@ -4972,6 +4972,16 @@ Amazon VO的问题。
 
 
 
+## 10.30
+
+[✅] 697. Degree of an Array
+
+[✅] 49. Group Anagrams 
+
+[✅] 96. Unique Binary Search Trees 
+
+
+
 
 
 
@@ -4982,6 +4992,6 @@ Amazon VO的问题。
 
 [❌] 341. Flatten Nested List Iterator 
 
-[✅] 34. Find First and Last Position of Element in Sorted Array 
+[✅]  \96. Unique Binary Search Trees 
 
 [⭐] 140. Word Break II 
