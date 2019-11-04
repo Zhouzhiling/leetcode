@@ -4990,6 +4990,10 @@ Amazon VO的问题。
 
 
 
+## 11.2
+
+[✅] 1030. Matrix Cells in Distance Order
+
 
 
 ---
@@ -4998,6 +5002,6 @@ Amazon VO的问题。
 
 [❌] 341. Flatten Nested List Iterator 
 
-[✅] ByteDance_Video_Interview
+[✅] 1030. Matrix Cells in Distance Order
 
 [⭐] 140. Word Break II 
