@@ -4990,6 +4990,14 @@ Amazon VO的问题。
 
 
 
+## 11.1
+
+感谢贾凡凡的头像，找到实习了。
+
+和Leetcode挥手告别。
+
+ 
+
 ## 11.2
 
 [✅] 1030. Matrix Cells in Distance Order
