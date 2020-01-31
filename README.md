@@ -5004,12 +5004,18 @@ Amazon VO的问题。
 
 
 
+## 1.30
+
+[✅] Minimum steps to reach target by a Knight
+
+
+
 ---
 
 
 
 [❌] 341. Flatten Nested List Iterator 
 
-[✅] 1030. Matrix Cells in Distance Order
+[✅] Minimum steps to reach target by a Knight
 
 [⭐] 140. Word Break II 
