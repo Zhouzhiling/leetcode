@@ -5010,6 +5010,12 @@ Amazon VO的问题。
 
 
 
+## 2.4
+
+[⭐] Count Print Characters
+
+不是我写的，但是贡献了一丢丢思路
+
 ---
 
 
@@ -5018,4 +5024,4 @@ Amazon VO的问题。
 
 [✅] Minimum steps to reach target by a Knight
 
-[⭐] 140. Word Break II 
+[⭐] Count Print Characters
